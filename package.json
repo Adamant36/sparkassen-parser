@@ -1,7 +1,7 @@
 {
   "name": "sparkassen",
   "version": "1.0.0",
-  "description": "A simple script to fetch some data of German public savings banks",
+  "description": "Parse the Wikipedia table of all German Sparkassen into a JSON file",
   "main": "sparkassen.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
