@@ -1,0 +1,16 @@
+{
+  "name": "sparkassen",
+  "version": "1.0.0",
+  "description": "A simple script to fetch some data of German public savings banks",
+  "main": "sparkassen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ENT8R",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "jsdom": "^14.0.0",
+    "node-fetch": "^2.3.0",
+    "wikidata-sdk": "^5.16.1"
+  }
+}

@@ -1,0 +1,4069 @@
+[
+	{
+		"title": "Berliner Sparkasse",
+		"wikipedia": "de:Berliner Sparkasse",
+		"id": "Q821760",
+		"link": "https://de.wikipedia.org/wiki/Berliner_Sparkasse",
+		"countries": [
+			"DE-BE"
+		],
+		"amount": "98 (+ 49 SB)"
+	},
+	{
+		"title": "Sparkasse Hannover",
+		"wikipedia": "de:Sparkasse Hannover",
+		"id": "Q2307451",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hannover",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "96"
+	},
+	{
+		"title": "Sparkasse Aachen",
+		"wikipedia": "de:Sparkasse Aachen",
+		"id": "Q2307270",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Aachen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "91 (+ 6 SB)"
+	},
+	{
+		"title": "Städtische Sparkasse Offenbach am Main",
+		"wikipedia": "de:Städtische Sparkasse Offenbach am Main",
+		"id": "Q18334351",
+		"link": "https://de.wikipedia.org/wiki/St%C3%A4dtische_Sparkasse_Offenbach_am_Main",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "9 (+ 8 SB)"
+	},
+	{
+		"title": "Sparkasse Attendorn-Lennestadt-Kirchhundem",
+		"wikipedia": "de:Sparkasse Attendorn-Lennestadt-Kirchhundem",
+		"id": "Q18413109",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Attendorn-Lennestadt-Kirchhundem",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "9 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Altenburger Land",
+		"wikipedia": "de:Sparkasse Altenburger Land",
+		"id": "Q1650564",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Altenburger_Land",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "9 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Stade-Altes Land",
+		"aliases": [
+			"Sparkasse Stade–Altes Land",
+			"Sparkasse Stade - Altes Land"
+		],
+		"wikipedia": "de:Sparkasse Stade-Altes Land",
+		"id": "Q2307687",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Stade-Altes_Land",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "9 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Meschede",
+		"wikipedia": "de:Sparkasse Meschede",
+		"id": "Q18630935",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Meschede",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "9 (+ 3 SB)"
+	},
+	{
+		"title": "Kreissparkasse Vulkaneifel",
+		"wikipedia": "de:Kreissparkasse Vulkaneifel",
+		"id": "Q18628333",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Vulkaneifel",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "9 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Arnsberg-Sundern",
+		"wikipedia": "de:Sparkasse Arnsberg-Sundern",
+		"id": "Q2307278",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Arnsberg-Sundern",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "9 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Mecklenburg-Strelitz",
+		"wikipedia": "de:Sparkasse Mecklenburg-Strelitz",
+		"id": "Q996764",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mecklenburg-Strelitz",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "9 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse Burbach-Neunkirchen",
+		"wikipedia": "de:Sparkasse Burbach-Neunkirchen",
+		"id": "Q18630901",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Burbach-Neunkirchen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "9 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse Olpe-Drolshagen-Wenden",
+		"wikipedia": "de:Sparkasse Olpe-Drolshagen-Wenden",
+		"id": "Q18630947",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Olpe-Drolshagen-Wenden",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "9"
+	},
+	{
+		"title": "Kreissparkasse Kusel",
+		"wikipedia": "de:Kreissparkasse Kusel",
+		"id": "Q15824395",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Kusel",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "9"
+	},
+	{
+		"title": "Kyffhäusersparkasse Artern-Sondershausen",
+		"wikipedia": "de:Kyffhäusersparkasse Artern-Sondershausen",
+		"id": "Q18333732",
+		"link": "https://de.wikipedia.org/wiki/Kyffh%C3%A4usersparkasse_Artern-Sondershausen",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "9"
+	},
+	{
+		"title": "Sparkasse KölnBonn",
+		"wikipedia": "de:Sparkasse KölnBonn",
+		"id": "Q1681035",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_K%C3%B6lnBonn",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "87 (+ 101 SB)"
+	},
+	{
+		"title": "Sparkasse Leipzig",
+		"wikipedia": "de:Sparkasse Leipzig",
+		"id": "Q2307533",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Leipzig",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "85 (+ 50 SB)"
+	},
+	{
+		"title": "Landessparkasse zu Oldenburg",
+		"aliases": [
+			"LzO"
+		],
+		"wikipedia": "de:Landessparkasse zu Oldenburg",
+		"id": "Q1802620",
+		"link": "https://de.wikipedia.org/wiki/Landessparkasse_zu_Oldenburg",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "84 (+ 27 SB)"
+	},
+	{
+		"title": "Kreissparkasse Heilbronn",
+		"aliases": [
+			"KSK Heilbronn"
+		],
+		"wikipedia": "de:Kreissparkasse Heilbronn",
+		"id": "Q1787781",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Heilbronn",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "81 (+ 23 SB)"
+	},
+	{
+		"title": "Sparkasse Wittgenstein",
+		"wikipedia": "de:Sparkasse Wittgenstein",
+		"id": "Q2307728",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Wittgenstein",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "8 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Märkisches Sauerland Hemer–Menden",
+		"aliases": [
+			"Sparkasse Märkisches Sauerland",
+			"Sparkasse Märkisches Sauerland Hemer-Menden"
+		],
+		"wikipedia": "de:Sparkasse Märkisches Sauerland Hemer–Menden",
+		"id": "Q2307570",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_M%C3%A4rkisches_Sauerland_Hemer%E2%80%93Menden",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "8 (+ 4 SB)"
+	},
+	{
+		"title": "Kreissparkasse Halle (Westf.)",
+		"wikipedia": "de:Kreissparkasse Halle (Westf.)",
+		"id": "Q18628330",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Halle_(Westf.)",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "8 (+ 1 SB)"
+	},
+	{
+		"title": "Bordesholmer Sparkasse",
+		"aliases": [
+			"Sparkasse Bordesholm",
+			"Bordesholmer Sparkasse AG"
+		],
+		"wikipedia": "de:Bordesholmer Sparkasse",
+		"id": "Q893433",
+		"link": "https://de.wikipedia.org/wiki/Bordesholmer_Sparkasse",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "8 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse Uecker-Randow",
+		"wikipedia": "de:Sparkasse Uecker-Randow",
+		"id": "Q1686884",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Uecker-Randow",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "8 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse Wiesental",
+		"wikipedia": "de:Sparkasse Wiesental",
+		"id": "Q56070837",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Wiesental",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "8"
+	},
+	{
+		"title": "Sparkasse Westmünsterland",
+		"wikipedia": "de:Sparkasse Westmünsterland",
+		"id": "Q1567929",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Westm%C3%BCnsterland",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "79 (+ 21 SB)"
+	},
+	{
+		"title": "Stadtsparkasse München",
+		"aliases": [
+			"Sparkasse München"
+		],
+		"wikipedia": "de:Stadtsparkasse München",
+		"id": "Q1438593",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_M%C3%BCnchen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "75 (+ 66 SB)"
+	},
+	{
+		"title": "Kreissparkasse Esslingen-Nürtingen",
+		"wikipedia": "de:Kreissparkasse Esslingen-Nürtingen",
+		"id": "Q1492852",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Esslingen-N%C3%BCrtingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "72 (+ 36 SB)"
+	},
+	{
+		"title": "Kreissparkasse Ludwigsburg",
+		"aliases": [
+			"KSK Ludwigsburg",
+			"KSKLB"
+		],
+		"wikipedia": "de:Kreissparkasse Ludwigsburg",
+		"id": "Q1787791",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Ludwigsburg",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "72"
+	},
+	{
+		"title": "Sparkasse Nürnberg",
+		"wikipedia": "de:Sparkasse Nürnberg",
+		"id": "Q2307586",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_N%C3%BCrnberg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "71 (+ 24 SB)"
+	},
+	{
+		"title": "Kreissparkasse Garmisch-Partenkirchen",
+		"wikipedia": "de:Kreissparkasse Garmisch-Partenkirchen",
+		"id": "Q1787777",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Garmisch-Partenkirchen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "7 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Haslach-Zell",
+		"wikipedia": "de:Sparkasse Haslach-Zell",
+		"id": "Q26794526",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Haslach-Zell",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "7 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Hattingen",
+		"wikipedia": "de:Sparkasse Hattingen",
+		"id": "Q18630924",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hattingen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "7 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Finnentrop",
+		"wikipedia": "de:Sparkasse Finnentrop",
+		"id": "Q18630909",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Finnentrop",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "7"
+	},
+	{
+		"title": "Sparkasse Nördlingen",
+		"wikipedia": "de:Sparkasse Nördlingen",
+		"id": "Q1556466",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_N%C3%B6rdlingen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "7"
+	},
+	{
+		"title": "Sparkasse Bottrop",
+		"wikipedia": "de:Sparkasse Bottrop",
+		"id": "Q18630899",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bottrop",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "7"
+	},
+	{
+		"title": "Stadt- und Kreissparkasse Moosburg a.d. Isar",
+		"aliases": [
+			"Stadt- und Kreissparkasse Moosburg",
+			"Sparkasse Moosburg",
+			"Stadt- und Kreissparkasse Moosburg an der Isar",
+			"Stadt- und Kreissparkasse Moosburg a. d. Isar"
+		],
+		"wikipedia": "de:Stadt- und Kreissparkasse Moosburg a.d. Isar",
+		"id": "Q2326327",
+		"link": "https://de.wikipedia.org/wiki/Stadt-_und_Kreissparkasse_Moosburg_a.d._Isar",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "7"
+	},
+	{
+		"title": "Sparkasse Ulm",
+		"wikipedia": "de:Sparkasse Ulm",
+		"id": "Q18630954",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Ulm",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "69 (+ 7 SB)"
+	},
+	{
+		"title": "Kreissparkasse Ostalb",
+		"wikipedia": "de:Kreissparkasse Ostalb",
+		"id": "Q1787800",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Ostalb",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "66 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Hildesheim Goslar Peine",
+		"aliases": [
+			"Sparkasse Hildesheim"
+		],
+		"wikipedia": "de:Sparkasse Hildesheim Goslar Peine",
+		"id": "Q2307468",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hildesheim_Goslar_Peine",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "64 (+ 24 SB)"
+	},
+	{
+		"title": "Frankfurter Sparkasse",
+		"aliases": [
+			"Fraspa",
+			"Frankfurter Sparkasse 1822",
+			"Frankfurter Sparkasse von 1822",
+			"Stadtsparkasse Frankfurt",
+			"FraSpa"
+		],
+		"wikipedia": "de:Frankfurter Sparkasse",
+		"id": "Q1445030",
+		"link": "https://de.wikipedia.org/wiki/Frankfurter_Sparkasse",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "64 (+ 14 SB)"
+	},
+	{
+		"title": "Braunschweigische Landessparkasse",
+		"aliases": [
+			"BLSK",
+			"Landessparkasse Braunschweig"
+		],
+		"wikipedia": "de:Braunschweigische Landessparkasse",
+		"id": "Q902027",
+		"link": "https://de.wikipedia.org/wiki/Braunschweigische_Landessparkasse",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "63 (+ 28 SB)"
+	},
+	{
+		"title": "Sparkasse Ansbach",
+		"wikipedia": "de:Sparkasse Ansbach",
+		"id": "Q2514965",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Ansbach",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "61 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Grünberg",
+		"wikipedia": "de:Sparkasse Grünberg",
+		"id": "Q18289502",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gr%C3%BCnberg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "6(+ 1 mobil)"
+	},
+	{
+		"title": "Stadtsparkasse Dessau",
+		"wikipedia": "de:Stadtsparkasse Dessau",
+		"id": "Q56070848",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Dessau",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "6 (+ 9 SB)"
+	},
+	{
+		"title": "Verbundsparkasse Emsdetten-Ochtrup",
+		"wikipedia": "de:Verbundsparkasse Emsdetten-Ochtrup",
+		"id": "Q18632340",
+		"link": "https://de.wikipedia.org/wiki/Verbundsparkasse_Emsdetten-Ochtrup",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Kierspe-Meinerzhagen",
+		"wikipedia": "de:Sparkasse Kierspe-Meinerzhagen",
+		"id": "Q18630927",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Kierspe-Meinerzhagen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6 (+ 2 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Schmallenberg",
+		"wikipedia": "de:Stadtsparkasse Schmallenberg",
+		"id": "Q15130153",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Schmallenberg",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Bergkamen-Bönen",
+		"wikipedia": "de:Sparkasse Bergkamen-Bönen",
+		"id": "Q18413111",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bergkamen-B%C3%B6nen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Bonndorf-Stühlingen",
+		"wikipedia": "de:Sparkasse Bonndorf-Stühlingen",
+		"id": "Q2307330",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bonndorf-St%C3%BChlingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "6 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse Gladbeck",
+		"wikipedia": "de:Sparkasse Gladbeck",
+		"id": "Q18630914",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gladbeck",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Verbandssparkasse Goch-Kevelaer-Weeze",
+		"wikipedia": "de:Verbandssparkasse Goch-Kevelaer-Weeze",
+		"id": "Q1803570",
+		"link": "https://de.wikipedia.org/wiki/Verbandssparkasse_Goch-Kevelaer-Weeze",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Stadtsparkasse Remscheid",
+		"wikipedia": "de:Stadtsparkasse Remscheid",
+		"id": "Q2328112",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Remscheid",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Stadtsparkasse Rheine",
+		"wikipedia": "de:Stadtsparkasse Rheine",
+		"id": "Q18631084",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Rheine",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Sparkasse Ennepetal-Breckerfeld",
+		"wikipedia": "de:Sparkasse Ennepetal-Breckerfeld",
+		"id": "Q18630905",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Ennepetal-Breckerfeld",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Kreissparkasse Döbeln",
+		"wikipedia": "de:Kreissparkasse Döbeln",
+		"id": "Q29019823",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_D%C3%B6beln",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Sparkasse Gengenbach",
+		"wikipedia": "de:Sparkasse Gengenbach",
+		"id": "Q26794527",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gengenbach",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Sparkasse Wolfach",
+		"wikipedia": "de:Sparkasse Wolfach",
+		"id": "Q26794525",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Wolfach",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Sparkasse Wilhelmshaven",
+		"wikipedia": "de:Sparkasse Wilhelmshaven",
+		"id": "Q1230591",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Wilhelmshaven",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "6"
+	},
+	{
+		"title": "Sparkasse Erlangen Höchstadt Herzogenaurach",
+		"aliases": [
+			"Stadt- und Kreissparkasse Erlangen"
+		],
+		"wikipedia": "de:Sparkasse Erlangen Höchstadt Herzogenaurach",
+		"id": "Q2326324",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Erlangen_H%C3%B6chstadt_Herzogenaurach",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "58 (+ 6 SB)"
+	},
+	{
+		"title": "Sparkasse Aschaffenburg-Alzenau",
+		"wikipedia": "de:Sparkasse Aschaffenburg-Alzenau",
+		"id": "Q2307290",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Aschaffenburg-Alzenau",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "57 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Krefeld",
+		"wikipedia": "de:Sparkasse Krefeld",
+		"id": "Q15848092",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Krefeld",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "57 (+ 16 SB)"
+	},
+	{
+		"title": "Sparkasse Paderborn-Detmold",
+		"wikipedia": "de:Sparkasse Paderborn-Detmold",
+		"id": "Q2307609",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Paderborn-Detmold",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "56 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Heidelberg",
+		"wikipedia": "de:Sparkasse Heidelberg",
+		"id": "Q1443207",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Heidelberg",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "56 (+ 26 SB)"
+	},
+	{
+		"title": "Sparkasse Münsterland Ost",
+		"aliases": [
+			"Sparkasse Münsterland-Ost"
+		],
+		"wikipedia": "de:Sparkasse Münsterland Ost",
+		"id": "Q2307576",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_M%C3%BCnsterland_Ost",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "56 (+ 23 SB)"
+	},
+	{
+		"title": "Sparkasse Kraichgau",
+		"aliases": [
+			"Sparkasse Kraichgau Bruchsal Bretten Sinsheim"
+		],
+		"wikipedia": "de:Sparkasse Kraichgau",
+		"id": "Q1527770",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Kraichgau",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "56 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Saarbrücken",
+		"aliases": [
+			"Kreissparkasse Saarbrücken",
+			"Stadtsparkasse Saarbrücken"
+		],
+		"wikipedia": "de:Sparkasse Saarbrücken",
+		"id": "Q2307655",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Saarbr%C3%BCcken",
+		"countries": [
+			"DE-SL"
+		],
+		"amount": "55 (+ 16 SB)"
+	},
+	{
+		"title": "Sparkasse Vest Recklinghausen",
+		"wikipedia": "de:Sparkasse Vest Recklinghausen",
+		"id": "Q18630956",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Vest_Recklinghausen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "55 (+ 12 SB)"
+	},
+	{
+		"title": "Erzgebirgssparkasse",
+		"wikipedia": "de:Erzgebirgssparkasse",
+		"id": "Q1366150",
+		"link": "https://de.wikipedia.org/wiki/Erzgebirgssparkasse",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "54 (+ 34 SB)"
+	},
+	{
+		"title": "Sparkasse Vorpommern",
+		"wikipedia": "de:Sparkasse Vorpommern",
+		"id": "Q2307709",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Vorpommern",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "53"
+	},
+	{
+		"title": "Sparkasse Freiburg-Nördlicher Breisgau",
+		"wikipedia": "de:Sparkasse Freiburg-Nördlicher Breisgau",
+		"id": "Q15128927",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Freiburg-N%C3%B6rdlicher_Breisgau",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "52 (+ 8 SB)"
+	},
+	{
+		"title": "Sparkasse Schweinfurt-Haßberge",
+		"aliases": [
+			"Kreissparkasse Schweinfurt",
+			"Städtische Sparkasse Schweinfurt",
+			"Sparkasse Gerolzhofen"
+		],
+		"wikipedia": "de:Sparkasse Schweinfurt-Haßberge",
+		"id": "Q2307665",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Schweinfurt-Ha%C3%9Fberge",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "52 (+ 8 SB)"
+	},
+	{
+		"title": "Kreissparkasse München Starnberg Ebersberg",
+		"wikipedia": "de:Kreissparkasse München Starnberg Ebersberg",
+		"id": "Q1787798",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_M%C3%BCnchen_Starnberg_Ebersberg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "52 (+ 46 SB)"
+	},
+	{
+		"title": "Kreissparkasse Böblingen",
+		"wikipedia": "de:Kreissparkasse Böblingen",
+		"id": "Q1290595",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_B%C3%B6blingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "52 (+ 18 SB)"
+	},
+	{
+		"title": "Kreissparkasse Göppingen",
+		"wikipedia": "de:Kreissparkasse Göppingen",
+		"id": "Q1768338",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_G%C3%B6ppingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "51 (+ 17 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Rosenheim-Bad Aibling",
+		"wikipedia": "de:Sparkasse Rosenheim-Bad Aibling",
+		"id": "Q1292095",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Rosenheim-Bad_Aibling",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "51"
+	},
+	{
+		"title": "Förde Sparkasse",
+		"aliases": [
+			"Fördesparkasse",
+			"Förde-Sparkasse"
+		],
+		"wikipedia": "de:Förde Sparkasse",
+		"id": "Q1479894",
+		"link": "https://de.wikipedia.org/wiki/F%C3%B6rde_Sparkasse",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "50 (+ 31 SB)"
+	},
+	{
+		"title": "Sparkasse Scheeßel",
+		"aliases": [
+			"Zweckverbandssparkasse Scheeßel"
+		],
+		"wikipedia": "de:Sparkasse Scheeßel",
+		"id": "Q2307659",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Schee%C3%9Fel",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "5 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Münden",
+		"wikipedia": "de:Sparkasse Münden",
+		"id": "Q1446928",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_M%C3%BCnden",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "5 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Emden",
+		"wikipedia": "de:Sparkasse Emden",
+		"id": "Q1389719",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Emden",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "5 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse Einbeck",
+		"wikipedia": "de:Sparkasse Einbeck",
+		"id": "Q1230532",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Einbeck",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "5 (+ 1 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Blomberg/Lippe",
+		"wikipedia": "de:Stadtsparkasse Blomberg/Lippe",
+		"id": "Q1717096",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Blomberg/Lippe",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "5"
+	},
+	{
+		"title": "Sparkasse Battenberg",
+		"wikipedia": "de:Sparkasse Battenberg",
+		"id": "Q15128915",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Battenberg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "5"
+	},
+	{
+		"title": "Sparkasse Beckum-Wadersloh",
+		"wikipedia": "de:Sparkasse Beckum-Wadersloh",
+		"id": "Q15128916",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Beckum-Wadersloh",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "5"
+	},
+	{
+		"title": "Kreissparkasse Schlüchtern",
+		"wikipedia": "de:Kreissparkasse Schlüchtern",
+		"id": "Q15117674",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Schl%C3%BCchtern",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "5"
+	},
+	{
+		"title": "Bezirkssparkasse Reichenau",
+		"wikipedia": "de:Bezirkssparkasse Reichenau",
+		"id": "Q18616717",
+		"link": "https://de.wikipedia.org/wiki/Bezirkssparkasse_Reichenau",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "5"
+	},
+	{
+		"title": "Stadtsparkasse Wunstorf",
+		"wikipedia": "de:Stadtsparkasse Wunstorf",
+		"id": "Q2328132",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Wunstorf",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "5"
+	},
+	{
+		"title": "Sparkasse Bremen",
+		"wikipedia": "de:Sparkasse Bremen",
+		"id": "Q1643208",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bremen",
+		"countries": [
+			"DE-HB"
+		],
+		"amount": "49 (+ 32 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Düsseldorf",
+		"wikipedia": "de:Stadtsparkasse Düsseldorf",
+		"id": "Q1423788",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_D%C3%BCsseldorf",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "49 (+ 22 SB)"
+	},
+	{
+		"title": "Sparkasse Memmingen-Lindau-Mindelheim",
+		"wikipedia": "de:Sparkasse Memmingen-Lindau-Mindelheim",
+		"id": "Q1693433",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Memmingen-Lindau-Mindelheim",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "48"
+	},
+	{
+		"title": "Taunus Sparkasse",
+		"wikipedia": "de:Taunus Sparkasse",
+		"id": "Q1737542",
+		"link": "https://de.wikipedia.org/wiki/Taunus_Sparkasse",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "47 (+ 12 SB)"
+	},
+	{
+		"title": "Harzsparkasse",
+		"wikipedia": "de:Harzsparkasse",
+		"id": "Q1268986",
+		"link": "https://de.wikipedia.org/wiki/Harzsparkasse",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "46 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Karlsruhe",
+		"aliases": [
+			"Sparkasse Karlsruhe Ettlingen"
+		],
+		"wikipedia": "de:Sparkasse Karlsruhe",
+		"id": "Q2307494",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Karlsruhe",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "46 (+ 29 SB)"
+	},
+	{
+		"title": "Sparkasse Duisburg",
+		"wikipedia": "de:Sparkasse Duisburg",
+		"id": "Q2307372",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Duisburg",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "46 (+ 18 SB)"
+	},
+	{
+		"title": "Kreissparkasse Waiblingen",
+		"aliases": [
+			"KSK Waiblingen",
+			"KSK WN",
+			"SWN Kreissparkasse Waiblingen"
+		],
+		"wikipedia": "de:Kreissparkasse Waiblingen",
+		"id": "Q1787814",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Waiblingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "46 (+ 15 SB)"
+	},
+	{
+		"title": "Sparkasse Vogtland",
+		"wikipedia": "de:Sparkasse Vogtland",
+		"id": "Q1605249",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Vogtland",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "46 (+ 13 SB)"
+	},
+	{
+		"title": "Sparkasse Trier",
+		"aliases": [
+			"Kreissparkasse Trier-Saarburg",
+			"Stadtsparkasse Trier"
+		],
+		"wikipedia": "de:Sparkasse Trier",
+		"id": "Q2307697",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Trier",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "46 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Niederbayern-Mitte",
+		"wikipedia": "de:Sparkasse Niederbayern-Mitte",
+		"id": "Q1491695",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Niederbayern-Mitte",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "46 (+ 1 SB)"
+	},
+	{
+		"title": "Salzlandsparkasse",
+		"wikipedia": "de:Salzlandsparkasse",
+		"id": "Q15965171",
+		"link": "https://de.wikipedia.org/wiki/Salzlandsparkasse",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "46"
+	},
+	{
+		"title": "Sparkasse Essen",
+		"wikipedia": "de:Sparkasse Essen",
+		"id": "Q2307400",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Essen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "45 (+ 9 SB)"
+	},
+	{
+		"title": "Kasseler Sparkasse",
+		"wikipedia": "de:Kasseler Sparkasse",
+		"id": "Q968300",
+		"link": "https://de.wikipedia.org/wiki/Kasseler_Sparkasse",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "45 (+ 44 SB)"
+	},
+	{
+		"title": "Sparkasse Oberhessen",
+		"wikipedia": "de:Sparkasse Oberhessen",
+		"id": "Q1554198",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Oberhessen",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "45 (+ 21 SB)"
+	},
+	{
+		"title": "Sparkasse Bochum",
+		"aliases": [
+			"Spk Bochum"
+		],
+		"wikipedia": "de:Sparkasse Bochum",
+		"id": "Q2307321",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bochum",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "45 (+ 1 SB)"
+	},
+	{
+		"title": "Saalesparkasse",
+		"wikipedia": "de:Saalesparkasse",
+		"id": "Q22674685",
+		"link": "https://de.wikipedia.org/wiki/Saalesparkasse",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "44(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Ingolstadt Eichstätt",
+		"aliases": [
+			"Sparkasse Ingolstadt"
+		],
+		"wikipedia": "de:Sparkasse Ingolstadt Eichstätt",
+		"id": "Q1698904",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Ingolstadt_Eichst%C3%A4tt",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "43 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Mittelsachsen",
+		"wikipedia": "de:Sparkasse Mittelsachsen",
+		"id": "Q18334179",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mittelsachsen",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "43 (+ 13 SB)"
+	},
+	{
+		"title": "Sparkasse Marburg-Biedenkopf",
+		"wikipedia": "de:Sparkasse Marburg-Biedenkopf",
+		"id": "Q16294740",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Marburg-Biedenkopf",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "42 (+ 6 SB)"
+	},
+	{
+		"title": "Sparkasse Chemnitz",
+		"wikipedia": "de:Sparkasse Chemnitz",
+		"id": "Q2307340",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Chemnitz",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "42 (+ 46 SB)"
+	},
+	{
+		"title": "Kreissparkasse Reutlingen",
+		"wikipedia": "de:Kreissparkasse Reutlingen",
+		"id": "Q1787801",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Reutlingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "42"
+	},
+	{
+		"title": "Sparkasse Osnabrück",
+		"wikipedia": "de:Sparkasse Osnabrück",
+		"id": "Q2307597",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Osnabr%C3%BCck",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "42"
+	},
+	{
+		"title": "Kreissparkasse Biberach",
+		"aliases": [
+			"KSK Biberach"
+		],
+		"wikipedia": "de:Kreissparkasse Biberach",
+		"id": "Q1787769",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Biberach",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "42"
+	},
+	{
+		"title": "OstseeSparkasse Rostock",
+		"wikipedia": "de:OstseeSparkasse Rostock",
+		"id": "Q2036055",
+		"link": "https://de.wikipedia.org/wiki/OstseeSparkasse_Rostock",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "41 (+ 8 SB)"
+	},
+	{
+		"title": "Sparkasse Rhein-Haardt",
+		"wikipedia": "de:Sparkasse Rhein-Haardt",
+		"id": "Q2307638",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Rhein-Haardt",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "41 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Landshut",
+		"wikipedia": "de:Sparkasse Landshut",
+		"id": "Q2307526",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Landshut",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "41 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Schwarzwald-Baar",
+		"wikipedia": "de:Sparkasse Schwarzwald-Baar",
+		"id": "Q33133663",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Schwarzwald-Baar",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "41"
+	},
+	{
+		"title": "Nord-Ostsee Sparkasse",
+		"wikipedia": "de:Nord-Ostsee Sparkasse",
+		"id": "Q1369016",
+		"link": "https://de.wikipedia.org/wiki/Nord-Ostsee_Sparkasse",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "40 (+ 42 SB)"
+	},
+	{
+		"title": "Sparkasse Dortmund",
+		"aliases": [
+			"Stadtsparkasse Dortmund",
+			"Spk Dortmund"
+		],
+		"wikipedia": "de:Sparkasse Dortmund",
+		"id": "Q1493538",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Dortmund",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "40 (+ 20 SB)"
+	},
+	{
+		"title": "Kreissparkasse Ravensburg",
+		"wikipedia": "de:Kreissparkasse Ravensburg",
+		"id": "Q1385106",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Ravensburg",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "40"
+	},
+	{
+		"title": "Sparkasse Elmshorn",
+		"wikipedia": "de:Sparkasse Elmshorn",
+		"id": "Q1347636",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Elmshorn",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "4 (+ 2 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Grebenstein",
+		"wikipedia": "de:Stadtsparkasse Grebenstein",
+		"id": "Q15130149",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Grebenstein",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "4"
+	},
+	{
+		"title": "Stadtsparkasse Bad Pyrmont",
+		"wikipedia": "de:Stadtsparkasse Bad Pyrmont",
+		"id": "Q1586261",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Bad_Pyrmont",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "4"
+	},
+	{
+		"title": "Sparkasse St. Blasien",
+		"wikipedia": "de:Sparkasse St. Blasien",
+		"id": "Q15128968",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_St._Blasien",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "4"
+	},
+	{
+		"title": "Kreissparkasse Kaiserslautern",
+		"wikipedia": "de:Kreissparkasse Kaiserslautern",
+		"id": "Q1787784",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Kaiserslautern",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "39 (+ 4 SB)"
+	},
+	{
+		"title": "Kreissparkasse Heinsberg",
+		"wikipedia": "de:Kreissparkasse Heinsberg",
+		"id": "Q1787782",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Heinsberg",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "39 (+ 13 SB)"
+	},
+	{
+		"title": "Kreissparkasse Tübingen",
+		"aliases": [
+			"KSK Tübingen"
+		],
+		"wikipedia": "de:Kreissparkasse Tübingen",
+		"id": "Q1787813",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_T%C3%BCbingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "39"
+	},
+	{
+		"title": "Sparkasse Bamberg",
+		"wikipedia": "de:Sparkasse Bamberg",
+		"id": "Q2307311",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bamberg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "38 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Gifhorn-Wolfsburg",
+		"wikipedia": "de:Sparkasse Gifhorn-Wolfsburg",
+		"id": "Q2307429",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gifhorn-Wolfsburg",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "38 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Holstein",
+		"wikipedia": "de:Sparkasse Holstein",
+		"id": "Q1439313",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Holstein",
+		"countries": [
+			"DE-SH",
+			"DE-HH"
+		],
+		"amount": "37 (+ 29 SB)"
+	},
+	{
+		"title": "Sparkasse Emsland",
+		"wikipedia": "de:Sparkasse Emsland",
+		"id": "Q2307391",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Emsland",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "37 (+ 20 SB)"
+	},
+	{
+		"title": "Kreissparkasse Saarlouis",
+		"wikipedia": "de:Kreissparkasse Saarlouis",
+		"id": "Q18628332",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Saarlouis",
+		"countries": [
+			"DE-SL"
+		],
+		"amount": "37 (+ 17 SB)"
+	},
+	{
+		"title": "Sparkasse Oberlausitz-Niederschlesien",
+		"wikipedia": "de:Sparkasse Oberlausitz-Niederschlesien",
+		"id": "Q1734365",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Oberlausitz-Niederschlesien",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "36 (+ 4 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Wuppertal",
+		"wikipedia": "de:Stadtsparkasse Wuppertal",
+		"id": "Q1639934",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Wuppertal",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "35 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Regensburg",
+		"wikipedia": "de:Sparkasse Regensburg",
+		"id": "Q1557248",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Regensburg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "35 (+ 23 SB)"
+	},
+	{
+		"title": "Sparkasse Dieburg",
+		"wikipedia": "de:Sparkasse Dieburg",
+		"id": "Q2307358",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Dieburg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "35 (+ 11 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Siegen",
+		"wikipedia": "de:Sparkasse Siegen",
+		"id": "Q2307671",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Siegen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "35 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse Bielefeld",
+		"wikipedia": "de:Sparkasse Bielefeld",
+		"id": "Q1767965",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bielefeld",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "35 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse Langen-Seligenstadt",
+		"wikipedia": "de:Sparkasse Langen-Seligenstadt",
+		"id": "Q1369089",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Langen-Seligenstadt",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "35 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse Darmstadt",
+		"aliases": [
+			"Stadt- und Kreis-Sparkasse Darmstadt",
+			"Ludwig-Metzger-Preis"
+		],
+		"wikipedia": "de:Sparkasse Darmstadt",
+		"id": "Q2307349",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Darmstadt",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "34 (+ 8 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Fulda",
+		"wikipedia": "de:Sparkasse Fulda",
+		"id": "Q1331819",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Fulda",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "34 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse LeerWittmund",
+		"wikipedia": "de:Sparkasse LeerWittmund",
+		"id": "Q2307529",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_LeerWittmund",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "34 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Neuss",
+		"wikipedia": "de:Sparkasse Neuss",
+		"id": "Q2307580",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Neuss",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "34 (+ 30 SB)"
+	},
+	{
+		"title": "Sparkasse Hochfranken",
+		"wikipedia": "de:Sparkasse Hochfranken",
+		"id": "Q2307470",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hochfranken",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "34 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Herford",
+		"wikipedia": "de:Sparkasse Herford",
+		"id": "Q1682874",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Herford",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "34 (+ 15 SB)"
+	},
+	{
+		"title": "Sparkasse im Landkreis Cham",
+		"wikipedia": "de:Sparkasse im Landkreis Cham",
+		"id": "Q2307747",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_im_Landkreis_Cham",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "34"
+	},
+	{
+		"title": "Sparkasse Westerwald-Sieg",
+		"wikipedia": "de:Sparkasse Westerwald-Sieg",
+		"id": "Q18022453",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Westerwald-Sieg",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "33 (+ 17 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Augsburg",
+		"wikipedia": "de:Stadtsparkasse Augsburg",
+		"id": "Q2328081",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Augsburg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "33 (+ 12 SB)"
+	},
+	{
+		"title": "Sparkasse Rhein Neckar Nord",
+		"aliases": [
+			"Sparkasse Mannheim"
+		],
+		"wikipedia": "de:Sparkasse Rhein Neckar Nord",
+		"id": "Q2307642",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Rhein_Neckar_Nord",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "32 (+ 30 SB)"
+	},
+	{
+		"title": "Sparkasse Offenburg/Ortenau",
+		"wikipedia": "de:Sparkasse Offenburg/Ortenau",
+		"id": "Q2307590",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Offenburg/Ortenau",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "32 (+ 27 SB)"
+	},
+	{
+		"title": "Sparkasse Westholstein",
+		"wikipedia": "de:Sparkasse Westholstein",
+		"id": "Q2307720",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Westholstein",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "32 (+ 16 SB)"
+	},
+	{
+		"title": "Kreissparkasse Steinfurt",
+		"wikipedia": "de:Kreissparkasse Steinfurt",
+		"id": "Q15992040",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Steinfurt",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "32 (+ 15 SB)"
+	},
+	{
+		"title": "Sparkasse Allgäu",
+		"wikipedia": "de:Sparkasse Allgäu",
+		"id": "Q1337936",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Allg%C3%A4u",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "32"
+	},
+	{
+		"title": "Sparkasse Mittelfranken-Süd",
+		"wikipedia": "de:Sparkasse Mittelfranken-Süd",
+		"id": "Q1669402",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mittelfranken-S%C3%BCd",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "31 (+ 9 SB)"
+	},
+	{
+		"title": "Kreissparkasse Rottweil",
+		"aliases": [
+			"KSK Rottweil"
+		],
+		"wikipedia": "de:Kreissparkasse Rottweil",
+		"id": "Q1787803",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Rottweil",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "31 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Mittelthüringen",
+		"wikipedia": "de:Sparkasse Mittelthüringen",
+		"id": "Q1645884",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mittelth%C3%BCringen",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "31 (+ 29 SB)"
+	},
+	{
+		"title": "Sparkasse Koblenz",
+		"aliases": [
+			"Kreissparkasse Koblenz",
+			"Stadtsparkasse Koblenz",
+			"Stadtsparkasse Ehrenbreitstein"
+		],
+		"wikipedia": "de:Sparkasse Koblenz",
+		"id": "Q2307510",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Koblenz",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "31 (+ 20 SB)"
+	},
+	{
+		"title": "Kreissparkasse Traunstein-Trostberg",
+		"wikipedia": "de:Kreissparkasse Traunstein-Trostberg",
+		"id": "Q1298364",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Traunstein-Trostberg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "31 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Zollernalb",
+		"wikipedia": "de:Sparkasse Zollernalb",
+		"id": "Q2307734",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Zollernalb",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "31 (+ 14 SB)"
+	},
+	{
+		"title": "Sparkasse Burgenlandkreis",
+		"wikipedia": "de:Sparkasse Burgenlandkreis",
+		"id": "Q1393306",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Burgenlandkreis",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "31 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse Passau",
+		"wikipedia": "de:Sparkasse Passau",
+		"id": "Q2307613",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Passau",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "31"
+	},
+	{
+		"title": "Kreissparkasse Limburg",
+		"wikipedia": "de:Kreissparkasse Limburg",
+		"id": "Q1787789",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Limburg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "30 (+ 6 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Kulmbach-Kronach",
+		"wikipedia": "de:Sparkasse Kulmbach-Kronach",
+		"id": "Q2307514",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Kulmbach-Kronach",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "30 (+ 5 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Oberland",
+		"wikipedia": "de:Sparkasse Oberland",
+		"id": "Q1365877",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Oberland",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "30 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Forchheim",
+		"wikipedia": "de:Sparkasse Forchheim",
+		"id": "Q2307408",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Forchheim",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "30 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Vorderpfalz",
+		"wikipedia": "de:Sparkasse Vorderpfalz",
+		"id": "Q15128975",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Vorderpfalz",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "30 (+ 20 SB)"
+	},
+	{
+		"title": "Sparkasse Laubach-Hungen",
+		"wikipedia": "de:Sparkasse Laubach-Hungen",
+		"id": "Q18289504",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Laubach-Hungen",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "3(+ 1 mobil)"
+	},
+	{
+		"title": "Stadtsparkasse Haltern am See",
+		"wikipedia": "de:Stadtsparkasse Haltern am See",
+		"id": "Q18631076",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Haltern_am_See",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "3 (+ 1 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Bad Honnef",
+		"wikipedia": "de:Stadtsparkasse Bad Honnef",
+		"id": "Q18631073",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Bad_Honnef",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "3 (+ 1 SB)"
+	},
+	{
+		"title": "Stadt-Sparkasse Haan",
+		"wikipedia": "de:Stadt-Sparkasse Haan",
+		"id": "Q18631055",
+		"link": "https://de.wikipedia.org/wiki/Stadt-Sparkasse_Haan",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "3"
+	},
+	{
+		"title": "Stadtsparkasse Lengerich",
+		"wikipedia": "de:Stadtsparkasse Lengerich",
+		"id": "Q18631079",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Lengerich",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "3"
+	},
+	{
+		"title": "Stadt-Sparkasse Langenfeld",
+		"wikipedia": "de:Stadt-Sparkasse Langenfeld",
+		"id": "Q18631056",
+		"link": "https://de.wikipedia.org/wiki/Stadt-Sparkasse_Langenfeld",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "3"
+	},
+	{
+		"title": "Stadtsparkasse Delbrück",
+		"wikipedia": "de:Stadtsparkasse Delbrück",
+		"id": "Q18631074",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Delbr%C3%BCck",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "3"
+	},
+	{
+		"title": "Stadtsparkasse Wermelskirchen",
+		"aliases": [
+			"Sparkasse Wermelskirchen"
+		],
+		"wikipedia": "de:Stadtsparkasse Wermelskirchen",
+		"id": "Q2328127",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Wermelskirchen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "3"
+	},
+	{
+		"title": "Sparkasse Geseke",
+		"wikipedia": "de:Sparkasse Geseke",
+		"id": "Q2307425",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Geseke",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "3"
+	},
+	{
+		"title": "Sparkasse Coburg – Lichtenfels",
+		"aliases": [
+			"Sparkasse Coburg-Lichtenfels",
+			"Sparkasse Coburg"
+		],
+		"wikipedia": "de:Sparkasse Coburg – Lichtenfels",
+		"id": "Q2307342",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Coburg_%E2%80%93_Lichtenfels",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "29 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Hanau",
+		"wikipedia": "de:Sparkasse Hanau",
+		"id": "Q2307440",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hanau",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "29 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Rottal-Inn",
+		"wikipedia": "de:Sparkasse Rottal-Inn",
+		"id": "Q2307651",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Rottal-Inn",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "29 (+ 5 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Mönchengladbach",
+		"wikipedia": "de:Stadtsparkasse Mönchengladbach",
+		"id": "Q18413199",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_M%C3%B6nchengladbach",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "29"
+	},
+	{
+		"title": "Kreissparkasse Syke",
+		"wikipedia": "de:Kreissparkasse Syke",
+		"id": "Q1787810",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Syke",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "29"
+	},
+	{
+		"title": "Kreissparkasse Kelheim",
+		"wikipedia": "de:Kreissparkasse Kelheim",
+		"id": "Q1521090",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Kelheim",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "28 (+ 5 SB)"
+	},
+	{
+		"title": "Niederrheinische Sparkasse RheinLippe",
+		"wikipedia": "de:Niederrheinische Sparkasse RheinLippe",
+		"id": "Q22674731",
+		"link": "https://de.wikipedia.org/wiki/Niederrheinische_Sparkasse_RheinLippe",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "28 (+ 17 SB)"
+	},
+	{
+		"title": "Sparkasse Spree-Neiße",
+		"wikipedia": "de:Sparkasse Spree-Neiße",
+		"id": "Q2307681",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Spree-Nei%C3%9Fe",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "28 (+ 15 SB)"
+	},
+	{
+		"title": "Weser-Elbe-Sparkasse",
+		"wikipedia": "de:Weser-Elbe-Sparkasse",
+		"id": "Q1787820",
+		"link": "https://de.wikipedia.org/wiki/Weser-Elbe-Sparkasse",
+		"countries": [
+			"DE-HB",
+			"DE-NI"
+		],
+		"amount": "28 (+ 11 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Neckartal-Odenwald",
+		"wikipedia": "de:Sparkasse Neckartal-Odenwald",
+		"id": "Q14912505",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Neckartal-Odenwald",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "28 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse am Niederrhein",
+		"wikipedia": "de:Sparkasse am Niederrhein",
+		"id": "Q1411585",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_am_Niederrhein",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "28"
+	},
+	{
+		"title": "Kreissparkasse Tuttlingen",
+		"wikipedia": "de:Kreissparkasse Tuttlingen",
+		"id": "Q16832628",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Tuttlingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "28"
+	},
+	{
+		"title": "Sparkasse Tauberfranken",
+		"wikipedia": "de:Sparkasse Tauberfranken",
+		"id": "Q1566741",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Tauberfranken",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "28"
+	},
+	{
+		"title": "Kreissparkasse Groß-Gerau",
+		"wikipedia": "de:Kreissparkasse Groß-Gerau",
+		"id": "Q1559993",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Gro%C3%9F-Gerau",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "27 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Schwäbisch Hall-Crailsheim",
+		"wikipedia": "de:Sparkasse Schwäbisch Hall-Crailsheim",
+		"id": "Q1723179",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Schw%C3%A4bisch_Hall-Crailsheim",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "27 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Altötting-Mühldorf",
+		"wikipedia": "de:Sparkasse Altötting-Mühldorf",
+		"id": "Q1795025",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Alt%C3%B6tting-M%C3%BChldorf",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "27 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Südholstein",
+		"wikipedia": "de:Sparkasse Südholstein",
+		"id": "Q2307695",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_S%C3%BCdholstein",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "27 (+ 5 SB)"
+	},
+	{
+		"title": "Kreissparkasse Augsburg",
+		"wikipedia": "de:Kreissparkasse Augsburg",
+		"id": "Q1787766",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Augsburg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "27 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Gelsenkirchen",
+		"wikipedia": "de:Sparkasse Gelsenkirchen",
+		"id": "Q18630912",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gelsenkirchen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "27 (+ 14 SB)"
+	},
+	{
+		"title": "Sparkasse Göttingen",
+		"wikipedia": "de:Sparkasse Göttingen",
+		"id": "Q2307434",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_G%C3%B6ttingen",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "27"
+	},
+	{
+		"title": "Sparkasse Rhein-Nahe",
+		"wikipedia": "de:Sparkasse Rhein-Nahe",
+		"id": "Q1321477",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Rhein-Nahe",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "27"
+	},
+	{
+		"title": "Sparkasse Neuwied",
+		"wikipedia": "de:Sparkasse Neuwied",
+		"id": "Q15848096",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Neuwied",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "26 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Oder-Spree",
+		"wikipedia": "de:Sparkasse Oder-Spree",
+		"id": "Q2307594",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Oder-Spree",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "26 (+ 8 SB)"
+	},
+	{
+		"title": "Kreissparkasse Börde",
+		"wikipedia": "de:Kreissparkasse Börde",
+		"id": "Q22674523",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_B%C3%B6rde",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "26 (+ 8 SB)"
+	},
+	{
+		"title": "Sparkasse Waldeck-Frankenberg",
+		"wikipedia": "de:Sparkasse Waldeck-Frankenberg",
+		"id": "Q15128978",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Waldeck-Frankenberg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "26 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Gera-Greiz",
+		"wikipedia": "de:Sparkasse Gera-Greiz",
+		"id": "Q2307417",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gera-Greiz",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "26 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Wetzlar",
+		"wikipedia": "de:Sparkasse Wetzlar",
+		"id": "Q1748989",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Wetzlar",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "26 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Germersheim-Kandel",
+		"wikipedia": "de:Sparkasse Germersheim-Kandel",
+		"id": "Q2307421",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Germersheim-Kandel",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "26 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Düren",
+		"wikipedia": "de:Sparkasse Düren",
+		"id": "Q2307375",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_D%C3%BCren",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "26 (+ 14 SB)"
+	},
+	{
+		"title": "Sparkasse Dachau",
+		"wikipedia": "de:Sparkasse Dachau",
+		"id": "Q2307347",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Dachau",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "26 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Bad Hersfeld-Rotenburg",
+		"wikipedia": "de:Sparkasse Bad Hersfeld-Rotenburg",
+		"id": "Q2307301",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bad_Hersfeld-Rotenburg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "26"
+	},
+	{
+		"title": "Sparkasse Zwickau",
+		"wikipedia": "de:Sparkasse Zwickau",
+		"id": "Q2307735",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Zwickau",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "26"
+	},
+	{
+		"title": "Sparkasse Bad Tölz-Wolfratshausen",
+		"wikipedia": "de:Sparkasse Bad Tölz-Wolfratshausen",
+		"id": "Q2307310",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bad_T%C3%B6lz-Wolfratshausen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "25 (+ 6 SB)"
+	},
+	{
+		"title": "Sparkasse Deggendorf",
+		"wikipedia": "de:Sparkasse Deggendorf",
+		"id": "Q2307353",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Deggendorf",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "25 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Rotenburg Osterholz",
+		"aliases": [
+			"Sparkasse Rotenburg-Bremervörde"
+		],
+		"wikipedia": "de:Sparkasse Rotenburg Osterholz",
+		"id": "Q2307645",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Rotenburg_Osterholz",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "25 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Neunkirchen (Saarland)",
+		"wikipedia": "de:Sparkasse Neunkirchen (Saarland)",
+		"id": "Q18630944",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Neunkirchen_(Saarland)",
+		"countries": [
+			"DE-SL"
+		],
+		"amount": "25 (+ 2 SB)"
+	},
+	{
+		"title": "Kreissparkasse Schwalm-Eder",
+		"wikipedia": "de:Kreissparkasse Schwalm-Eder",
+		"id": "Q1787808",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Schwalm-Eder",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "25 (+ 15 SB)"
+	},
+	{
+		"title": "Sparkasse Wittenberg",
+		"wikipedia": "de:Sparkasse Wittenberg",
+		"id": "Q54867473",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Wittenberg",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "25"
+	},
+	{
+		"title": "Sparkasse Merzig-Wadern",
+		"wikipedia": "de:Sparkasse Merzig-Wadern",
+		"id": "Q18630932",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Merzig-Wadern",
+		"countries": [
+			"DE-SL"
+		],
+		"amount": "24 (+ 9 SB)"
+	},
+	{
+		"title": "Kreissparkasse Saarpfalz",
+		"wikipedia": "de:Kreissparkasse Saarpfalz",
+		"id": "Q1787806",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Saarpfalz",
+		"countries": [
+			"DE-SL"
+		],
+		"amount": "24 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Landsberg-Dießen",
+		"wikipedia": "de:Sparkasse Landsberg-Dießen",
+		"id": "Q2307525",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Landsberg-Die%C3%9Fen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "24 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Harburg-Buxtehude",
+		"wikipedia": "de:Sparkasse Harburg-Buxtehude",
+		"id": "Q2307455",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Harburg-Buxtehude",
+		"countries": [
+			"DE-HH",
+			"DE-NI"
+		],
+		"amount": "24 (+ 22 SB)"
+	},
+	{
+		"title": "Sparkasse im Landkreis Neustadt a. d. Aisch - Bad Windsheim",
+		"wikipedia": "de:Sparkasse im Landkreis Neustadt a. d. Aisch - Bad Windsheim",
+		"id": "Q1401594",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_im_Landkreis_Neustadt_a._d._Aisch_-_Bad_Windsheim",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "24 (+ 2 SB)"
+	},
+	{
+		"title": "Kreissparkasse Bersenbrück",
+		"wikipedia": "de:Kreissparkasse Bersenbrück",
+		"id": "Q1787768",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Bersenbr%C3%BCck",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "24"
+	},
+	{
+		"title": "Kreissparkasse Ahrweiler",
+		"wikipedia": "de:Kreissparkasse Ahrweiler",
+		"id": "Q18022447",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Ahrweiler",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "23 (+ 6 SB)"
+	},
+	{
+		"title": "Sparkasse Miltenberg-Obernburg",
+		"wikipedia": "de:Sparkasse Miltenberg-Obernburg",
+		"id": "Q2307559",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Miltenberg-Obernburg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "23 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Regen-Viechtach",
+		"wikipedia": "de:Sparkasse Regen-Viechtach",
+		"id": "Q1670662",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Regen-Viechtach",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "23 (+ 4 SB)"
+	},
+	{
+		"title": "Kreissparkasse Freudenstadt",
+		"wikipedia": "de:Kreissparkasse Freudenstadt",
+		"id": "Q1787778",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Freudenstadt",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "23 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Bodensee",
+		"wikipedia": "de:Sparkasse Bodensee",
+		"id": "Q2307325",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bodensee",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "23 (+ 19 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Kreissparkasse Bautzen",
+		"wikipedia": "de:Kreissparkasse Bautzen",
+		"id": "Q1705051",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Bautzen",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "23 (+ 18 SB)"
+	},
+	{
+		"title": "Sparkasse Fürth",
+		"wikipedia": "de:Sparkasse Fürth",
+		"id": "Q2307414",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_F%C3%BCrth",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "23 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse Elbe-Elster",
+		"wikipedia": "de:Sparkasse Elbe-Elster",
+		"id": "Q2307386",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Elbe-Elster",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "23"
+	},
+	{
+		"title": "Sparkasse im Landkreis Schwandorf",
+		"wikipedia": "de:Sparkasse im Landkreis Schwandorf",
+		"id": "Q2307750",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_im_Landkreis_Schwandorf",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "23"
+	},
+	{
+		"title": "Sparkasse Uelzen Lüchow-Dannenberg",
+		"wikipedia": "de:Sparkasse Uelzen Lüchow-Dannenberg",
+		"id": "Q2307701",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Uelzen_L%C3%BCchow-Dannenberg",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "22 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Oberpfalz Nord",
+		"wikipedia": "de:Sparkasse Oberpfalz Nord",
+		"id": "Q1757112",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Oberpfalz_Nord",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "22 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Neumarkt i.d.OPf.-Parsberg",
+		"wikipedia": "de:Sparkasse Neumarkt i.d.OPf.-Parsberg",
+		"id": "Q1437820",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Neumarkt_i.d.OPf.-Parsberg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "22 (+ 6 SB)"
+	},
+	{
+		"title": "Sparkasse Hegau-Bodensee",
+		"wikipedia": "de:Sparkasse Hegau-Bodensee",
+		"id": "Q2307674",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hegau-Bodensee",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "22 (+ 6 SB)"
+	},
+	{
+		"title": "Sparkasse Südliche Weinstraße",
+		"wikipedia": "de:Sparkasse Südliche Weinstraße",
+		"id": "Q1656510",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_S%C3%BCdliche_Weinstra%C3%9Fe",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "22 (+ 15 SB)"
+	},
+	{
+		"title": "Sparkasse Nienburg",
+		"wikipedia": "de:Sparkasse Nienburg",
+		"id": "Q1392587",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Nienburg",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "22 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Mecklenburg-Schwerin",
+		"wikipedia": "de:Sparkasse Mecklenburg-Schwerin",
+		"id": "Q2307549",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mecklenburg-Schwerin",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "22 (+ 1 SB)"
+	},
+	{
+		"title": "Rhön-Rennsteig-Sparkasse",
+		"wikipedia": "de:Rhön-Rennsteig-Sparkasse",
+		"id": "Q2148396",
+		"link": "https://de.wikipedia.org/wiki/Rh%C3%B6n-Rennsteig-Sparkasse",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "22"
+	},
+	{
+		"title": "Sparkasse Minden-Lübbecke",
+		"wikipedia": "de:Sparkasse Minden-Lübbecke",
+		"id": "Q2307562",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Minden-L%C3%BCbbecke",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "21 (+ 9 SB)"
+	},
+	{
+		"title": "Kreissparkasse Stade",
+		"wikipedia": "de:Kreissparkasse Stade",
+		"id": "Q1698040",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Stade",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "21 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Lüneburg",
+		"wikipedia": "de:Sparkasse Lüneburg",
+		"id": "Q1499130",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_L%C3%BCneburg",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "21 (+ 15 SB)"
+	},
+	{
+		"title": "Kreissparkasse Verden",
+		"wikipedia": "de:Kreissparkasse Verden",
+		"id": "Q1787815",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Verden",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "21 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Gütersloh-Rietberg",
+		"wikipedia": "de:Sparkasse Gütersloh-Rietberg",
+		"id": "Q15128932",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_G%C3%BCtersloh-Rietberg",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "21"
+	},
+	{
+		"title": "Kreis- und Stadtsparkasse Wasserburg am Inn",
+		"wikipedia": "de:Kreis- und Stadtsparkasse Wasserburg am Inn",
+		"id": "Q1787172",
+		"link": "https://de.wikipedia.org/wiki/Kreis-_und_Stadtsparkasse_Wasserburg_am_Inn",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "21"
+	},
+	{
+		"title": "Vereinigte Sparkassen Eschenbach i.d.OPf. Neustadt a.d.Waldnaab Vohenstrauß",
+		"wikipedia": "de:Vereinigte Sparkassen Eschenbach i.d.OPf. Neustadt a.d.Waldnaab Vohenstrauß",
+		"id": "Q2514962",
+		"link": "https://de.wikipedia.org/wiki/Vereinigte_Sparkassen_Eschenbach_i.d.OPf._Neustadt_a.d.Waldnaab_Vohenstrau%C3%9F",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "20(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Gummersbach",
+		"wikipedia": "de:Sparkasse Gummersbach",
+		"id": "Q15848090",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gummersbach",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "20 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Bayreuth",
+		"wikipedia": "de:Sparkasse Bayreuth",
+		"id": "Q1340647",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bayreuth",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "20 (+ 19 SB)"
+	},
+	{
+		"title": "Sparkasse Celle",
+		"wikipedia": "de:Sparkasse Celle",
+		"id": "Q1704445",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Celle",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "20 (+ 17 SB)"
+	},
+	{
+		"title": "Sparkasse Südwestpfalz",
+		"wikipedia": "de:Sparkasse Südwestpfalz",
+		"id": "Q15128972",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_S%C3%BCdwestpfalz",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "20 (+ 15 SB)"
+	},
+	{
+		"title": "Sparkasse Mainz",
+		"wikipedia": "de:Sparkasse Mainz",
+		"id": "Q2307547",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mainz",
+		"countries": [
+			"DE-RP",
+			"DE-HE"
+		],
+		"amount": "20 (+ 12 SB)"
+	},
+	{
+		"title": "Sparkasse Bad Neustadt a. d. Saale",
+		"wikipedia": "de:Sparkasse Bad Neustadt a. d. Saale",
+		"id": "Q2307304",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bad_Neustadt_a._d._Saale",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "20"
+	},
+	{
+		"title": "Wartburg-Sparkasse",
+		"wikipedia": "de:Wartburg-Sparkasse",
+		"id": "Q2549915",
+		"link": "https://de.wikipedia.org/wiki/Wartburg-Sparkasse",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "20"
+	},
+	{
+		"title": "Sparkasse SoestWerl",
+		"wikipedia": "de:Sparkasse SoestWerl",
+		"id": "Q47015238",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_SoestWerl",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "20"
+	},
+	{
+		"title": "Sparkasse Radevormwald-Hückeswagen",
+		"wikipedia": "de:Sparkasse Radevormwald-Hückeswagen",
+		"id": "Q2307633",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Radevormwald-H%C3%BCckeswagen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "2 (+ 4 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Sprockhövel",
+		"wikipedia": "de:Stadtsparkasse Sprockhövel",
+		"id": "Q1752273",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Sprockh%C3%B6vel",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "2 (+ 3 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Schwedt",
+		"wikipedia": "de:Stadtsparkasse Schwedt",
+		"id": "Q19964021",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Schwedt",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "2 (+ 2 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Wedel",
+		"wikipedia": "de:Stadtsparkasse Wedel",
+		"id": "Q2328122",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Wedel",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "2"
+	},
+	{
+		"title": "Stadtsparkasse Rahden",
+		"wikipedia": "de:Stadtsparkasse Rahden",
+		"id": "Q18631083",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Rahden",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "2"
+	},
+	{
+		"title": "Stadtsparkasse Schwalmstadt",
+		"wikipedia": "de:Stadtsparkasse Schwalmstadt",
+		"id": "Q15130155",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Schwalmstadt",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "2"
+	},
+	{
+		"title": "Kreissparkasse Grafschaft Bentheim zu Nordhorn",
+		"wikipedia": "de:Kreissparkasse Grafschaft Bentheim zu Nordhorn",
+		"id": "Q1683380",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Grafschaft_Bentheim_zu_Nordhorn",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "19 (+ 8 SB)"
+	},
+	{
+		"title": "Sparkasse Märkisch-Oderland",
+		"wikipedia": "de:Sparkasse Märkisch-Oderland",
+		"id": "Q1645803",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_M%C3%A4rkisch-Oderland",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "19 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Berchtesgadener Land",
+		"wikipedia": "de:Sparkasse Berchtesgadener Land",
+		"id": "Q1644106",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Berchtesgadener_Land",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "19 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Aurich-Norden",
+		"aliases": [
+			"Sparkasse Aurich/Norden"
+		],
+		"wikipedia": "de:Sparkasse Aurich-Norden",
+		"id": "Q2307293",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Aurich-Norden",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "19 (+ 16 SB)"
+	},
+	{
+		"title": "Sparkasse Rhein-Maas",
+		"wikipedia": "de:Sparkasse Rhein-Maas",
+		"id": "Q2307502",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Rhein-Maas",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "19 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse Dillenburg",
+		"wikipedia": "de:Sparkasse Dillenburg",
+		"id": "Q18289500",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Dillenburg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "19 (+ 1 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Fürstenfeldbruck",
+		"wikipedia": "de:Sparkasse Fürstenfeldbruck",
+		"id": "Q1312801",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_F%C3%BCrstenfeldbruck",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "19"
+	},
+	{
+		"title": "Sparkasse Freyung-Grafenau",
+		"wikipedia": "de:Sparkasse Freyung-Grafenau",
+		"id": "Q2307413",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Freyung-Grafenau",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "19"
+	},
+	{
+		"title": "Sparkasse Schaumburg",
+		"wikipedia": "de:Sparkasse Schaumburg",
+		"id": "Q1537492",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Schaumburg",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "19"
+	},
+	{
+		"title": "Sparkasse Hohenlohekreis",
+		"wikipedia": "de:Sparkasse Hohenlohekreis",
+		"id": "Q2307480",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hohenlohekreis",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "18 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Bad Oeynhausen - Porta Westfalica",
+		"wikipedia": "de:Sparkasse Bad Oeynhausen - Porta Westfalica",
+		"id": "Q2328084",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bad_Oeynhausen_-_Porta_Westfalica",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "18 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Gießen",
+		"wikipedia": "de:Sparkasse Gießen",
+		"id": "Q2307427",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gie%C3%9Fen",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "18 (+ 16 SB)"
+	},
+	{
+		"title": "Sparkasse Meißen",
+		"wikipedia": "de:Sparkasse Meißen",
+		"id": "Q15128949",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mei%C3%9Fen",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "18 (+ 12 SB)"
+	},
+	{
+		"title": "Sparkasse Hochrhein",
+		"wikipedia": "de:Sparkasse Hochrhein",
+		"id": "Q15848091",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hochrhein",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "18 (+ 11 SB)"
+	},
+	{
+		"title": "Kreissparkasse Herzogtum Lauenburg",
+		"aliases": [
+			"Kreissparkasse Herzogtum Lauenburg"
+		],
+		"wikipedia": "de:Kreissparkasse Herzogtum Lauenburg",
+		"id": "Q1787780",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Herzogtum_Lauenburg",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "18 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Neu-Ulm - Illertissen",
+		"wikipedia": "de:Sparkasse Neu-Ulm - Illertissen",
+		"id": "Q1773361",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Neu-Ulm_-_Illertissen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "18 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse an der Lippe",
+		"wikipedia": "de:Sparkasse an der Lippe",
+		"id": "Q18630930",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_an_der_Lippe",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "18"
+	},
+	{
+		"title": "Sparkasse Worms-Alzey-Ried",
+		"wikipedia": "de:Sparkasse Worms-Alzey-Ried",
+		"id": "Q1435829",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Worms-Alzey-Ried",
+		"countries": [
+			"DE-RP",
+			"DE-HE"
+		],
+		"amount": "18"
+	},
+	{
+		"title": "Sparkasse Mecklenburg-Nordwest",
+		"wikipedia": "de:Sparkasse Mecklenburg-Nordwest",
+		"id": "Q1535595",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mecklenburg-Nordwest",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "18"
+	},
+	{
+		"title": "Sparkasse Neuburg-Rain",
+		"wikipedia": "de:Sparkasse Neuburg-Rain",
+		"id": "Q1636321",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Neuburg-Rain",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "18"
+	},
+	{
+		"title": "Sparkasse Mittelholstein",
+		"wikipedia": "de:Sparkasse Mittelholstein",
+		"id": "Q2307564",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mittelholstein",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "17 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Starkenburg",
+		"wikipedia": "de:Sparkasse Starkenburg",
+		"id": "Q2307691",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Starkenburg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "17 (+ 6 SB)"
+	},
+	{
+		"title": "Kreissparkasse Heidenheim",
+		"wikipedia": "de:Kreissparkasse Heidenheim",
+		"id": "Q37068918",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Heidenheim",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "17 (+ 6 SB)"
+	},
+	{
+		"title": "Kreissparkasse Euskirchen",
+		"wikipedia": "de:Kreissparkasse Euskirchen",
+		"id": "Q1787776",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Euskirchen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "17 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Aichach-Schrobenhausen",
+		"wikipedia": "de:Sparkasse Aichach-Schrobenhausen",
+		"id": "Q15848089",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Aichach-Schrobenhausen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "17 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Baden-Baden Gaggenau",
+		"wikipedia": "de:Sparkasse Baden-Baden Gaggenau",
+		"id": "Q19059957",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Baden-Baden_Gaggenau",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "17 (+ 3 SB)"
+	},
+	{
+		"title": "Hohenzollerische Landesbank Kreissparkasse Sigmaringen",
+		"aliases": [
+			"Hohenzollerische Landesbank - Kreissparkasse Sigmaringen",
+			"Hohenzollerische Landesbank – Kreissparkasse Sigmaringen"
+		],
+		"wikipedia": "de:Hohenzollerische Landesbank Kreissparkasse Sigmaringen",
+		"id": "Q1623858",
+		"link": "https://de.wikipedia.org/wiki/Hohenzollerische_Landesbank_Kreissparkasse_Sigmaringen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "17 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Günzburg-Krumbach",
+		"wikipedia": "de:Sparkasse Günzburg-Krumbach",
+		"id": "Q1425072",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_G%C3%BCnzburg-Krumbach",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "17 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Hameln-Weserbergland",
+		"wikipedia": "de:Sparkasse Hameln-Weserbergland",
+		"id": "Q22674568",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hameln-Weserbergland",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "17 (+ 19 SB)"
+	},
+	{
+		"title": "Kreis- und Stadtsparkasse Erding-Dorfen",
+		"aliases": [
+			"Sparkasse Erding-Dorfen"
+		],
+		"wikipedia": "de:Kreis- und Stadtsparkasse Erding-Dorfen",
+		"id": "Q1787168",
+		"link": "https://de.wikipedia.org/wiki/Kreis-_und_Stadtsparkasse_Erding-Dorfen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "17 (+ 17 SB)"
+	},
+	{
+		"title": "Sparkasse Hilden-Ratingen-Velbert",
+		"aliases": [
+			"Sparkasse HRV"
+		],
+		"wikipedia": "de:Sparkasse Hilden-Ratingen-Velbert",
+		"id": "Q2307467",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hilden-Ratingen-Velbert",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "17 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Jena-Saale-Holzland",
+		"wikipedia": "de:Sparkasse Jena-Saale-Holzland",
+		"id": "Q2307490",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Jena-Saale-Holzland",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "17"
+	},
+	{
+		"title": "Kreissparkasse Saale-Orla",
+		"wikipedia": "de:Kreissparkasse Saale-Orla",
+		"id": "Q18287998",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Saale-Orla",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "17"
+	},
+	{
+		"title": "Kreissparkasse Düsseldorf",
+		"wikipedia": "de:Kreissparkasse Düsseldorf",
+		"id": "Q1787774",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_D%C3%BCsseldorf",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "17"
+	},
+	{
+		"title": "Kreissparkasse Miesbach-Tegernsee",
+		"wikipedia": "de:Kreissparkasse Miesbach-Tegernsee",
+		"id": "Q1787796",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Miesbach-Tegernsee",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "16 (+ 8 SB)"
+	},
+	{
+		"title": "Sparkasse Mittelmosel – Eifel Mosel Hunsrück",
+		"wikipedia": "de:Sparkasse Mittelmosel – Eifel Mosel Hunsrück",
+		"id": "Q1562562",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mittelmosel_%E2%80%93_Eifel_Mosel_Hunsr%C3%BCck",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "16 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Höxter",
+		"wikipedia": "de:Sparkasse Höxter",
+		"id": "Q2307482",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_H%C3%B6xter",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "16 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Werra-Meißner",
+		"wikipedia": "de:Sparkasse Werra-Meißner",
+		"id": "Q1170839",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Werra-Mei%C3%9Fner",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "16 (+ 6 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Sparkasse Rastatt-Gernsbach",
+		"wikipedia": "de:Sparkasse Rastatt-Gernsbach",
+		"id": "Q26794524",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Rastatt-Gernsbach",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "16 (+ 6 SB)"
+	},
+	{
+		"title": "Sparkasse Freising",
+		"wikipedia": "de:Sparkasse Freising",
+		"id": "Q1617919",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Freising",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "16 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Amberg-Sulzbach",
+		"wikipedia": "de:Sparkasse Amberg-Sulzbach",
+		"id": "Q1565995",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Amberg-Sulzbach",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "16 (+ 4 SB)"
+	},
+	{
+		"title": "Vereinigte Sparkasse im Märkischen Kreis",
+		"wikipedia": "de:Vereinigte Sparkasse im Märkischen Kreis",
+		"id": "Q16321084",
+		"link": "https://de.wikipedia.org/wiki/Vereinigte_Sparkasse_im_M%C3%A4rkischen_Kreis",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "16 (+ 3 SB)"
+	},
+	{
+		"title": "Kreissparkasse Saalfeld-Rudolstadt",
+		"aliases": [
+			"Sparkasse Saalfeld",
+			"Sparkasse Rudolstadt",
+			"Kreissparkasse Saalfeld",
+			"Kreissparkasse Rudolstadt"
+		],
+		"wikipedia": "de:Kreissparkasse Saalfeld-Rudolstadt",
+		"id": "Q1787802",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Saalfeld-Rudolstadt",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "16 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Mansfeld-Südharz",
+		"wikipedia": "de:Sparkasse Mansfeld-Südharz",
+		"id": "Q28484708",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mansfeld-S%C3%BCdharz",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "16 (+ 13 SB)"
+	},
+	{
+		"title": "Kreissparkasse Mayen",
+		"wikipedia": "de:Kreissparkasse Mayen",
+		"id": "Q1787792",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Mayen",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "16 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse Bad Kissingen",
+		"wikipedia": "de:Sparkasse Bad Kissingen",
+		"id": "Q2307302",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bad_Kissingen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "16 (+ 1 SB)"
+	},
+	{
+		"title": "Kreissparkasse Anhalt-Bitterfeld",
+		"wikipedia": "de:Kreissparkasse Anhalt-Bitterfeld",
+		"id": "Q50682772",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Anhalt-Bitterfeld",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "16"
+	},
+	{
+		"title": "Sparkasse Lippstadt",
+		"wikipedia": "de:Sparkasse Lippstadt",
+		"id": "Q1573103",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Lippstadt",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "16"
+	},
+	{
+		"title": "Kreissparkasse Birkenfeld",
+		"aliases": [
+			"Birkenfelder Landesbank",
+			"Bilaba",
+			"KSK Birkenfeld"
+		],
+		"wikipedia": "de:Kreissparkasse Birkenfeld",
+		"id": "Q1787770",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Birkenfeld",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "16"
+	},
+	{
+		"title": "Sparkasse Niederlausitz",
+		"wikipedia": "de:Sparkasse Niederlausitz",
+		"id": "Q1288753",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Niederlausitz",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "16"
+	},
+	{
+		"title": "Kreissparkasse Köln",
+		"aliases": [
+			"KSK Köln"
+		],
+		"wikipedia": "de:Kreissparkasse Köln",
+		"id": "Q1787788",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_K%C3%B6ln",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "159 (+ 33 SB)(+ 4 mobil)"
+	},
+	{
+		"title": "Sparkasse Donauwörth",
+		"wikipedia": "de:Sparkasse Donauwörth",
+		"id": "Q2307363",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Donauw%C3%B6rth",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "15 (+ 9 SB)"
+	},
+	{
+		"title": "Kreissparkasse Bitburg-Prüm",
+		"wikipedia": "de:Kreissparkasse Bitburg-Prüm",
+		"id": "Q18628329",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Bitburg-Pr%C3%BCm",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "15 (+ 9 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Kaiserslautern",
+		"wikipedia": "de:Stadtsparkasse Kaiserslautern",
+		"id": "Q2328109",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Kaiserslautern",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "15 (+ 2 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Magdeburg",
+		"wikipedia": "de:Stadtsparkasse Magdeburg",
+		"id": "Q56070793",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Magdeburg",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "15 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Barnim",
+		"wikipedia": "de:Sparkasse Barnim",
+		"id": "Q2307313",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Barnim",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "15 (+ 10 SB)"
+	},
+	{
+		"title": "Kreissparkasse St. Wendel",
+		"wikipedia": "de:Kreissparkasse St. Wendel",
+		"id": "Q1787809",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_St._Wendel",
+		"countries": [
+			"DE-SL"
+		],
+		"amount": "15"
+	},
+	{
+		"title": "Sparkasse Pfaffenhofen",
+		"wikipedia": "de:Sparkasse Pfaffenhofen",
+		"id": "Q2307617",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Pfaffenhofen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "15"
+	},
+	{
+		"title": "Kreissparkasse Stendal",
+		"wikipedia": "de:Kreissparkasse Stendal",
+		"id": "Q56070842",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Stendal",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "15"
+	},
+	{
+		"title": "Hamburger Sparkasse",
+		"aliases": [
+			"Hamburger Sparkasse AG",
+			"Haspa",
+			"Hamburger Sparcasse von 1827",
+			"Neue Sparcasse von 1864"
+		],
+		"wikipedia": "de:Hamburger Sparkasse",
+		"id": "Q1573140",
+		"link": "https://de.wikipedia.org/wiki/Hamburger_Sparkasse",
+		"countries": [
+			"DE-HH"
+		],
+		"amount": "146"
+	},
+	{
+		"title": "Kreissparkasse Grafschaft Diepholz",
+		"wikipedia": "de:Kreissparkasse Grafschaft Diepholz",
+		"id": "Q15117665",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Grafschaft_Diepholz",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "14 (+ 4 SB)"
+	},
+	{
+		"title": "Sparkasse Odenwaldkreis",
+		"wikipedia": "de:Sparkasse Odenwaldkreis",
+		"id": "Q18334182",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Odenwaldkreis",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "14 (+ 3 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Kreissparkasse Eichsfeld",
+		"wikipedia": "de:Kreissparkasse Eichsfeld",
+		"id": "Q1691959",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Eichsfeld",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "14 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Jerichower Land",
+		"wikipedia": "de:Sparkasse Jerichower Land",
+		"id": "Q56070868",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Jerichower_Land",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "14 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Hochschwarzwald",
+		"wikipedia": "de:Sparkasse Hochschwarzwald",
+		"id": "Q56070763",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hochschwarzwald",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "14 (+ 2 SB)"
+	},
+	{
+		"title": "Kreissparkasse Rhein-Hunsrück",
+		"wikipedia": "de:Kreissparkasse Rhein-Hunsrück",
+		"id": "Q1525586",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Rhein-Hunsr%C3%BCck",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "14 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse Unstrut-Hainich",
+		"wikipedia": "de:Sparkasse Unstrut-Hainich",
+		"id": "Q18334187",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Unstrut-Hainich",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "14"
+	},
+	{
+		"title": "Kreissparkasse Hildburghausen",
+		"wikipedia": "de:Kreissparkasse Hildburghausen",
+		"id": "Q18287994",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Hildburghausen",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "14"
+	},
+	{
+		"title": "Kreis-Sparkasse Northeim",
+		"aliases": [
+			"Kreissparkasse Northeim"
+		],
+		"wikipedia": "de:Kreis-Sparkasse Northeim",
+		"id": "Q1787162",
+		"link": "https://de.wikipedia.org/wiki/Kreis-Sparkasse_Northeim",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "14"
+	},
+	{
+		"title": "Sparkasse HagenHerdecke",
+		"wikipedia": "de:Sparkasse HagenHerdecke",
+		"id": "Q1644724",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_HagenHerdecke",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "14"
+	},
+	{
+		"title": "Sparkasse Hochsauerland",
+		"wikipedia": "de:Sparkasse Hochsauerland",
+		"id": "Q2307477",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hochsauerland",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "13 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Arnstadt-Ilmenau",
+		"wikipedia": "de:Sparkasse Arnstadt-Ilmenau",
+		"id": "Q2307280",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Arnstadt-Ilmenau",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "13 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Staufen-Breisach",
+		"wikipedia": "de:Sparkasse Staufen-Breisach",
+		"id": "Q53968330",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Staufen-Breisach",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "13 (+ 9 SB)"
+	},
+	{
+		"title": "Sparkasse Ostprignitz-Ruppin",
+		"wikipedia": "de:Sparkasse Ostprignitz-Ruppin",
+		"id": "Q56070775",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Ostprignitz-Ruppin",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "13 (+ 5 SB)"
+	},
+	{
+		"title": "Herner Sparkasse",
+		"aliases": [
+			"Sparkasse Herne"
+		],
+		"wikipedia": "de:Herner Sparkasse",
+		"id": "Q15709500",
+		"link": "https://de.wikipedia.org/wiki/Herner_Sparkasse",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "13 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Muldental",
+		"wikipedia": "de:Sparkasse Muldental",
+		"id": "Q56070852",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Muldental",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "13 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Pfullendorf-Meßkirch",
+		"wikipedia": "de:Sparkasse Pfullendorf-Meßkirch",
+		"id": "Q2307621",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Pfullendorf-Me%C3%9Fkirch",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "13 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Uckermark",
+		"wikipedia": "de:Sparkasse Uckermark",
+		"id": "Q2307700",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Uckermark",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "13"
+	},
+	{
+		"title": "Sparkasse Prignitz",
+		"wikipedia": "de:Sparkasse Prignitz",
+		"id": "Q56199282",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Prignitz",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "13"
+	},
+	{
+		"title": "Mittelbrandenburgische Sparkasse in Potsdam",
+		"aliases": [
+			"Mittelbrandenburgische Sparkasse"
+		],
+		"wikipedia": "de:Mittelbrandenburgische Sparkasse in Potsdam",
+		"id": "Q1940058",
+		"link": "https://de.wikipedia.org/wiki/Mittelbrandenburgische_Sparkasse_in_Potsdam",
+		"countries": [
+			"DE-BB"
+		],
+		"amount": "121"
+	},
+	{
+		"title": "Sparkasse Lemgo",
+		"wikipedia": "de:Sparkasse Lemgo",
+		"id": "Q2307536",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Lemgo",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "12 (+ 7 SB)"
+	},
+	{
+		"title": "Sparkasse Hamm",
+		"wikipedia": "de:Sparkasse Hamm",
+		"id": "Q18630921",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hamm",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "12 (+ 5 SB)"
+	},
+	{
+		"title": "Kreissparkasse Gotha",
+		"wikipedia": "de:Kreissparkasse Gotha",
+		"id": "Q18287991",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Gotha",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "12 (+ 5 SB)"
+	},
+	{
+		"title": "Kreis- und Stadtsparkasse Kaufbeuren",
+		"wikipedia": "de:Kreis- und Stadtsparkasse Kaufbeuren",
+		"id": "Q1787169",
+		"link": "https://de.wikipedia.org/wiki/Kreis-_und_Stadtsparkasse_Kaufbeuren",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "12 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse zu Lübeck",
+		"aliases": [
+			"Sparkasse zu Lübeck AG"
+		],
+		"wikipedia": "de:Sparkasse zu Lübeck",
+		"id": "Q2307753",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_zu_L%C3%BCbeck",
+		"countries": [
+			"DE-SH"
+		],
+		"amount": "12 (+ 12 SB)"
+	},
+	{
+		"title": "Kreissparkasse Gelnhausen",
+		"wikipedia": "de:Kreissparkasse Gelnhausen",
+		"id": "Q15117664",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Gelnhausen",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "12 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse Parchim-Lübz",
+		"wikipedia": "de:Sparkasse Parchim-Lübz",
+		"id": "Q2307612",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Parchim-L%C3%BCbz",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "12"
+	},
+	{
+		"title": "Sparkasse Neubrandenburg-Demmin",
+		"wikipedia": "de:Sparkasse Neubrandenburg-Demmin",
+		"id": "Q1715498",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Neubrandenburg-Demmin",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "12"
+	},
+	{
+		"title": "Sparkasse Mülheim an der Ruhr",
+		"wikipedia": "de:Sparkasse Mülheim an der Ruhr",
+		"id": "Q18630938",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_M%C3%BClheim_an_der_Ruhr",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "12"
+	},
+	{
+		"title": "Sparkasse Salem-Heiligenberg",
+		"wikipedia": "de:Sparkasse Salem-Heiligenberg",
+		"id": "Q2307658",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Salem-Heiligenberg",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "12"
+	},
+	{
+		"title": "Sparkasse Markgräflerland",
+		"wikipedia": "de:Sparkasse Markgräflerland",
+		"id": "Q1430840",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Markgr%C3%A4flerland",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "12"
+	},
+	{
+		"title": "Sparkasse Pforzheim Calw",
+		"aliases": [
+			"Sparkasse Calw",
+			"Sparkasse Pforzheim",
+			"Kreissparkasse Calw"
+		],
+		"wikipedia": "de:Sparkasse Pforzheim Calw",
+		"id": "Q2307618",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Pforzheim_Calw",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "111 (+ 5 SB)"
+	},
+	{
+		"title": "Stadt-Sparkasse Solingen",
+		"wikipedia": "de:Stadt-Sparkasse Solingen",
+		"id": "Q18631057",
+		"link": "https://de.wikipedia.org/wiki/Stadt-Sparkasse_Solingen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "11 (+ 8 SB)"
+	},
+	{
+		"title": "Sparkasse Lörrach-Rheinfelden",
+		"wikipedia": "de:Sparkasse Lörrach-Rheinfelden",
+		"id": "Q2307539",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_L%C3%B6rrach-Rheinfelden",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "11 (+ 7 SB)"
+	},
+	{
+		"title": "Kreissparkasse Nordhausen",
+		"wikipedia": "de:Kreissparkasse Nordhausen",
+		"id": "Q18410516",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Nordhausen",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "11 (+ 5 SB)"
+	},
+	{
+		"title": "Sparkasse Hanauerland",
+		"wikipedia": "de:Sparkasse Hanauerland",
+		"id": "Q2307444",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Hanauerland",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "11 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Duderstadt",
+		"aliases": [
+			"Zweckverbandssparkasse Duderstadt"
+		],
+		"wikipedia": "de:Sparkasse Duderstadt",
+		"id": "Q2307371",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Duderstadt",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "11 (+ 2 SB)(+ 1 mobil)"
+	},
+	{
+		"title": "Kreissparkasse Soltau",
+		"wikipedia": "de:Kreissparkasse Soltau",
+		"id": "Q1787807",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Soltau",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "11 (+ 2 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Bocholt",
+		"wikipedia": "de:Stadtsparkasse Bocholt",
+		"id": "Q1310641",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Bocholt",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "11 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Altmark West",
+		"wikipedia": "de:Sparkasse Altmark West",
+		"id": "Q56070799",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Altmark_West",
+		"countries": [
+			"DE-ST"
+		],
+		"amount": "11 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Bühl",
+		"wikipedia": "de:Sparkasse Bühl",
+		"id": "Q26794521",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_B%C3%BChl",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "11 (+ 2 SB)"
+	},
+	{
+		"title": "Sparkasse Iserlohn",
+		"aliases": [
+			"Sparkasse der Stadt Iserlohn"
+		],
+		"wikipedia": "de:Sparkasse Iserlohn",
+		"id": "Q2307489",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Iserlohn",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "11"
+	},
+	{
+		"title": "Sparkasse Sonneberg",
+		"wikipedia": "de:Sparkasse Sonneberg",
+		"id": "Q18334184",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Sonneberg",
+		"countries": [
+			"DE-TH"
+		],
+		"amount": "11"
+	},
+	{
+		"title": "Sparkasse Lüdenscheid",
+		"wikipedia": "de:Sparkasse Lüdenscheid",
+		"id": "Q2307543",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_L%C3%BCdenscheid",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "11"
+	},
+	{
+		"title": "Sparkasse Witten",
+		"aliases": [
+			"Stadtsparkasse Witten"
+		],
+		"wikipedia": "de:Sparkasse Witten",
+		"id": "Q2307725",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Witten",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "11"
+	},
+	{
+		"title": "Stadtsparkasse Cuxhaven",
+		"wikipedia": "de:Stadtsparkasse Cuxhaven",
+		"id": "Q1600996",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Cuxhaven",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "11"
+	},
+	{
+		"title": "Kreissparkasse Melle",
+		"wikipedia": "de:Kreissparkasse Melle",
+		"id": "Q1787794",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Melle",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "11"
+	},
+	{
+		"title": "Kreissparkasse Wiedenbrück",
+		"wikipedia": "de:Kreissparkasse Wiedenbrück",
+		"id": "Q1787821",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Wiedenbr%C3%BCck",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "11"
+	},
+	{
+		"title": "Sparkasse Donnersberg",
+		"wikipedia": "de:Sparkasse Donnersberg",
+		"id": "Q18630903",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Donnersberg",
+		"countries": [
+			"DE-RP"
+		],
+		"amount": "11"
+	},
+	{
+		"title": "Nassauische Sparkasse",
+		"aliases": [
+			"Naspa"
+		],
+		"wikipedia": "de:Nassauische Sparkasse",
+		"id": "Q1751833",
+		"link": "https://de.wikipedia.org/wiki/Nassauische_Sparkasse",
+		"countries": [
+			"DE-HE",
+			"DE-RP"
+		],
+		"amount": "109 (+ 31 SB)"
+	},
+	{
+		"title": "Sparkasse Mainfranken Würzburg",
+		"wikipedia": "de:Sparkasse Mainfranken Würzburg",
+		"id": "Q2307545",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Mainfranken_W%C3%BCrzburg",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "108 (+ 10 SB)"
+	},
+	{
+		"title": "Ostsächsische Sparkasse Dresden",
+		"aliases": [
+			"Stadtsparkasse Dresden",
+			"Sparkasse Dresden"
+		],
+		"wikipedia": "de:Ostsächsische Sparkasse Dresden",
+		"id": "Q2036125",
+		"link": "https://de.wikipedia.org/wiki/Osts%C3%A4chsische_Sparkasse_Dresden",
+		"countries": [
+			"DE-SN"
+		],
+		"amount": "100 (+ 44 SB)(+ 5 mobil)"
+	},
+	{
+		"title": "Kreis- und Stadtsparkasse Dillingen",
+		"wikipedia": "de:Kreis- und Stadtsparkasse Dillingen",
+		"id": "Q1656888",
+		"link": "https://de.wikipedia.org/wiki/Kreis-_und_Stadtsparkasse_Dillingen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "10 (+ 7 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Oberhausen",
+		"wikipedia": "de:Stadtsparkasse Oberhausen",
+		"id": "Q15130152",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Oberhausen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "10 (+ 3 SB)"
+	},
+	{
+		"title": "Sparkasse Leverkusen",
+		"wikipedia": "de:Sparkasse Leverkusen",
+		"id": "Q16856990",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Leverkusen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "10 (+ 11 SB)"
+	},
+	{
+		"title": "Sparkasse Bensheim",
+		"aliases": [
+			"Bezirkssparkasse Bensheim"
+		],
+		"wikipedia": "de:Sparkasse Bensheim",
+		"id": "Q2307319",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Bensheim",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "10 (+ 10 SB)"
+	},
+	{
+		"title": "Sparkasse UnnaKamen",
+		"wikipedia": "de:Sparkasse UnnaKamen",
+		"id": "Q15848097",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_UnnaKamen",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "10 (+ 1 SB)"
+	},
+	{
+		"title": "Sparkasse Osterode am Harz",
+		"wikipedia": "de:Sparkasse Osterode am Harz",
+		"id": "Q2307600",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Osterode_am_Harz",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "10 (+ 1 SB)"
+	},
+	{
+		"title": "Vereinigte Sparkassen Gunzenhausen",
+		"aliases": [
+			"Sparkasse Gunzenhausen"
+		],
+		"wikipedia": "de:Vereinigte Sparkassen Gunzenhausen",
+		"id": "Q2514964",
+		"link": "https://de.wikipedia.org/wiki/Vereinigte_Sparkassen_Gunzenhausen",
+		"countries": [
+			"DE-BY"
+		],
+		"amount": "10"
+	},
+	{
+		"title": "Kreissparkasse Walsrode",
+		"aliases": [
+			"Kreissparkasse Fallingbostel in Walsrode"
+		],
+		"wikipedia": "de:Kreissparkasse Walsrode",
+		"id": "Q1787817",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Walsrode",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "10"
+	},
+	{
+		"title": "Kreissparkasse Weilburg",
+		"wikipedia": "de:Kreissparkasse Weilburg",
+		"id": "Q1787819",
+		"link": "https://de.wikipedia.org/wiki/Kreissparkasse_Weilburg",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "10"
+	},
+	{
+		"title": "Müritz-Sparkasse",
+		"wikipedia": "de:Müritz-Sparkasse",
+		"id": "Q1959286",
+		"link": "https://de.wikipedia.org/wiki/M%C3%BCritz-Sparkasse",
+		"countries": [
+			"DE-MV"
+		],
+		"amount": "10"
+	},
+	{
+		"title": "Sparkasse Gevelsberg-Wetter",
+		"wikipedia": "de:Sparkasse Gevelsberg-Wetter",
+		"id": "Q2328103",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Gevelsberg-Wetter",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "10"
+	},
+	{
+		"title": "Sparkasse Engen-Gottmadingen",
+		"wikipedia": "de:Sparkasse Engen-Gottmadingen",
+		"id": "Q56070863",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Engen-Gottmadingen",
+		"countries": [
+			"DE-BW"
+		],
+		"amount": "10"
+	},
+	{
+		"title": "Sparkasse Schwerte",
+		"wikipedia": "de:Sparkasse Schwerte",
+		"id": "Q18630952",
+		"link": "https://de.wikipedia.org/wiki/Sparkasse_Schwerte",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "1 (+ 4 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Burgdorf",
+		"wikipedia": "de:Stadtsparkasse Burgdorf",
+		"id": "Q1752351",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Burgdorf",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "1 (+ 4 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Barsinghausen",
+		"wikipedia": "de:Stadtsparkasse Barsinghausen",
+		"id": "Q2328088",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Barsinghausen",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "1 (+ 4 SB)"
+	},
+	{
+		"title": "Stadtsparkasse Borken",
+		"wikipedia": "de:Stadtsparkasse Borken",
+		"id": "Q2328091",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Borken",
+		"countries": [
+			"DE-HE"
+		],
+		"amount": "1 (+ 1 SB)"
+	},
+	{
+		"title": "Städtische Sparkasse zu Schwelm",
+		"wikipedia": "de:Städtische Sparkasse zu Schwelm",
+		"id": "Q18631341",
+		"link": "https://de.wikipedia.org/wiki/St%C3%A4dtische_Sparkasse_zu_Schwelm",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "1"
+	},
+	{
+		"title": "Stadtsparkasse Versmold",
+		"wikipedia": "de:Stadtsparkasse Versmold",
+		"id": "Q18631086",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Versmold",
+		"countries": [
+			"DE-NW"
+		],
+		"amount": "1"
+	},
+	{
+		"title": "Stadtsparkasse Bad Sachsa",
+		"wikipedia": "de:Stadtsparkasse Bad Sachsa",
+		"id": "Q1310761",
+		"link": "https://de.wikipedia.org/wiki/Stadtsparkasse_Bad_Sachsa",
+		"countries": [
+			"DE-NI"
+		],
+		"amount": "1"
+	}
+]
