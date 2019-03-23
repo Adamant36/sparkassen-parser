@@ -9,7 +9,8 @@
 			"brand": "Berliner Sparkasse",
 			"brand:wikidata": "Q821760",
 			"brand:wikipedia": "de:Berliner Sparkasse",
-			"name": "Berliner Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Berliner Sparkasse"
 		}
 	},
 	"amenity/bank|Bezirkssparkasse Reichenau": {
@@ -22,7 +23,8 @@
 			"brand": "Bezirkssparkasse Reichenau",
 			"brand:wikidata": "Q18616717",
 			"brand:wikipedia": "de:Bezirkssparkasse Reichenau",
-			"name": "Bezirkssparkasse Reichenau"
+			"name": "Sparkasse",
+			"official_name": "Bezirkssparkasse Reichenau"
 		}
 	},
 	"amenity/bank|Bordesholmer Sparkasse": {
@@ -35,7 +37,8 @@
 			"brand": "Bordesholmer Sparkasse",
 			"brand:wikidata": "Q893433",
 			"brand:wikipedia": "de:Bordesholmer Sparkasse",
-			"name": "Bordesholmer Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Bordesholmer Sparkasse"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Bordesholm",
@@ -52,7 +55,8 @@
 			"brand": "Braunschweigische Landessparkasse",
 			"brand:wikidata": "Q902027",
 			"brand:wikipedia": "de:Braunschweigische Landessparkasse",
-			"name": "Braunschweigische Landessparkasse"
+			"name": "Sparkasse",
+			"official_name": "Braunschweigische Landessparkasse"
 		},
 		"match": [
 			"amenity/bank|BLSK",
@@ -69,7 +73,8 @@
 			"brand": "Erzgebirgssparkasse",
 			"brand:wikidata": "Q1366150",
 			"brand:wikipedia": "de:Erzgebirgssparkasse",
-			"name": "Erzgebirgssparkasse"
+			"name": "Sparkasse",
+			"official_name": "Erzgebirgssparkasse"
 		}
 	},
 	"amenity/bank|Frankfurter Sparkasse": {
@@ -82,7 +87,8 @@
 			"brand": "Frankfurter Sparkasse",
 			"brand:wikidata": "Q1445030",
 			"brand:wikipedia": "de:Frankfurter Sparkasse",
-			"name": "Frankfurter Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Frankfurter Sparkasse"
 		},
 		"match": [
 			"amenity/bank|Fraspa",
@@ -102,7 +108,8 @@
 			"brand": "Förde Sparkasse",
 			"brand:wikidata": "Q1479894",
 			"brand:wikipedia": "de:Förde Sparkasse",
-			"name": "Förde Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Förde Sparkasse"
 		},
 		"match": [
 			"amenity/bank|Fördesparkasse",
@@ -119,7 +126,8 @@
 			"brand": "Hamburger Sparkasse",
 			"brand:wikidata": "Q1573140",
 			"brand:wikipedia": "de:Hamburger Sparkasse",
-			"name": "Hamburger Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Hamburger Sparkasse"
 		},
 		"match": [
 			"amenity/bank|Hamburger Sparkasse AG",
@@ -138,7 +146,8 @@
 			"brand": "Harzsparkasse",
 			"brand:wikidata": "Q1268986",
 			"brand:wikipedia": "de:Harzsparkasse",
-			"name": "Harzsparkasse"
+			"name": "Sparkasse",
+			"official_name": "Harzsparkasse"
 		}
 	},
 	"amenity/bank|Herner Sparkasse": {
@@ -151,7 +160,8 @@
 			"brand": "Herner Sparkasse",
 			"brand:wikidata": "Q15709500",
 			"brand:wikipedia": "de:Herner Sparkasse",
-			"name": "Herner Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Herner Sparkasse"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Herne"
@@ -167,7 +177,8 @@
 			"brand": "Hohenzollerische Landesbank Kreissparkasse Sigmaringen",
 			"brand:wikidata": "Q1623858",
 			"brand:wikipedia": "de:Hohenzollerische Landesbank Kreissparkasse Sigmaringen",
-			"name": "Hohenzollerische Landesbank Kreissparkasse Sigmaringen"
+			"name": "Sparkasse",
+			"official_name": "Hohenzollerische Landesbank Kreissparkasse Sigmaringen"
 		},
 		"match": [
 			"amenity/bank|Hohenzollerische Landesbank - Kreissparkasse Sigmaringen",
@@ -184,7 +195,8 @@
 			"brand": "Kasseler Sparkasse",
 			"brand:wikidata": "Q968300",
 			"brand:wikipedia": "de:Kasseler Sparkasse",
-			"name": "Kasseler Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Kasseler Sparkasse"
 		}
 	},
 	"amenity/bank|Kreis- und Stadtsparkasse Dillingen": {
@@ -197,7 +209,8 @@
 			"brand": "Kreis- und Stadtsparkasse Dillingen",
 			"brand:wikidata": "Q1656888",
 			"brand:wikipedia": "de:Kreis- und Stadtsparkasse Dillingen",
-			"name": "Kreis- und Stadtsparkasse Dillingen"
+			"name": "Sparkasse",
+			"official_name": "Kreis- und Stadtsparkasse Dillingen"
 		}
 	},
 	"amenity/bank|Kreis- und Stadtsparkasse Erding-Dorfen": {
@@ -210,7 +223,8 @@
 			"brand": "Kreis- und Stadtsparkasse Erding-Dorfen",
 			"brand:wikidata": "Q1787168",
 			"brand:wikipedia": "de:Kreis- und Stadtsparkasse Erding-Dorfen",
-			"name": "Kreis- und Stadtsparkasse Erding-Dorfen"
+			"name": "Sparkasse",
+			"official_name": "Kreis- und Stadtsparkasse Erding-Dorfen"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Erding-Dorfen"
@@ -226,7 +240,8 @@
 			"brand": "Kreis- und Stadtsparkasse Kaufbeuren",
 			"brand:wikidata": "Q1787169",
 			"brand:wikipedia": "de:Kreis- und Stadtsparkasse Kaufbeuren",
-			"name": "Kreis- und Stadtsparkasse Kaufbeuren"
+			"name": "Sparkasse",
+			"official_name": "Kreis- und Stadtsparkasse Kaufbeuren"
 		}
 	},
 	"amenity/bank|Kreis- und Stadtsparkasse Wasserburg am Inn": {
@@ -239,7 +254,8 @@
 			"brand": "Kreis- und Stadtsparkasse Wasserburg am Inn",
 			"brand:wikidata": "Q1787172",
 			"brand:wikipedia": "de:Kreis- und Stadtsparkasse Wasserburg am Inn",
-			"name": "Kreis- und Stadtsparkasse Wasserburg am Inn"
+			"name": "Sparkasse",
+			"official_name": "Kreis- und Stadtsparkasse Wasserburg am Inn"
 		}
 	},
 	"amenity/bank|Kreis-Sparkasse Northeim": {
@@ -252,7 +268,8 @@
 			"brand": "Kreis-Sparkasse Northeim",
 			"brand:wikidata": "Q1787162",
 			"brand:wikipedia": "de:Kreis-Sparkasse Northeim",
-			"name": "Kreis-Sparkasse Northeim"
+			"name": "Sparkasse",
+			"official_name": "Kreis-Sparkasse Northeim"
 		},
 		"match": [
 			"amenity/bank|Kreissparkasse Northeim"
@@ -268,7 +285,8 @@
 			"brand": "Kreissparkasse Ahrweiler",
 			"brand:wikidata": "Q18022447",
 			"brand:wikipedia": "de:Kreissparkasse Ahrweiler",
-			"name": "Kreissparkasse Ahrweiler"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Ahrweiler"
 		}
 	},
 	"amenity/bank|Kreissparkasse Anhalt-Bitterfeld": {
@@ -281,7 +299,8 @@
 			"brand": "Kreissparkasse Anhalt-Bitterfeld",
 			"brand:wikidata": "Q50682772",
 			"brand:wikipedia": "de:Kreissparkasse Anhalt-Bitterfeld",
-			"name": "Kreissparkasse Anhalt-Bitterfeld"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Anhalt-Bitterfeld"
 		}
 	},
 	"amenity/bank|Kreissparkasse Augsburg": {
@@ -294,7 +313,8 @@
 			"brand": "Kreissparkasse Augsburg",
 			"brand:wikidata": "Q1787766",
 			"brand:wikipedia": "de:Kreissparkasse Augsburg",
-			"name": "Kreissparkasse Augsburg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Augsburg"
 		}
 	},
 	"amenity/bank|Kreissparkasse Bautzen": {
@@ -307,7 +327,8 @@
 			"brand": "Kreissparkasse Bautzen",
 			"brand:wikidata": "Q1705051",
 			"brand:wikipedia": "de:Kreissparkasse Bautzen",
-			"name": "Kreissparkasse Bautzen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Bautzen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Bersenbrück": {
@@ -320,7 +341,8 @@
 			"brand": "Kreissparkasse Bersenbrück",
 			"brand:wikidata": "Q1787768",
 			"brand:wikipedia": "de:Kreissparkasse Bersenbrück",
-			"name": "Kreissparkasse Bersenbrück"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Bersenbrück"
 		}
 	},
 	"amenity/bank|Kreissparkasse Biberach": {
@@ -333,7 +355,8 @@
 			"brand": "Kreissparkasse Biberach",
 			"brand:wikidata": "Q1787769",
 			"brand:wikipedia": "de:Kreissparkasse Biberach",
-			"name": "Kreissparkasse Biberach"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Biberach"
 		},
 		"match": [
 			"amenity/bank|KSK Biberach"
@@ -349,7 +372,8 @@
 			"brand": "Kreissparkasse Birkenfeld",
 			"brand:wikidata": "Q1787770",
 			"brand:wikipedia": "de:Kreissparkasse Birkenfeld",
-			"name": "Kreissparkasse Birkenfeld"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Birkenfeld"
 		},
 		"match": [
 			"amenity/bank|Birkenfelder Landesbank",
@@ -367,7 +391,8 @@
 			"brand": "Kreissparkasse Bitburg-Prüm",
 			"brand:wikidata": "Q18628329",
 			"brand:wikipedia": "de:Kreissparkasse Bitburg-Prüm",
-			"name": "Kreissparkasse Bitburg-Prüm"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Bitburg-Prüm"
 		}
 	},
 	"amenity/bank|Kreissparkasse Böblingen": {
@@ -380,7 +405,8 @@
 			"brand": "Kreissparkasse Böblingen",
 			"brand:wikidata": "Q1290595",
 			"brand:wikipedia": "de:Kreissparkasse Böblingen",
-			"name": "Kreissparkasse Böblingen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Böblingen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Börde": {
@@ -393,7 +419,8 @@
 			"brand": "Kreissparkasse Börde",
 			"brand:wikidata": "Q22674523",
 			"brand:wikipedia": "de:Kreissparkasse Börde",
-			"name": "Kreissparkasse Börde"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Börde"
 		}
 	},
 	"amenity/bank|Kreissparkasse Döbeln": {
@@ -406,7 +433,8 @@
 			"brand": "Kreissparkasse Döbeln",
 			"brand:wikidata": "Q29019823",
 			"brand:wikipedia": "de:Kreissparkasse Döbeln",
-			"name": "Kreissparkasse Döbeln"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Döbeln"
 		}
 	},
 	"amenity/bank|Kreissparkasse Düsseldorf": {
@@ -419,7 +447,8 @@
 			"brand": "Kreissparkasse Düsseldorf",
 			"brand:wikidata": "Q1787774",
 			"brand:wikipedia": "de:Kreissparkasse Düsseldorf",
-			"name": "Kreissparkasse Düsseldorf"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Düsseldorf"
 		}
 	},
 	"amenity/bank|Kreissparkasse Eichsfeld": {
@@ -432,7 +461,8 @@
 			"brand": "Kreissparkasse Eichsfeld",
 			"brand:wikidata": "Q1691959",
 			"brand:wikipedia": "de:Kreissparkasse Eichsfeld",
-			"name": "Kreissparkasse Eichsfeld"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Eichsfeld"
 		}
 	},
 	"amenity/bank|Kreissparkasse Esslingen-Nürtingen": {
@@ -445,7 +475,8 @@
 			"brand": "Kreissparkasse Esslingen-Nürtingen",
 			"brand:wikidata": "Q1492852",
 			"brand:wikipedia": "de:Kreissparkasse Esslingen-Nürtingen",
-			"name": "Kreissparkasse Esslingen-Nürtingen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Esslingen-Nürtingen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Euskirchen": {
@@ -458,7 +489,8 @@
 			"brand": "Kreissparkasse Euskirchen",
 			"brand:wikidata": "Q1787776",
 			"brand:wikipedia": "de:Kreissparkasse Euskirchen",
-			"name": "Kreissparkasse Euskirchen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Euskirchen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Freudenstadt": {
@@ -471,7 +503,8 @@
 			"brand": "Kreissparkasse Freudenstadt",
 			"brand:wikidata": "Q1787778",
 			"brand:wikipedia": "de:Kreissparkasse Freudenstadt",
-			"name": "Kreissparkasse Freudenstadt"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Freudenstadt"
 		}
 	},
 	"amenity/bank|Kreissparkasse Garmisch-Partenkirchen": {
@@ -484,7 +517,8 @@
 			"brand": "Kreissparkasse Garmisch-Partenkirchen",
 			"brand:wikidata": "Q1787777",
 			"brand:wikipedia": "de:Kreissparkasse Garmisch-Partenkirchen",
-			"name": "Kreissparkasse Garmisch-Partenkirchen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Garmisch-Partenkirchen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Gelnhausen": {
@@ -497,7 +531,8 @@
 			"brand": "Kreissparkasse Gelnhausen",
 			"brand:wikidata": "Q15117664",
 			"brand:wikipedia": "de:Kreissparkasse Gelnhausen",
-			"name": "Kreissparkasse Gelnhausen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Gelnhausen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Gotha": {
@@ -510,7 +545,8 @@
 			"brand": "Kreissparkasse Gotha",
 			"brand:wikidata": "Q18287991",
 			"brand:wikipedia": "de:Kreissparkasse Gotha",
-			"name": "Kreissparkasse Gotha"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Gotha"
 		}
 	},
 	"amenity/bank|Kreissparkasse Grafschaft Bentheim zu Nordhorn": {
@@ -523,7 +559,8 @@
 			"brand": "Kreissparkasse Grafschaft Bentheim zu Nordhorn",
 			"brand:wikidata": "Q1683380",
 			"brand:wikipedia": "de:Kreissparkasse Grafschaft Bentheim zu Nordhorn",
-			"name": "Kreissparkasse Grafschaft Bentheim zu Nordhorn"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Grafschaft Bentheim zu Nordhorn"
 		}
 	},
 	"amenity/bank|Kreissparkasse Grafschaft Diepholz": {
@@ -536,7 +573,8 @@
 			"brand": "Kreissparkasse Grafschaft Diepholz",
 			"brand:wikidata": "Q15117665",
 			"brand:wikipedia": "de:Kreissparkasse Grafschaft Diepholz",
-			"name": "Kreissparkasse Grafschaft Diepholz"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Grafschaft Diepholz"
 		}
 	},
 	"amenity/bank|Kreissparkasse Groß-Gerau": {
@@ -549,7 +587,8 @@
 			"brand": "Kreissparkasse Groß-Gerau",
 			"brand:wikidata": "Q1559993",
 			"brand:wikipedia": "de:Kreissparkasse Groß-Gerau",
-			"name": "Kreissparkasse Groß-Gerau"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Groß-Gerau"
 		}
 	},
 	"amenity/bank|Kreissparkasse Göppingen": {
@@ -562,7 +601,8 @@
 			"brand": "Kreissparkasse Göppingen",
 			"brand:wikidata": "Q1768338",
 			"brand:wikipedia": "de:Kreissparkasse Göppingen",
-			"name": "Kreissparkasse Göppingen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Göppingen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Halle (Westf.)": {
@@ -575,7 +615,8 @@
 			"brand": "Kreissparkasse Halle (Westf.)",
 			"brand:wikidata": "Q18628330",
 			"brand:wikipedia": "de:Kreissparkasse Halle (Westf.)",
-			"name": "Kreissparkasse Halle (Westf.)"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Halle (Westf.)"
 		}
 	},
 	"amenity/bank|Kreissparkasse Heidenheim": {
@@ -588,7 +629,8 @@
 			"brand": "Kreissparkasse Heidenheim",
 			"brand:wikidata": "Q37068918",
 			"brand:wikipedia": "de:Kreissparkasse Heidenheim",
-			"name": "Kreissparkasse Heidenheim"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Heidenheim"
 		}
 	},
 	"amenity/bank|Kreissparkasse Heilbronn": {
@@ -601,7 +643,8 @@
 			"brand": "Kreissparkasse Heilbronn",
 			"brand:wikidata": "Q1787781",
 			"brand:wikipedia": "de:Kreissparkasse Heilbronn",
-			"name": "Kreissparkasse Heilbronn"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Heilbronn"
 		},
 		"match": [
 			"amenity/bank|KSK Heilbronn"
@@ -617,7 +660,8 @@
 			"brand": "Kreissparkasse Heinsberg",
 			"brand:wikidata": "Q1787782",
 			"brand:wikipedia": "de:Kreissparkasse Heinsberg",
-			"name": "Kreissparkasse Heinsberg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Heinsberg"
 		}
 	},
 	"amenity/bank|Kreissparkasse Herzogtum Lauenburg": {
@@ -630,7 +674,8 @@
 			"brand": "Kreissparkasse Herzogtum Lauenburg",
 			"brand:wikidata": "Q1787780",
 			"brand:wikipedia": "de:Kreissparkasse Herzogtum Lauenburg",
-			"name": "Kreissparkasse Herzogtum Lauenburg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Herzogtum Lauenburg"
 		},
 		"match": [
 			"amenity/bank|Kreissparkasse Herzogtum Lauenburg"
@@ -646,7 +691,8 @@
 			"brand": "Kreissparkasse Hildburghausen",
 			"brand:wikidata": "Q18287994",
 			"brand:wikipedia": "de:Kreissparkasse Hildburghausen",
-			"name": "Kreissparkasse Hildburghausen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Hildburghausen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Kaiserslautern": {
@@ -659,7 +705,8 @@
 			"brand": "Kreissparkasse Kaiserslautern",
 			"brand:wikidata": "Q1787784",
 			"brand:wikipedia": "de:Kreissparkasse Kaiserslautern",
-			"name": "Kreissparkasse Kaiserslautern"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Kaiserslautern"
 		}
 	},
 	"amenity/bank|Kreissparkasse Kelheim": {
@@ -672,7 +719,8 @@
 			"brand": "Kreissparkasse Kelheim",
 			"brand:wikidata": "Q1521090",
 			"brand:wikipedia": "de:Kreissparkasse Kelheim",
-			"name": "Kreissparkasse Kelheim"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Kelheim"
 		}
 	},
 	"amenity/bank|Kreissparkasse Kusel": {
@@ -685,7 +733,8 @@
 			"brand": "Kreissparkasse Kusel",
 			"brand:wikidata": "Q15824395",
 			"brand:wikipedia": "de:Kreissparkasse Kusel",
-			"name": "Kreissparkasse Kusel"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Kusel"
 		}
 	},
 	"amenity/bank|Kreissparkasse Köln": {
@@ -698,7 +747,8 @@
 			"brand": "Kreissparkasse Köln",
 			"brand:wikidata": "Q1787788",
 			"brand:wikipedia": "de:Kreissparkasse Köln",
-			"name": "Kreissparkasse Köln"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Köln"
 		},
 		"match": [
 			"amenity/bank|KSK Köln"
@@ -714,7 +764,8 @@
 			"brand": "Kreissparkasse Limburg",
 			"brand:wikidata": "Q1787789",
 			"brand:wikipedia": "de:Kreissparkasse Limburg",
-			"name": "Kreissparkasse Limburg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Limburg"
 		}
 	},
 	"amenity/bank|Kreissparkasse Ludwigsburg": {
@@ -727,7 +778,8 @@
 			"brand": "Kreissparkasse Ludwigsburg",
 			"brand:wikidata": "Q1787791",
 			"brand:wikipedia": "de:Kreissparkasse Ludwigsburg",
-			"name": "Kreissparkasse Ludwigsburg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Ludwigsburg"
 		},
 		"match": [
 			"amenity/bank|KSK Ludwigsburg",
@@ -744,7 +796,8 @@
 			"brand": "Kreissparkasse Mayen",
 			"brand:wikidata": "Q1787792",
 			"brand:wikipedia": "de:Kreissparkasse Mayen",
-			"name": "Kreissparkasse Mayen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Mayen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Melle": {
@@ -757,7 +810,8 @@
 			"brand": "Kreissparkasse Melle",
 			"brand:wikidata": "Q1787794",
 			"brand:wikipedia": "de:Kreissparkasse Melle",
-			"name": "Kreissparkasse Melle"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Melle"
 		}
 	},
 	"amenity/bank|Kreissparkasse Miesbach-Tegernsee": {
@@ -770,7 +824,8 @@
 			"brand": "Kreissparkasse Miesbach-Tegernsee",
 			"brand:wikidata": "Q1787796",
 			"brand:wikipedia": "de:Kreissparkasse Miesbach-Tegernsee",
-			"name": "Kreissparkasse Miesbach-Tegernsee"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Miesbach-Tegernsee"
 		}
 	},
 	"amenity/bank|Kreissparkasse München Starnberg Ebersberg": {
@@ -783,7 +838,8 @@
 			"brand": "Kreissparkasse München Starnberg Ebersberg",
 			"brand:wikidata": "Q1787798",
 			"brand:wikipedia": "de:Kreissparkasse München Starnberg Ebersberg",
-			"name": "Kreissparkasse München Starnberg Ebersberg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse München Starnberg Ebersberg"
 		}
 	},
 	"amenity/bank|Kreissparkasse Nordhausen": {
@@ -796,7 +852,8 @@
 			"brand": "Kreissparkasse Nordhausen",
 			"brand:wikidata": "Q18410516",
 			"brand:wikipedia": "de:Kreissparkasse Nordhausen",
-			"name": "Kreissparkasse Nordhausen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Nordhausen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Ostalb": {
@@ -809,7 +866,8 @@
 			"brand": "Kreissparkasse Ostalb",
 			"brand:wikidata": "Q1787800",
 			"brand:wikipedia": "de:Kreissparkasse Ostalb",
-			"name": "Kreissparkasse Ostalb"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Ostalb"
 		}
 	},
 	"amenity/bank|Kreissparkasse Ravensburg": {
@@ -822,7 +880,8 @@
 			"brand": "Kreissparkasse Ravensburg",
 			"brand:wikidata": "Q1385106",
 			"brand:wikipedia": "de:Kreissparkasse Ravensburg",
-			"name": "Kreissparkasse Ravensburg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Ravensburg"
 		}
 	},
 	"amenity/bank|Kreissparkasse Reutlingen": {
@@ -835,7 +894,8 @@
 			"brand": "Kreissparkasse Reutlingen",
 			"brand:wikidata": "Q1787801",
 			"brand:wikipedia": "de:Kreissparkasse Reutlingen",
-			"name": "Kreissparkasse Reutlingen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Reutlingen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Rhein-Hunsrück": {
@@ -848,7 +908,8 @@
 			"brand": "Kreissparkasse Rhein-Hunsrück",
 			"brand:wikidata": "Q1525586",
 			"brand:wikipedia": "de:Kreissparkasse Rhein-Hunsrück",
-			"name": "Kreissparkasse Rhein-Hunsrück"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Rhein-Hunsrück"
 		}
 	},
 	"amenity/bank|Kreissparkasse Rottweil": {
@@ -861,7 +922,8 @@
 			"brand": "Kreissparkasse Rottweil",
 			"brand:wikidata": "Q1787803",
 			"brand:wikipedia": "de:Kreissparkasse Rottweil",
-			"name": "Kreissparkasse Rottweil"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Rottweil"
 		},
 		"match": [
 			"amenity/bank|KSK Rottweil"
@@ -877,7 +939,8 @@
 			"brand": "Kreissparkasse Saale-Orla",
 			"brand:wikidata": "Q18287998",
 			"brand:wikipedia": "de:Kreissparkasse Saale-Orla",
-			"name": "Kreissparkasse Saale-Orla"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Saale-Orla"
 		}
 	},
 	"amenity/bank|Kreissparkasse Saalfeld-Rudolstadt": {
@@ -890,7 +953,8 @@
 			"brand": "Kreissparkasse Saalfeld-Rudolstadt",
 			"brand:wikidata": "Q1787802",
 			"brand:wikipedia": "de:Kreissparkasse Saalfeld-Rudolstadt",
-			"name": "Kreissparkasse Saalfeld-Rudolstadt"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Saalfeld-Rudolstadt"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Saalfeld",
@@ -909,7 +973,8 @@
 			"brand": "Kreissparkasse Saarlouis",
 			"brand:wikidata": "Q18628332",
 			"brand:wikipedia": "de:Kreissparkasse Saarlouis",
-			"name": "Kreissparkasse Saarlouis"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Saarlouis"
 		}
 	},
 	"amenity/bank|Kreissparkasse Saarpfalz": {
@@ -922,7 +987,8 @@
 			"brand": "Kreissparkasse Saarpfalz",
 			"brand:wikidata": "Q1787806",
 			"brand:wikipedia": "de:Kreissparkasse Saarpfalz",
-			"name": "Kreissparkasse Saarpfalz"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Saarpfalz"
 		}
 	},
 	"amenity/bank|Kreissparkasse Schlüchtern": {
@@ -935,7 +1001,8 @@
 			"brand": "Kreissparkasse Schlüchtern",
 			"brand:wikidata": "Q15117674",
 			"brand:wikipedia": "de:Kreissparkasse Schlüchtern",
-			"name": "Kreissparkasse Schlüchtern"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Schlüchtern"
 		}
 	},
 	"amenity/bank|Kreissparkasse Schwalm-Eder": {
@@ -948,7 +1015,8 @@
 			"brand": "Kreissparkasse Schwalm-Eder",
 			"brand:wikidata": "Q1787808",
 			"brand:wikipedia": "de:Kreissparkasse Schwalm-Eder",
-			"name": "Kreissparkasse Schwalm-Eder"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Schwalm-Eder"
 		}
 	},
 	"amenity/bank|Kreissparkasse Soltau": {
@@ -961,7 +1029,8 @@
 			"brand": "Kreissparkasse Soltau",
 			"brand:wikidata": "Q1787807",
 			"brand:wikipedia": "de:Kreissparkasse Soltau",
-			"name": "Kreissparkasse Soltau"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Soltau"
 		}
 	},
 	"amenity/bank|Kreissparkasse St. Wendel": {
@@ -974,7 +1043,8 @@
 			"brand": "Kreissparkasse St. Wendel",
 			"brand:wikidata": "Q1787809",
 			"brand:wikipedia": "de:Kreissparkasse St. Wendel",
-			"name": "Kreissparkasse St. Wendel"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse St. Wendel"
 		}
 	},
 	"amenity/bank|Kreissparkasse Stade": {
@@ -987,7 +1057,8 @@
 			"brand": "Kreissparkasse Stade",
 			"brand:wikidata": "Q1698040",
 			"brand:wikipedia": "de:Kreissparkasse Stade",
-			"name": "Kreissparkasse Stade"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Stade"
 		}
 	},
 	"amenity/bank|Kreissparkasse Steinfurt": {
@@ -1000,7 +1071,8 @@
 			"brand": "Kreissparkasse Steinfurt",
 			"brand:wikidata": "Q15992040",
 			"brand:wikipedia": "de:Kreissparkasse Steinfurt",
-			"name": "Kreissparkasse Steinfurt"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Steinfurt"
 		}
 	},
 	"amenity/bank|Kreissparkasse Stendal": {
@@ -1013,7 +1085,8 @@
 			"brand": "Kreissparkasse Stendal",
 			"brand:wikidata": "Q56070842",
 			"brand:wikipedia": "de:Kreissparkasse Stendal",
-			"name": "Kreissparkasse Stendal"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Stendal"
 		}
 	},
 	"amenity/bank|Kreissparkasse Syke": {
@@ -1026,7 +1099,8 @@
 			"brand": "Kreissparkasse Syke",
 			"brand:wikidata": "Q1787810",
 			"brand:wikipedia": "de:Kreissparkasse Syke",
-			"name": "Kreissparkasse Syke"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Syke"
 		}
 	},
 	"amenity/bank|Kreissparkasse Traunstein-Trostberg": {
@@ -1039,7 +1113,8 @@
 			"brand": "Kreissparkasse Traunstein-Trostberg",
 			"brand:wikidata": "Q1298364",
 			"brand:wikipedia": "de:Kreissparkasse Traunstein-Trostberg",
-			"name": "Kreissparkasse Traunstein-Trostberg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Traunstein-Trostberg"
 		}
 	},
 	"amenity/bank|Kreissparkasse Tuttlingen": {
@@ -1052,7 +1127,8 @@
 			"brand": "Kreissparkasse Tuttlingen",
 			"brand:wikidata": "Q16832628",
 			"brand:wikipedia": "de:Kreissparkasse Tuttlingen",
-			"name": "Kreissparkasse Tuttlingen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Tuttlingen"
 		}
 	},
 	"amenity/bank|Kreissparkasse Tübingen": {
@@ -1065,7 +1141,8 @@
 			"brand": "Kreissparkasse Tübingen",
 			"brand:wikidata": "Q1787813",
 			"brand:wikipedia": "de:Kreissparkasse Tübingen",
-			"name": "Kreissparkasse Tübingen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Tübingen"
 		},
 		"match": [
 			"amenity/bank|KSK Tübingen"
@@ -1081,7 +1158,8 @@
 			"brand": "Kreissparkasse Verden",
 			"brand:wikidata": "Q1787815",
 			"brand:wikipedia": "de:Kreissparkasse Verden",
-			"name": "Kreissparkasse Verden"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Verden"
 		}
 	},
 	"amenity/bank|Kreissparkasse Vulkaneifel": {
@@ -1094,7 +1172,8 @@
 			"brand": "Kreissparkasse Vulkaneifel",
 			"brand:wikidata": "Q18628333",
 			"brand:wikipedia": "de:Kreissparkasse Vulkaneifel",
-			"name": "Kreissparkasse Vulkaneifel"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Vulkaneifel"
 		}
 	},
 	"amenity/bank|Kreissparkasse Waiblingen": {
@@ -1107,7 +1186,8 @@
 			"brand": "Kreissparkasse Waiblingen",
 			"brand:wikidata": "Q1787814",
 			"brand:wikipedia": "de:Kreissparkasse Waiblingen",
-			"name": "Kreissparkasse Waiblingen"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Waiblingen"
 		},
 		"match": [
 			"amenity/bank|KSK Waiblingen",
@@ -1125,7 +1205,8 @@
 			"brand": "Kreissparkasse Walsrode",
 			"brand:wikidata": "Q1787817",
 			"brand:wikipedia": "de:Kreissparkasse Walsrode",
-			"name": "Kreissparkasse Walsrode"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Walsrode"
 		},
 		"match": [
 			"amenity/bank|Kreissparkasse Fallingbostel in Walsrode"
@@ -1141,7 +1222,8 @@
 			"brand": "Kreissparkasse Weilburg",
 			"brand:wikidata": "Q1787819",
 			"brand:wikipedia": "de:Kreissparkasse Weilburg",
-			"name": "Kreissparkasse Weilburg"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Weilburg"
 		}
 	},
 	"amenity/bank|Kreissparkasse Wiedenbrück": {
@@ -1154,7 +1236,8 @@
 			"brand": "Kreissparkasse Wiedenbrück",
 			"brand:wikidata": "Q1787821",
 			"brand:wikipedia": "de:Kreissparkasse Wiedenbrück",
-			"name": "Kreissparkasse Wiedenbrück"
+			"name": "Sparkasse",
+			"official_name": "Kreissparkasse Wiedenbrück"
 		}
 	},
 	"amenity/bank|Kyffhäusersparkasse Artern-Sondershausen": {
@@ -1167,7 +1250,8 @@
 			"brand": "Kyffhäusersparkasse Artern-Sondershausen",
 			"brand:wikidata": "Q18333732",
 			"brand:wikipedia": "de:Kyffhäusersparkasse Artern-Sondershausen",
-			"name": "Kyffhäusersparkasse Artern-Sondershausen"
+			"name": "Sparkasse",
+			"official_name": "Kyffhäusersparkasse Artern-Sondershausen"
 		}
 	},
 	"amenity/bank|Landessparkasse zu Oldenburg": {
@@ -1180,7 +1264,8 @@
 			"brand": "Landessparkasse zu Oldenburg",
 			"brand:wikidata": "Q1802620",
 			"brand:wikipedia": "de:Landessparkasse zu Oldenburg",
-			"name": "Landessparkasse zu Oldenburg"
+			"name": "Sparkasse",
+			"official_name": "Landessparkasse zu Oldenburg"
 		},
 		"match": [
 			"amenity/bank|LzO"
@@ -1196,7 +1281,8 @@
 			"brand": "Mittelbrandenburgische Sparkasse in Potsdam",
 			"brand:wikidata": "Q1940058",
 			"brand:wikipedia": "de:Mittelbrandenburgische Sparkasse in Potsdam",
-			"name": "Mittelbrandenburgische Sparkasse in Potsdam"
+			"name": "Sparkasse",
+			"official_name": "Mittelbrandenburgische Sparkasse in Potsdam"
 		},
 		"match": [
 			"amenity/bank|Mittelbrandenburgische Sparkasse"
@@ -1212,7 +1298,8 @@
 			"brand": "Müritz-Sparkasse",
 			"brand:wikidata": "Q1959286",
 			"brand:wikipedia": "de:Müritz-Sparkasse",
-			"name": "Müritz-Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Müritz-Sparkasse"
 		}
 	},
 	"amenity/bank|Nassauische Sparkasse": {
@@ -1225,7 +1312,8 @@
 			"brand": "Nassauische Sparkasse",
 			"brand:wikidata": "Q1751833",
 			"brand:wikipedia": "de:Nassauische Sparkasse",
-			"name": "Nassauische Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Nassauische Sparkasse"
 		},
 		"match": [
 			"amenity/bank|Naspa"
@@ -1241,7 +1329,8 @@
 			"brand": "Niederrheinische Sparkasse RheinLippe",
 			"brand:wikidata": "Q22674731",
 			"brand:wikipedia": "de:Niederrheinische Sparkasse RheinLippe",
-			"name": "Niederrheinische Sparkasse RheinLippe"
+			"name": "Sparkasse",
+			"official_name": "Niederrheinische Sparkasse RheinLippe"
 		}
 	},
 	"amenity/bank|Nord-Ostsee Sparkasse": {
@@ -1254,7 +1343,8 @@
 			"brand": "Nord-Ostsee Sparkasse",
 			"brand:wikidata": "Q1369016",
 			"brand:wikipedia": "de:Nord-Ostsee Sparkasse",
-			"name": "Nord-Ostsee Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Nord-Ostsee Sparkasse"
 		}
 	},
 	"amenity/bank|OstseeSparkasse Rostock": {
@@ -1267,7 +1357,8 @@
 			"brand": "OstseeSparkasse Rostock",
 			"brand:wikidata": "Q2036055",
 			"brand:wikipedia": "de:OstseeSparkasse Rostock",
-			"name": "OstseeSparkasse Rostock"
+			"name": "Sparkasse",
+			"official_name": "OstseeSparkasse Rostock"
 		}
 	},
 	"amenity/bank|Ostsächsische Sparkasse Dresden": {
@@ -1280,7 +1371,8 @@
 			"brand": "Ostsächsische Sparkasse Dresden",
 			"brand:wikidata": "Q2036125",
 			"brand:wikipedia": "de:Ostsächsische Sparkasse Dresden",
-			"name": "Ostsächsische Sparkasse Dresden"
+			"name": "Sparkasse",
+			"official_name": "Ostsächsische Sparkasse Dresden"
 		},
 		"match": [
 			"amenity/bank|Stadtsparkasse Dresden",
@@ -1297,7 +1389,8 @@
 			"brand": "Rhön-Rennsteig-Sparkasse",
 			"brand:wikidata": "Q2148396",
 			"brand:wikipedia": "de:Rhön-Rennsteig-Sparkasse",
-			"name": "Rhön-Rennsteig-Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Rhön-Rennsteig-Sparkasse"
 		}
 	},
 	"amenity/bank|Saalesparkasse": {
@@ -1310,7 +1403,8 @@
 			"brand": "Saalesparkasse",
 			"brand:wikidata": "Q22674685",
 			"brand:wikipedia": "de:Saalesparkasse",
-			"name": "Saalesparkasse"
+			"name": "Sparkasse",
+			"official_name": "Saalesparkasse"
 		}
 	},
 	"amenity/bank|Salzlandsparkasse": {
@@ -1323,7 +1417,8 @@
 			"brand": "Salzlandsparkasse",
 			"brand:wikidata": "Q15965171",
 			"brand:wikipedia": "de:Salzlandsparkasse",
-			"name": "Salzlandsparkasse"
+			"name": "Sparkasse",
+			"official_name": "Salzlandsparkasse"
 		}
 	},
 	"amenity/bank|Sparkasse Aachen": {
@@ -1336,7 +1431,8 @@
 			"brand": "Sparkasse Aachen",
 			"brand:wikidata": "Q2307270",
 			"brand:wikipedia": "de:Sparkasse Aachen",
-			"name": "Sparkasse Aachen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Aachen"
 		}
 	},
 	"amenity/bank|Sparkasse Aichach-Schrobenhausen": {
@@ -1349,7 +1445,8 @@
 			"brand": "Sparkasse Aichach-Schrobenhausen",
 			"brand:wikidata": "Q15848089",
 			"brand:wikipedia": "de:Sparkasse Aichach-Schrobenhausen",
-			"name": "Sparkasse Aichach-Schrobenhausen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Aichach-Schrobenhausen"
 		}
 	},
 	"amenity/bank|Sparkasse Allgäu": {
@@ -1362,7 +1459,8 @@
 			"brand": "Sparkasse Allgäu",
 			"brand:wikidata": "Q1337936",
 			"brand:wikipedia": "de:Sparkasse Allgäu",
-			"name": "Sparkasse Allgäu"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Allgäu"
 		}
 	},
 	"amenity/bank|Sparkasse Altenburger Land": {
@@ -1375,7 +1473,8 @@
 			"brand": "Sparkasse Altenburger Land",
 			"brand:wikidata": "Q1650564",
 			"brand:wikipedia": "de:Sparkasse Altenburger Land",
-			"name": "Sparkasse Altenburger Land"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Altenburger Land"
 		}
 	},
 	"amenity/bank|Sparkasse Altmark West": {
@@ -1388,7 +1487,8 @@
 			"brand": "Sparkasse Altmark West",
 			"brand:wikidata": "Q56070799",
 			"brand:wikipedia": "de:Sparkasse Altmark West",
-			"name": "Sparkasse Altmark West"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Altmark West"
 		}
 	},
 	"amenity/bank|Sparkasse Altötting-Mühldorf": {
@@ -1401,7 +1501,8 @@
 			"brand": "Sparkasse Altötting-Mühldorf",
 			"brand:wikidata": "Q1795025",
 			"brand:wikipedia": "de:Sparkasse Altötting-Mühldorf",
-			"name": "Sparkasse Altötting-Mühldorf"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Altötting-Mühldorf"
 		}
 	},
 	"amenity/bank|Sparkasse Amberg-Sulzbach": {
@@ -1414,7 +1515,8 @@
 			"brand": "Sparkasse Amberg-Sulzbach",
 			"brand:wikidata": "Q1565995",
 			"brand:wikipedia": "de:Sparkasse Amberg-Sulzbach",
-			"name": "Sparkasse Amberg-Sulzbach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Amberg-Sulzbach"
 		}
 	},
 	"amenity/bank|Sparkasse Ansbach": {
@@ -1427,7 +1529,8 @@
 			"brand": "Sparkasse Ansbach",
 			"brand:wikidata": "Q2514965",
 			"brand:wikipedia": "de:Sparkasse Ansbach",
-			"name": "Sparkasse Ansbach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Ansbach"
 		}
 	},
 	"amenity/bank|Sparkasse Arnsberg-Sundern": {
@@ -1440,7 +1543,8 @@
 			"brand": "Sparkasse Arnsberg-Sundern",
 			"brand:wikidata": "Q2307278",
 			"brand:wikipedia": "de:Sparkasse Arnsberg-Sundern",
-			"name": "Sparkasse Arnsberg-Sundern"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Arnsberg-Sundern"
 		}
 	},
 	"amenity/bank|Sparkasse Arnstadt-Ilmenau": {
@@ -1453,7 +1557,8 @@
 			"brand": "Sparkasse Arnstadt-Ilmenau",
 			"brand:wikidata": "Q2307280",
 			"brand:wikipedia": "de:Sparkasse Arnstadt-Ilmenau",
-			"name": "Sparkasse Arnstadt-Ilmenau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Arnstadt-Ilmenau"
 		}
 	},
 	"amenity/bank|Sparkasse Aschaffenburg-Alzenau": {
@@ -1466,7 +1571,8 @@
 			"brand": "Sparkasse Aschaffenburg-Alzenau",
 			"brand:wikidata": "Q2307290",
 			"brand:wikipedia": "de:Sparkasse Aschaffenburg-Alzenau",
-			"name": "Sparkasse Aschaffenburg-Alzenau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Aschaffenburg-Alzenau"
 		}
 	},
 	"amenity/bank|Sparkasse Attendorn-Lennestadt-Kirchhundem": {
@@ -1479,7 +1585,8 @@
 			"brand": "Sparkasse Attendorn-Lennestadt-Kirchhundem",
 			"brand:wikidata": "Q18413109",
 			"brand:wikipedia": "de:Sparkasse Attendorn-Lennestadt-Kirchhundem",
-			"name": "Sparkasse Attendorn-Lennestadt-Kirchhundem"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Attendorn-Lennestadt-Kirchhundem"
 		}
 	},
 	"amenity/bank|Sparkasse Aurich-Norden": {
@@ -1492,7 +1599,8 @@
 			"brand": "Sparkasse Aurich-Norden",
 			"brand:wikidata": "Q2307293",
 			"brand:wikipedia": "de:Sparkasse Aurich-Norden",
-			"name": "Sparkasse Aurich-Norden"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Aurich-Norden"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Aurich/Norden"
@@ -1508,7 +1616,8 @@
 			"brand": "Sparkasse Bad Hersfeld-Rotenburg",
 			"brand:wikidata": "Q2307301",
 			"brand:wikipedia": "de:Sparkasse Bad Hersfeld-Rotenburg",
-			"name": "Sparkasse Bad Hersfeld-Rotenburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bad Hersfeld-Rotenburg"
 		}
 	},
 	"amenity/bank|Sparkasse Bad Kissingen": {
@@ -1521,7 +1630,8 @@
 			"brand": "Sparkasse Bad Kissingen",
 			"brand:wikidata": "Q2307302",
 			"brand:wikipedia": "de:Sparkasse Bad Kissingen",
-			"name": "Sparkasse Bad Kissingen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bad Kissingen"
 		}
 	},
 	"amenity/bank|Sparkasse Bad Neustadt a. d. Saale": {
@@ -1534,7 +1644,8 @@
 			"brand": "Sparkasse Bad Neustadt a. d. Saale",
 			"brand:wikidata": "Q2307304",
 			"brand:wikipedia": "de:Sparkasse Bad Neustadt a. d. Saale",
-			"name": "Sparkasse Bad Neustadt a. d. Saale"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bad Neustadt a. d. Saale"
 		}
 	},
 	"amenity/bank|Sparkasse Bad Oeynhausen - Porta Westfalica": {
@@ -1547,7 +1658,8 @@
 			"brand": "Sparkasse Bad Oeynhausen - Porta Westfalica",
 			"brand:wikidata": "Q2328084",
 			"brand:wikipedia": "de:Sparkasse Bad Oeynhausen - Porta Westfalica",
-			"name": "Sparkasse Bad Oeynhausen - Porta Westfalica"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bad Oeynhausen - Porta Westfalica"
 		}
 	},
 	"amenity/bank|Sparkasse Bad Tölz-Wolfratshausen": {
@@ -1560,7 +1672,8 @@
 			"brand": "Sparkasse Bad Tölz-Wolfratshausen",
 			"brand:wikidata": "Q2307310",
 			"brand:wikipedia": "de:Sparkasse Bad Tölz-Wolfratshausen",
-			"name": "Sparkasse Bad Tölz-Wolfratshausen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bad Tölz-Wolfratshausen"
 		}
 	},
 	"amenity/bank|Sparkasse Baden-Baden Gaggenau": {
@@ -1573,7 +1686,8 @@
 			"brand": "Sparkasse Baden-Baden Gaggenau",
 			"brand:wikidata": "Q19059957",
 			"brand:wikipedia": "de:Sparkasse Baden-Baden Gaggenau",
-			"name": "Sparkasse Baden-Baden Gaggenau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Baden-Baden Gaggenau"
 		}
 	},
 	"amenity/bank|Sparkasse Bamberg": {
@@ -1586,7 +1700,8 @@
 			"brand": "Sparkasse Bamberg",
 			"brand:wikidata": "Q2307311",
 			"brand:wikipedia": "de:Sparkasse Bamberg",
-			"name": "Sparkasse Bamberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bamberg"
 		}
 	},
 	"amenity/bank|Sparkasse Barnim": {
@@ -1599,7 +1714,8 @@
 			"brand": "Sparkasse Barnim",
 			"brand:wikidata": "Q2307313",
 			"brand:wikipedia": "de:Sparkasse Barnim",
-			"name": "Sparkasse Barnim"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Barnim"
 		}
 	},
 	"amenity/bank|Sparkasse Battenberg": {
@@ -1612,7 +1728,8 @@
 			"brand": "Sparkasse Battenberg",
 			"brand:wikidata": "Q15128915",
 			"brand:wikipedia": "de:Sparkasse Battenberg",
-			"name": "Sparkasse Battenberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Battenberg"
 		}
 	},
 	"amenity/bank|Sparkasse Bayreuth": {
@@ -1625,7 +1742,8 @@
 			"brand": "Sparkasse Bayreuth",
 			"brand:wikidata": "Q1340647",
 			"brand:wikipedia": "de:Sparkasse Bayreuth",
-			"name": "Sparkasse Bayreuth"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bayreuth"
 		}
 	},
 	"amenity/bank|Sparkasse Beckum-Wadersloh": {
@@ -1638,7 +1756,8 @@
 			"brand": "Sparkasse Beckum-Wadersloh",
 			"brand:wikidata": "Q15128916",
 			"brand:wikipedia": "de:Sparkasse Beckum-Wadersloh",
-			"name": "Sparkasse Beckum-Wadersloh"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Beckum-Wadersloh"
 		}
 	},
 	"amenity/bank|Sparkasse Bensheim": {
@@ -1651,7 +1770,8 @@
 			"brand": "Sparkasse Bensheim",
 			"brand:wikidata": "Q2307319",
 			"brand:wikipedia": "de:Sparkasse Bensheim",
-			"name": "Sparkasse Bensheim"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bensheim"
 		},
 		"match": [
 			"amenity/bank|Bezirkssparkasse Bensheim"
@@ -1667,7 +1787,8 @@
 			"brand": "Sparkasse Berchtesgadener Land",
 			"brand:wikidata": "Q1644106",
 			"brand:wikipedia": "de:Sparkasse Berchtesgadener Land",
-			"name": "Sparkasse Berchtesgadener Land"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Berchtesgadener Land"
 		}
 	},
 	"amenity/bank|Sparkasse Bergkamen-Bönen": {
@@ -1680,7 +1801,8 @@
 			"brand": "Sparkasse Bergkamen-Bönen",
 			"brand:wikidata": "Q18413111",
 			"brand:wikipedia": "de:Sparkasse Bergkamen-Bönen",
-			"name": "Sparkasse Bergkamen-Bönen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bergkamen-Bönen"
 		}
 	},
 	"amenity/bank|Sparkasse Bielefeld": {
@@ -1693,7 +1815,8 @@
 			"brand": "Sparkasse Bielefeld",
 			"brand:wikidata": "Q1767965",
 			"brand:wikipedia": "de:Sparkasse Bielefeld",
-			"name": "Sparkasse Bielefeld"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bielefeld"
 		}
 	},
 	"amenity/bank|Sparkasse Bochum": {
@@ -1706,7 +1829,8 @@
 			"brand": "Sparkasse Bochum",
 			"brand:wikidata": "Q2307321",
 			"brand:wikipedia": "de:Sparkasse Bochum",
-			"name": "Sparkasse Bochum"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bochum"
 		},
 		"match": [
 			"amenity/bank|Spk Bochum"
@@ -1722,7 +1846,8 @@
 			"brand": "Sparkasse Bodensee",
 			"brand:wikidata": "Q2307325",
 			"brand:wikipedia": "de:Sparkasse Bodensee",
-			"name": "Sparkasse Bodensee"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bodensee"
 		}
 	},
 	"amenity/bank|Sparkasse Bonndorf-Stühlingen": {
@@ -1735,7 +1860,8 @@
 			"brand": "Sparkasse Bonndorf-Stühlingen",
 			"brand:wikidata": "Q2307330",
 			"brand:wikipedia": "de:Sparkasse Bonndorf-Stühlingen",
-			"name": "Sparkasse Bonndorf-Stühlingen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bonndorf-Stühlingen"
 		}
 	},
 	"amenity/bank|Sparkasse Bottrop": {
@@ -1748,7 +1874,8 @@
 			"brand": "Sparkasse Bottrop",
 			"brand:wikidata": "Q18630899",
 			"brand:wikipedia": "de:Sparkasse Bottrop",
-			"name": "Sparkasse Bottrop"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bottrop"
 		}
 	},
 	"amenity/bank|Sparkasse Bremen": {
@@ -1761,7 +1888,8 @@
 			"brand": "Sparkasse Bremen",
 			"brand:wikidata": "Q1643208",
 			"brand:wikipedia": "de:Sparkasse Bremen",
-			"name": "Sparkasse Bremen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bremen"
 		}
 	},
 	"amenity/bank|Sparkasse Burbach-Neunkirchen": {
@@ -1774,7 +1902,8 @@
 			"brand": "Sparkasse Burbach-Neunkirchen",
 			"brand:wikidata": "Q18630901",
 			"brand:wikipedia": "de:Sparkasse Burbach-Neunkirchen",
-			"name": "Sparkasse Burbach-Neunkirchen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Burbach-Neunkirchen"
 		}
 	},
 	"amenity/bank|Sparkasse Burgenlandkreis": {
@@ -1787,7 +1916,8 @@
 			"brand": "Sparkasse Burgenlandkreis",
 			"brand:wikidata": "Q1393306",
 			"brand:wikipedia": "de:Sparkasse Burgenlandkreis",
-			"name": "Sparkasse Burgenlandkreis"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Burgenlandkreis"
 		}
 	},
 	"amenity/bank|Sparkasse Bühl": {
@@ -1800,7 +1930,8 @@
 			"brand": "Sparkasse Bühl",
 			"brand:wikidata": "Q26794521",
 			"brand:wikipedia": "de:Sparkasse Bühl",
-			"name": "Sparkasse Bühl"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Bühl"
 		}
 	},
 	"amenity/bank|Sparkasse Celle": {
@@ -1813,7 +1944,8 @@
 			"brand": "Sparkasse Celle",
 			"brand:wikidata": "Q1704445",
 			"brand:wikipedia": "de:Sparkasse Celle",
-			"name": "Sparkasse Celle"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Celle"
 		}
 	},
 	"amenity/bank|Sparkasse Chemnitz": {
@@ -1826,7 +1958,8 @@
 			"brand": "Sparkasse Chemnitz",
 			"brand:wikidata": "Q2307340",
 			"brand:wikipedia": "de:Sparkasse Chemnitz",
-			"name": "Sparkasse Chemnitz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Chemnitz"
 		}
 	},
 	"amenity/bank|Sparkasse Coburg – Lichtenfels": {
@@ -1839,7 +1972,8 @@
 			"brand": "Sparkasse Coburg – Lichtenfels",
 			"brand:wikidata": "Q2307342",
 			"brand:wikipedia": "de:Sparkasse Coburg – Lichtenfels",
-			"name": "Sparkasse Coburg – Lichtenfels"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Coburg – Lichtenfels"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Coburg-Lichtenfels",
@@ -1856,7 +1990,8 @@
 			"brand": "Sparkasse Dachau",
 			"brand:wikidata": "Q2307347",
 			"brand:wikipedia": "de:Sparkasse Dachau",
-			"name": "Sparkasse Dachau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Dachau"
 		}
 	},
 	"amenity/bank|Sparkasse Darmstadt": {
@@ -1869,7 +2004,8 @@
 			"brand": "Sparkasse Darmstadt",
 			"brand:wikidata": "Q2307349",
 			"brand:wikipedia": "de:Sparkasse Darmstadt",
-			"name": "Sparkasse Darmstadt"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Darmstadt"
 		},
 		"match": [
 			"amenity/bank|Stadt- und Kreis-Sparkasse Darmstadt",
@@ -1886,7 +2022,8 @@
 			"brand": "Sparkasse Deggendorf",
 			"brand:wikidata": "Q2307353",
 			"brand:wikipedia": "de:Sparkasse Deggendorf",
-			"name": "Sparkasse Deggendorf"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Deggendorf"
 		}
 	},
 	"amenity/bank|Sparkasse Dieburg": {
@@ -1899,7 +2036,8 @@
 			"brand": "Sparkasse Dieburg",
 			"brand:wikidata": "Q2307358",
 			"brand:wikipedia": "de:Sparkasse Dieburg",
-			"name": "Sparkasse Dieburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Dieburg"
 		}
 	},
 	"amenity/bank|Sparkasse Dillenburg": {
@@ -1912,7 +2050,8 @@
 			"brand": "Sparkasse Dillenburg",
 			"brand:wikidata": "Q18289500",
 			"brand:wikipedia": "de:Sparkasse Dillenburg",
-			"name": "Sparkasse Dillenburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Dillenburg"
 		}
 	},
 	"amenity/bank|Sparkasse Donauwörth": {
@@ -1925,7 +2064,8 @@
 			"brand": "Sparkasse Donauwörth",
 			"brand:wikidata": "Q2307363",
 			"brand:wikipedia": "de:Sparkasse Donauwörth",
-			"name": "Sparkasse Donauwörth"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Donauwörth"
 		}
 	},
 	"amenity/bank|Sparkasse Donnersberg": {
@@ -1938,7 +2078,8 @@
 			"brand": "Sparkasse Donnersberg",
 			"brand:wikidata": "Q18630903",
 			"brand:wikipedia": "de:Sparkasse Donnersberg",
-			"name": "Sparkasse Donnersberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Donnersberg"
 		}
 	},
 	"amenity/bank|Sparkasse Dortmund": {
@@ -1951,7 +2092,8 @@
 			"brand": "Sparkasse Dortmund",
 			"brand:wikidata": "Q1493538",
 			"brand:wikipedia": "de:Sparkasse Dortmund",
-			"name": "Sparkasse Dortmund"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Dortmund"
 		},
 		"match": [
 			"amenity/bank|Stadtsparkasse Dortmund",
@@ -1968,7 +2110,8 @@
 			"brand": "Sparkasse Duderstadt",
 			"brand:wikidata": "Q2307371",
 			"brand:wikipedia": "de:Sparkasse Duderstadt",
-			"name": "Sparkasse Duderstadt"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Duderstadt"
 		},
 		"match": [
 			"amenity/bank|Zweckverbandssparkasse Duderstadt"
@@ -1984,7 +2127,8 @@
 			"brand": "Sparkasse Duisburg",
 			"brand:wikidata": "Q2307372",
 			"brand:wikipedia": "de:Sparkasse Duisburg",
-			"name": "Sparkasse Duisburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Duisburg"
 		}
 	},
 	"amenity/bank|Sparkasse Düren": {
@@ -1997,7 +2141,8 @@
 			"brand": "Sparkasse Düren",
 			"brand:wikidata": "Q2307375",
 			"brand:wikipedia": "de:Sparkasse Düren",
-			"name": "Sparkasse Düren"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Düren"
 		}
 	},
 	"amenity/bank|Sparkasse Einbeck": {
@@ -2010,7 +2155,8 @@
 			"brand": "Sparkasse Einbeck",
 			"brand:wikidata": "Q1230532",
 			"brand:wikipedia": "de:Sparkasse Einbeck",
-			"name": "Sparkasse Einbeck"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Einbeck"
 		}
 	},
 	"amenity/bank|Sparkasse Elbe-Elster": {
@@ -2023,7 +2169,8 @@
 			"brand": "Sparkasse Elbe-Elster",
 			"brand:wikidata": "Q2307386",
 			"brand:wikipedia": "de:Sparkasse Elbe-Elster",
-			"name": "Sparkasse Elbe-Elster"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Elbe-Elster"
 		}
 	},
 	"amenity/bank|Sparkasse Elmshorn": {
@@ -2036,7 +2183,8 @@
 			"brand": "Sparkasse Elmshorn",
 			"brand:wikidata": "Q1347636",
 			"brand:wikipedia": "de:Sparkasse Elmshorn",
-			"name": "Sparkasse Elmshorn"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Elmshorn"
 		}
 	},
 	"amenity/bank|Sparkasse Emden": {
@@ -2049,7 +2197,8 @@
 			"brand": "Sparkasse Emden",
 			"brand:wikidata": "Q1389719",
 			"brand:wikipedia": "de:Sparkasse Emden",
-			"name": "Sparkasse Emden"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Emden"
 		}
 	},
 	"amenity/bank|Sparkasse Emsland": {
@@ -2062,7 +2211,8 @@
 			"brand": "Sparkasse Emsland",
 			"brand:wikidata": "Q2307391",
 			"brand:wikipedia": "de:Sparkasse Emsland",
-			"name": "Sparkasse Emsland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Emsland"
 		}
 	},
 	"amenity/bank|Sparkasse Engen-Gottmadingen": {
@@ -2075,7 +2225,8 @@
 			"brand": "Sparkasse Engen-Gottmadingen",
 			"brand:wikidata": "Q56070863",
 			"brand:wikipedia": "de:Sparkasse Engen-Gottmadingen",
-			"name": "Sparkasse Engen-Gottmadingen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Engen-Gottmadingen"
 		}
 	},
 	"amenity/bank|Sparkasse Ennepetal-Breckerfeld": {
@@ -2088,7 +2239,8 @@
 			"brand": "Sparkasse Ennepetal-Breckerfeld",
 			"brand:wikidata": "Q18630905",
 			"brand:wikipedia": "de:Sparkasse Ennepetal-Breckerfeld",
-			"name": "Sparkasse Ennepetal-Breckerfeld"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Ennepetal-Breckerfeld"
 		}
 	},
 	"amenity/bank|Sparkasse Erlangen Höchstadt Herzogenaurach": {
@@ -2101,7 +2253,8 @@
 			"brand": "Sparkasse Erlangen Höchstadt Herzogenaurach",
 			"brand:wikidata": "Q2326324",
 			"brand:wikipedia": "de:Sparkasse Erlangen Höchstadt Herzogenaurach",
-			"name": "Sparkasse Erlangen Höchstadt Herzogenaurach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Erlangen Höchstadt Herzogenaurach"
 		},
 		"match": [
 			"amenity/bank|Stadt- und Kreissparkasse Erlangen"
@@ -2117,7 +2270,8 @@
 			"brand": "Sparkasse Essen",
 			"brand:wikidata": "Q2307400",
 			"brand:wikipedia": "de:Sparkasse Essen",
-			"name": "Sparkasse Essen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Essen"
 		}
 	},
 	"amenity/bank|Sparkasse Finnentrop": {
@@ -2130,7 +2284,8 @@
 			"brand": "Sparkasse Finnentrop",
 			"brand:wikidata": "Q18630909",
 			"brand:wikipedia": "de:Sparkasse Finnentrop",
-			"name": "Sparkasse Finnentrop"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Finnentrop"
 		}
 	},
 	"amenity/bank|Sparkasse Forchheim": {
@@ -2143,7 +2298,8 @@
 			"brand": "Sparkasse Forchheim",
 			"brand:wikidata": "Q2307408",
 			"brand:wikipedia": "de:Sparkasse Forchheim",
-			"name": "Sparkasse Forchheim"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Forchheim"
 		}
 	},
 	"amenity/bank|Sparkasse Freiburg-Nördlicher Breisgau": {
@@ -2156,7 +2312,8 @@
 			"brand": "Sparkasse Freiburg-Nördlicher Breisgau",
 			"brand:wikidata": "Q15128927",
 			"brand:wikipedia": "de:Sparkasse Freiburg-Nördlicher Breisgau",
-			"name": "Sparkasse Freiburg-Nördlicher Breisgau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Freiburg-Nördlicher Breisgau"
 		}
 	},
 	"amenity/bank|Sparkasse Freising": {
@@ -2169,7 +2326,8 @@
 			"brand": "Sparkasse Freising",
 			"brand:wikidata": "Q1617919",
 			"brand:wikipedia": "de:Sparkasse Freising",
-			"name": "Sparkasse Freising"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Freising"
 		}
 	},
 	"amenity/bank|Sparkasse Freyung-Grafenau": {
@@ -2182,7 +2340,8 @@
 			"brand": "Sparkasse Freyung-Grafenau",
 			"brand:wikidata": "Q2307413",
 			"brand:wikipedia": "de:Sparkasse Freyung-Grafenau",
-			"name": "Sparkasse Freyung-Grafenau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Freyung-Grafenau"
 		}
 	},
 	"amenity/bank|Sparkasse Fulda": {
@@ -2195,7 +2354,8 @@
 			"brand": "Sparkasse Fulda",
 			"brand:wikidata": "Q1331819",
 			"brand:wikipedia": "de:Sparkasse Fulda",
-			"name": "Sparkasse Fulda"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Fulda"
 		}
 	},
 	"amenity/bank|Sparkasse Fürstenfeldbruck": {
@@ -2208,7 +2368,8 @@
 			"brand": "Sparkasse Fürstenfeldbruck",
 			"brand:wikidata": "Q1312801",
 			"brand:wikipedia": "de:Sparkasse Fürstenfeldbruck",
-			"name": "Sparkasse Fürstenfeldbruck"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Fürstenfeldbruck"
 		}
 	},
 	"amenity/bank|Sparkasse Fürth": {
@@ -2221,7 +2382,8 @@
 			"brand": "Sparkasse Fürth",
 			"brand:wikidata": "Q2307414",
 			"brand:wikipedia": "de:Sparkasse Fürth",
-			"name": "Sparkasse Fürth"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Fürth"
 		}
 	},
 	"amenity/bank|Sparkasse Gelsenkirchen": {
@@ -2234,7 +2396,8 @@
 			"brand": "Sparkasse Gelsenkirchen",
 			"brand:wikidata": "Q18630912",
 			"brand:wikipedia": "de:Sparkasse Gelsenkirchen",
-			"name": "Sparkasse Gelsenkirchen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gelsenkirchen"
 		}
 	},
 	"amenity/bank|Sparkasse Gengenbach": {
@@ -2247,7 +2410,8 @@
 			"brand": "Sparkasse Gengenbach",
 			"brand:wikidata": "Q26794527",
 			"brand:wikipedia": "de:Sparkasse Gengenbach",
-			"name": "Sparkasse Gengenbach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gengenbach"
 		}
 	},
 	"amenity/bank|Sparkasse Gera-Greiz": {
@@ -2260,7 +2424,8 @@
 			"brand": "Sparkasse Gera-Greiz",
 			"brand:wikidata": "Q2307417",
 			"brand:wikipedia": "de:Sparkasse Gera-Greiz",
-			"name": "Sparkasse Gera-Greiz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gera-Greiz"
 		}
 	},
 	"amenity/bank|Sparkasse Germersheim-Kandel": {
@@ -2273,7 +2438,8 @@
 			"brand": "Sparkasse Germersheim-Kandel",
 			"brand:wikidata": "Q2307421",
 			"brand:wikipedia": "de:Sparkasse Germersheim-Kandel",
-			"name": "Sparkasse Germersheim-Kandel"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Germersheim-Kandel"
 		}
 	},
 	"amenity/bank|Sparkasse Geseke": {
@@ -2286,7 +2452,8 @@
 			"brand": "Sparkasse Geseke",
 			"brand:wikidata": "Q2307425",
 			"brand:wikipedia": "de:Sparkasse Geseke",
-			"name": "Sparkasse Geseke"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Geseke"
 		}
 	},
 	"amenity/bank|Sparkasse Gevelsberg-Wetter": {
@@ -2299,7 +2466,8 @@
 			"brand": "Sparkasse Gevelsberg-Wetter",
 			"brand:wikidata": "Q2328103",
 			"brand:wikipedia": "de:Sparkasse Gevelsberg-Wetter",
-			"name": "Sparkasse Gevelsberg-Wetter"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gevelsberg-Wetter"
 		}
 	},
 	"amenity/bank|Sparkasse Gießen": {
@@ -2312,7 +2480,8 @@
 			"brand": "Sparkasse Gießen",
 			"brand:wikidata": "Q2307427",
 			"brand:wikipedia": "de:Sparkasse Gießen",
-			"name": "Sparkasse Gießen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gießen"
 		}
 	},
 	"amenity/bank|Sparkasse Gifhorn-Wolfsburg": {
@@ -2325,7 +2494,8 @@
 			"brand": "Sparkasse Gifhorn-Wolfsburg",
 			"brand:wikidata": "Q2307429",
 			"brand:wikipedia": "de:Sparkasse Gifhorn-Wolfsburg",
-			"name": "Sparkasse Gifhorn-Wolfsburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gifhorn-Wolfsburg"
 		}
 	},
 	"amenity/bank|Sparkasse Gladbeck": {
@@ -2338,7 +2508,8 @@
 			"brand": "Sparkasse Gladbeck",
 			"brand:wikidata": "Q18630914",
 			"brand:wikipedia": "de:Sparkasse Gladbeck",
-			"name": "Sparkasse Gladbeck"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gladbeck"
 		}
 	},
 	"amenity/bank|Sparkasse Grünberg": {
@@ -2351,7 +2522,8 @@
 			"brand": "Sparkasse Grünberg",
 			"brand:wikidata": "Q18289502",
 			"brand:wikipedia": "de:Sparkasse Grünberg",
-			"name": "Sparkasse Grünberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Grünberg"
 		}
 	},
 	"amenity/bank|Sparkasse Gummersbach": {
@@ -2364,7 +2536,8 @@
 			"brand": "Sparkasse Gummersbach",
 			"brand:wikidata": "Q15848090",
 			"brand:wikipedia": "de:Sparkasse Gummersbach",
-			"name": "Sparkasse Gummersbach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gummersbach"
 		}
 	},
 	"amenity/bank|Sparkasse Göttingen": {
@@ -2377,7 +2550,8 @@
 			"brand": "Sparkasse Göttingen",
 			"brand:wikidata": "Q2307434",
 			"brand:wikipedia": "de:Sparkasse Göttingen",
-			"name": "Sparkasse Göttingen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Göttingen"
 		}
 	},
 	"amenity/bank|Sparkasse Günzburg-Krumbach": {
@@ -2390,7 +2564,8 @@
 			"brand": "Sparkasse Günzburg-Krumbach",
 			"brand:wikidata": "Q1425072",
 			"brand:wikipedia": "de:Sparkasse Günzburg-Krumbach",
-			"name": "Sparkasse Günzburg-Krumbach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Günzburg-Krumbach"
 		}
 	},
 	"amenity/bank|Sparkasse Gütersloh-Rietberg": {
@@ -2403,7 +2578,8 @@
 			"brand": "Sparkasse Gütersloh-Rietberg",
 			"brand:wikidata": "Q15128932",
 			"brand:wikipedia": "de:Sparkasse Gütersloh-Rietberg",
-			"name": "Sparkasse Gütersloh-Rietberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Gütersloh-Rietberg"
 		}
 	},
 	"amenity/bank|Sparkasse HagenHerdecke": {
@@ -2416,7 +2592,8 @@
 			"brand": "Sparkasse HagenHerdecke",
 			"brand:wikidata": "Q1644724",
 			"brand:wikipedia": "de:Sparkasse HagenHerdecke",
-			"name": "Sparkasse HagenHerdecke"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse HagenHerdecke"
 		}
 	},
 	"amenity/bank|Sparkasse Hameln-Weserbergland": {
@@ -2429,7 +2606,8 @@
 			"brand": "Sparkasse Hameln-Weserbergland",
 			"brand:wikidata": "Q22674568",
 			"brand:wikipedia": "de:Sparkasse Hameln-Weserbergland",
-			"name": "Sparkasse Hameln-Weserbergland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hameln-Weserbergland"
 		}
 	},
 	"amenity/bank|Sparkasse Hamm": {
@@ -2442,7 +2620,8 @@
 			"brand": "Sparkasse Hamm",
 			"brand:wikidata": "Q18630921",
 			"brand:wikipedia": "de:Sparkasse Hamm",
-			"name": "Sparkasse Hamm"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hamm"
 		}
 	},
 	"amenity/bank|Sparkasse Hanau": {
@@ -2455,7 +2634,8 @@
 			"brand": "Sparkasse Hanau",
 			"brand:wikidata": "Q2307440",
 			"brand:wikipedia": "de:Sparkasse Hanau",
-			"name": "Sparkasse Hanau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hanau"
 		}
 	},
 	"amenity/bank|Sparkasse Hanauerland": {
@@ -2468,7 +2648,8 @@
 			"brand": "Sparkasse Hanauerland",
 			"brand:wikidata": "Q2307444",
 			"brand:wikipedia": "de:Sparkasse Hanauerland",
-			"name": "Sparkasse Hanauerland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hanauerland"
 		}
 	},
 	"amenity/bank|Sparkasse Hannover": {
@@ -2481,7 +2662,8 @@
 			"brand": "Sparkasse Hannover",
 			"brand:wikidata": "Q2307451",
 			"brand:wikipedia": "de:Sparkasse Hannover",
-			"name": "Sparkasse Hannover"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hannover"
 		}
 	},
 	"amenity/bank|Sparkasse Harburg-Buxtehude": {
@@ -2494,7 +2676,8 @@
 			"brand": "Sparkasse Harburg-Buxtehude",
 			"brand:wikidata": "Q2307455",
 			"brand:wikipedia": "de:Sparkasse Harburg-Buxtehude",
-			"name": "Sparkasse Harburg-Buxtehude"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Harburg-Buxtehude"
 		}
 	},
 	"amenity/bank|Sparkasse Haslach-Zell": {
@@ -2507,7 +2690,8 @@
 			"brand": "Sparkasse Haslach-Zell",
 			"brand:wikidata": "Q26794526",
 			"brand:wikipedia": "de:Sparkasse Haslach-Zell",
-			"name": "Sparkasse Haslach-Zell"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Haslach-Zell"
 		}
 	},
 	"amenity/bank|Sparkasse Hattingen": {
@@ -2520,7 +2704,8 @@
 			"brand": "Sparkasse Hattingen",
 			"brand:wikidata": "Q18630924",
 			"brand:wikipedia": "de:Sparkasse Hattingen",
-			"name": "Sparkasse Hattingen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hattingen"
 		}
 	},
 	"amenity/bank|Sparkasse Hegau-Bodensee": {
@@ -2533,7 +2718,8 @@
 			"brand": "Sparkasse Hegau-Bodensee",
 			"brand:wikidata": "Q2307674",
 			"brand:wikipedia": "de:Sparkasse Hegau-Bodensee",
-			"name": "Sparkasse Hegau-Bodensee"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hegau-Bodensee"
 		}
 	},
 	"amenity/bank|Sparkasse Heidelberg": {
@@ -2546,7 +2732,8 @@
 			"brand": "Sparkasse Heidelberg",
 			"brand:wikidata": "Q1443207",
 			"brand:wikipedia": "de:Sparkasse Heidelberg",
-			"name": "Sparkasse Heidelberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Heidelberg"
 		}
 	},
 	"amenity/bank|Sparkasse Herford": {
@@ -2559,7 +2746,8 @@
 			"brand": "Sparkasse Herford",
 			"brand:wikidata": "Q1682874",
 			"brand:wikipedia": "de:Sparkasse Herford",
-			"name": "Sparkasse Herford"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Herford"
 		}
 	},
 	"amenity/bank|Sparkasse Hilden-Ratingen-Velbert": {
@@ -2572,7 +2760,8 @@
 			"brand": "Sparkasse Hilden-Ratingen-Velbert",
 			"brand:wikidata": "Q2307467",
 			"brand:wikipedia": "de:Sparkasse Hilden-Ratingen-Velbert",
-			"name": "Sparkasse Hilden-Ratingen-Velbert"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hilden-Ratingen-Velbert"
 		},
 		"match": [
 			"amenity/bank|Sparkasse HRV"
@@ -2588,7 +2777,8 @@
 			"brand": "Sparkasse Hildesheim Goslar Peine",
 			"brand:wikidata": "Q2307468",
 			"brand:wikipedia": "de:Sparkasse Hildesheim Goslar Peine",
-			"name": "Sparkasse Hildesheim Goslar Peine"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hildesheim Goslar Peine"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Hildesheim"
@@ -2604,7 +2794,8 @@
 			"brand": "Sparkasse Hochfranken",
 			"brand:wikidata": "Q2307470",
 			"brand:wikipedia": "de:Sparkasse Hochfranken",
-			"name": "Sparkasse Hochfranken"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hochfranken"
 		}
 	},
 	"amenity/bank|Sparkasse Hochrhein": {
@@ -2617,7 +2808,8 @@
 			"brand": "Sparkasse Hochrhein",
 			"brand:wikidata": "Q15848091",
 			"brand:wikipedia": "de:Sparkasse Hochrhein",
-			"name": "Sparkasse Hochrhein"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hochrhein"
 		}
 	},
 	"amenity/bank|Sparkasse Hochsauerland": {
@@ -2630,7 +2822,8 @@
 			"brand": "Sparkasse Hochsauerland",
 			"brand:wikidata": "Q2307477",
 			"brand:wikipedia": "de:Sparkasse Hochsauerland",
-			"name": "Sparkasse Hochsauerland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hochsauerland"
 		}
 	},
 	"amenity/bank|Sparkasse Hochschwarzwald": {
@@ -2643,7 +2836,8 @@
 			"brand": "Sparkasse Hochschwarzwald",
 			"brand:wikidata": "Q56070763",
 			"brand:wikipedia": "de:Sparkasse Hochschwarzwald",
-			"name": "Sparkasse Hochschwarzwald"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hochschwarzwald"
 		}
 	},
 	"amenity/bank|Sparkasse Hohenlohekreis": {
@@ -2656,7 +2850,8 @@
 			"brand": "Sparkasse Hohenlohekreis",
 			"brand:wikidata": "Q2307480",
 			"brand:wikipedia": "de:Sparkasse Hohenlohekreis",
-			"name": "Sparkasse Hohenlohekreis"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Hohenlohekreis"
 		}
 	},
 	"amenity/bank|Sparkasse Holstein": {
@@ -2669,7 +2864,8 @@
 			"brand": "Sparkasse Holstein",
 			"brand:wikidata": "Q1439313",
 			"brand:wikipedia": "de:Sparkasse Holstein",
-			"name": "Sparkasse Holstein"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Holstein"
 		}
 	},
 	"amenity/bank|Sparkasse Höxter": {
@@ -2682,7 +2878,8 @@
 			"brand": "Sparkasse Höxter",
 			"brand:wikidata": "Q2307482",
 			"brand:wikipedia": "de:Sparkasse Höxter",
-			"name": "Sparkasse Höxter"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Höxter"
 		}
 	},
 	"amenity/bank|Sparkasse Ingolstadt Eichstätt": {
@@ -2695,7 +2892,8 @@
 			"brand": "Sparkasse Ingolstadt Eichstätt",
 			"brand:wikidata": "Q1698904",
 			"brand:wikipedia": "de:Sparkasse Ingolstadt Eichstätt",
-			"name": "Sparkasse Ingolstadt Eichstätt"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Ingolstadt Eichstätt"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Ingolstadt"
@@ -2711,7 +2909,8 @@
 			"brand": "Sparkasse Iserlohn",
 			"brand:wikidata": "Q2307489",
 			"brand:wikipedia": "de:Sparkasse Iserlohn",
-			"name": "Sparkasse Iserlohn"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Iserlohn"
 		},
 		"match": [
 			"amenity/bank|Sparkasse der Stadt Iserlohn"
@@ -2727,7 +2926,8 @@
 			"brand": "Sparkasse Jena-Saale-Holzland",
 			"brand:wikidata": "Q2307490",
 			"brand:wikipedia": "de:Sparkasse Jena-Saale-Holzland",
-			"name": "Sparkasse Jena-Saale-Holzland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Jena-Saale-Holzland"
 		}
 	},
 	"amenity/bank|Sparkasse Jerichower Land": {
@@ -2740,7 +2940,8 @@
 			"brand": "Sparkasse Jerichower Land",
 			"brand:wikidata": "Q56070868",
 			"brand:wikipedia": "de:Sparkasse Jerichower Land",
-			"name": "Sparkasse Jerichower Land"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Jerichower Land"
 		}
 	},
 	"amenity/bank|Sparkasse Karlsruhe": {
@@ -2753,7 +2954,8 @@
 			"brand": "Sparkasse Karlsruhe",
 			"brand:wikidata": "Q2307494",
 			"brand:wikipedia": "de:Sparkasse Karlsruhe",
-			"name": "Sparkasse Karlsruhe"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Karlsruhe"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Karlsruhe Ettlingen"
@@ -2769,7 +2971,8 @@
 			"brand": "Sparkasse Kierspe-Meinerzhagen",
 			"brand:wikidata": "Q18630927",
 			"brand:wikipedia": "de:Sparkasse Kierspe-Meinerzhagen",
-			"name": "Sparkasse Kierspe-Meinerzhagen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Kierspe-Meinerzhagen"
 		}
 	},
 	"amenity/bank|Sparkasse Koblenz": {
@@ -2782,7 +2985,8 @@
 			"brand": "Sparkasse Koblenz",
 			"brand:wikidata": "Q2307510",
 			"brand:wikipedia": "de:Sparkasse Koblenz",
-			"name": "Sparkasse Koblenz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Koblenz"
 		},
 		"match": [
 			"amenity/bank|Kreissparkasse Koblenz",
@@ -2800,7 +3004,8 @@
 			"brand": "Sparkasse Kraichgau",
 			"brand:wikidata": "Q1527770",
 			"brand:wikipedia": "de:Sparkasse Kraichgau",
-			"name": "Sparkasse Kraichgau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Kraichgau"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Kraichgau Bruchsal Bretten Sinsheim"
@@ -2816,7 +3021,8 @@
 			"brand": "Sparkasse Krefeld",
 			"brand:wikidata": "Q15848092",
 			"brand:wikipedia": "de:Sparkasse Krefeld",
-			"name": "Sparkasse Krefeld"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Krefeld"
 		}
 	},
 	"amenity/bank|Sparkasse Kulmbach-Kronach": {
@@ -2829,7 +3035,8 @@
 			"brand": "Sparkasse Kulmbach-Kronach",
 			"brand:wikidata": "Q2307514",
 			"brand:wikipedia": "de:Sparkasse Kulmbach-Kronach",
-			"name": "Sparkasse Kulmbach-Kronach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Kulmbach-Kronach"
 		}
 	},
 	"amenity/bank|Sparkasse KölnBonn": {
@@ -2842,7 +3049,8 @@
 			"brand": "Sparkasse KölnBonn",
 			"brand:wikidata": "Q1681035",
 			"brand:wikipedia": "de:Sparkasse KölnBonn",
-			"name": "Sparkasse KölnBonn"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse KölnBonn"
 		}
 	},
 	"amenity/bank|Sparkasse Landsberg-Dießen": {
@@ -2855,7 +3063,8 @@
 			"brand": "Sparkasse Landsberg-Dießen",
 			"brand:wikidata": "Q2307525",
 			"brand:wikipedia": "de:Sparkasse Landsberg-Dießen",
-			"name": "Sparkasse Landsberg-Dießen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Landsberg-Dießen"
 		}
 	},
 	"amenity/bank|Sparkasse Landshut": {
@@ -2868,7 +3077,8 @@
 			"brand": "Sparkasse Landshut",
 			"brand:wikidata": "Q2307526",
 			"brand:wikipedia": "de:Sparkasse Landshut",
-			"name": "Sparkasse Landshut"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Landshut"
 		}
 	},
 	"amenity/bank|Sparkasse Langen-Seligenstadt": {
@@ -2881,7 +3091,8 @@
 			"brand": "Sparkasse Langen-Seligenstadt",
 			"brand:wikidata": "Q1369089",
 			"brand:wikipedia": "de:Sparkasse Langen-Seligenstadt",
-			"name": "Sparkasse Langen-Seligenstadt"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Langen-Seligenstadt"
 		}
 	},
 	"amenity/bank|Sparkasse Laubach-Hungen": {
@@ -2894,7 +3105,8 @@
 			"brand": "Sparkasse Laubach-Hungen",
 			"brand:wikidata": "Q18289504",
 			"brand:wikipedia": "de:Sparkasse Laubach-Hungen",
-			"name": "Sparkasse Laubach-Hungen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Laubach-Hungen"
 		}
 	},
 	"amenity/bank|Sparkasse LeerWittmund": {
@@ -2907,7 +3119,8 @@
 			"brand": "Sparkasse LeerWittmund",
 			"brand:wikidata": "Q2307529",
 			"brand:wikipedia": "de:Sparkasse LeerWittmund",
-			"name": "Sparkasse LeerWittmund"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse LeerWittmund"
 		}
 	},
 	"amenity/bank|Sparkasse Leipzig": {
@@ -2920,7 +3133,8 @@
 			"brand": "Sparkasse Leipzig",
 			"brand:wikidata": "Q2307533",
 			"brand:wikipedia": "de:Sparkasse Leipzig",
-			"name": "Sparkasse Leipzig"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Leipzig"
 		}
 	},
 	"amenity/bank|Sparkasse Lemgo": {
@@ -2933,7 +3147,8 @@
 			"brand": "Sparkasse Lemgo",
 			"brand:wikidata": "Q2307536",
 			"brand:wikipedia": "de:Sparkasse Lemgo",
-			"name": "Sparkasse Lemgo"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Lemgo"
 		}
 	},
 	"amenity/bank|Sparkasse Leverkusen": {
@@ -2946,7 +3161,8 @@
 			"brand": "Sparkasse Leverkusen",
 			"brand:wikidata": "Q16856990",
 			"brand:wikipedia": "de:Sparkasse Leverkusen",
-			"name": "Sparkasse Leverkusen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Leverkusen"
 		}
 	},
 	"amenity/bank|Sparkasse Lippstadt": {
@@ -2959,7 +3175,8 @@
 			"brand": "Sparkasse Lippstadt",
 			"brand:wikidata": "Q1573103",
 			"brand:wikipedia": "de:Sparkasse Lippstadt",
-			"name": "Sparkasse Lippstadt"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Lippstadt"
 		}
 	},
 	"amenity/bank|Sparkasse Lörrach-Rheinfelden": {
@@ -2972,7 +3189,8 @@
 			"brand": "Sparkasse Lörrach-Rheinfelden",
 			"brand:wikidata": "Q2307539",
 			"brand:wikipedia": "de:Sparkasse Lörrach-Rheinfelden",
-			"name": "Sparkasse Lörrach-Rheinfelden"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Lörrach-Rheinfelden"
 		}
 	},
 	"amenity/bank|Sparkasse Lüdenscheid": {
@@ -2985,7 +3203,8 @@
 			"brand": "Sparkasse Lüdenscheid",
 			"brand:wikidata": "Q2307543",
 			"brand:wikipedia": "de:Sparkasse Lüdenscheid",
-			"name": "Sparkasse Lüdenscheid"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Lüdenscheid"
 		}
 	},
 	"amenity/bank|Sparkasse Lüneburg": {
@@ -2998,7 +3217,8 @@
 			"brand": "Sparkasse Lüneburg",
 			"brand:wikidata": "Q1499130",
 			"brand:wikipedia": "de:Sparkasse Lüneburg",
-			"name": "Sparkasse Lüneburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Lüneburg"
 		}
 	},
 	"amenity/bank|Sparkasse Mainfranken Würzburg": {
@@ -3011,7 +3231,8 @@
 			"brand": "Sparkasse Mainfranken Würzburg",
 			"brand:wikidata": "Q2307545",
 			"brand:wikipedia": "de:Sparkasse Mainfranken Würzburg",
-			"name": "Sparkasse Mainfranken Würzburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mainfranken Würzburg"
 		}
 	},
 	"amenity/bank|Sparkasse Mainz": {
@@ -3024,7 +3245,8 @@
 			"brand": "Sparkasse Mainz",
 			"brand:wikidata": "Q2307547",
 			"brand:wikipedia": "de:Sparkasse Mainz",
-			"name": "Sparkasse Mainz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mainz"
 		}
 	},
 	"amenity/bank|Sparkasse Mansfeld-Südharz": {
@@ -3037,7 +3259,8 @@
 			"brand": "Sparkasse Mansfeld-Südharz",
 			"brand:wikidata": "Q28484708",
 			"brand:wikipedia": "de:Sparkasse Mansfeld-Südharz",
-			"name": "Sparkasse Mansfeld-Südharz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mansfeld-Südharz"
 		}
 	},
 	"amenity/bank|Sparkasse Marburg-Biedenkopf": {
@@ -3050,7 +3273,8 @@
 			"brand": "Sparkasse Marburg-Biedenkopf",
 			"brand:wikidata": "Q16294740",
 			"brand:wikipedia": "de:Sparkasse Marburg-Biedenkopf",
-			"name": "Sparkasse Marburg-Biedenkopf"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Marburg-Biedenkopf"
 		}
 	},
 	"amenity/bank|Sparkasse Markgräflerland": {
@@ -3063,7 +3287,8 @@
 			"brand": "Sparkasse Markgräflerland",
 			"brand:wikidata": "Q1430840",
 			"brand:wikipedia": "de:Sparkasse Markgräflerland",
-			"name": "Sparkasse Markgräflerland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Markgräflerland"
 		}
 	},
 	"amenity/bank|Sparkasse Mecklenburg-Nordwest": {
@@ -3076,7 +3301,8 @@
 			"brand": "Sparkasse Mecklenburg-Nordwest",
 			"brand:wikidata": "Q1535595",
 			"brand:wikipedia": "de:Sparkasse Mecklenburg-Nordwest",
-			"name": "Sparkasse Mecklenburg-Nordwest"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mecklenburg-Nordwest"
 		}
 	},
 	"amenity/bank|Sparkasse Mecklenburg-Schwerin": {
@@ -3089,7 +3315,8 @@
 			"brand": "Sparkasse Mecklenburg-Schwerin",
 			"brand:wikidata": "Q2307549",
 			"brand:wikipedia": "de:Sparkasse Mecklenburg-Schwerin",
-			"name": "Sparkasse Mecklenburg-Schwerin"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mecklenburg-Schwerin"
 		}
 	},
 	"amenity/bank|Sparkasse Mecklenburg-Strelitz": {
@@ -3102,7 +3329,8 @@
 			"brand": "Sparkasse Mecklenburg-Strelitz",
 			"brand:wikidata": "Q996764",
 			"brand:wikipedia": "de:Sparkasse Mecklenburg-Strelitz",
-			"name": "Sparkasse Mecklenburg-Strelitz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mecklenburg-Strelitz"
 		}
 	},
 	"amenity/bank|Sparkasse Meißen": {
@@ -3115,7 +3343,8 @@
 			"brand": "Sparkasse Meißen",
 			"brand:wikidata": "Q15128949",
 			"brand:wikipedia": "de:Sparkasse Meißen",
-			"name": "Sparkasse Meißen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Meißen"
 		}
 	},
 	"amenity/bank|Sparkasse Memmingen-Lindau-Mindelheim": {
@@ -3128,7 +3357,8 @@
 			"brand": "Sparkasse Memmingen-Lindau-Mindelheim",
 			"brand:wikidata": "Q1693433",
 			"brand:wikipedia": "de:Sparkasse Memmingen-Lindau-Mindelheim",
-			"name": "Sparkasse Memmingen-Lindau-Mindelheim"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Memmingen-Lindau-Mindelheim"
 		}
 	},
 	"amenity/bank|Sparkasse Merzig-Wadern": {
@@ -3141,7 +3371,8 @@
 			"brand": "Sparkasse Merzig-Wadern",
 			"brand:wikidata": "Q18630932",
 			"brand:wikipedia": "de:Sparkasse Merzig-Wadern",
-			"name": "Sparkasse Merzig-Wadern"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Merzig-Wadern"
 		}
 	},
 	"amenity/bank|Sparkasse Meschede": {
@@ -3154,7 +3385,8 @@
 			"brand": "Sparkasse Meschede",
 			"brand:wikidata": "Q18630935",
 			"brand:wikipedia": "de:Sparkasse Meschede",
-			"name": "Sparkasse Meschede"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Meschede"
 		}
 	},
 	"amenity/bank|Sparkasse Miltenberg-Obernburg": {
@@ -3167,7 +3399,8 @@
 			"brand": "Sparkasse Miltenberg-Obernburg",
 			"brand:wikidata": "Q2307559",
 			"brand:wikipedia": "de:Sparkasse Miltenberg-Obernburg",
-			"name": "Sparkasse Miltenberg-Obernburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Miltenberg-Obernburg"
 		}
 	},
 	"amenity/bank|Sparkasse Minden-Lübbecke": {
@@ -3180,7 +3413,8 @@
 			"brand": "Sparkasse Minden-Lübbecke",
 			"brand:wikidata": "Q2307562",
 			"brand:wikipedia": "de:Sparkasse Minden-Lübbecke",
-			"name": "Sparkasse Minden-Lübbecke"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Minden-Lübbecke"
 		}
 	},
 	"amenity/bank|Sparkasse Mittelfranken-Süd": {
@@ -3193,7 +3427,8 @@
 			"brand": "Sparkasse Mittelfranken-Süd",
 			"brand:wikidata": "Q1669402",
 			"brand:wikipedia": "de:Sparkasse Mittelfranken-Süd",
-			"name": "Sparkasse Mittelfranken-Süd"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mittelfranken-Süd"
 		}
 	},
 	"amenity/bank|Sparkasse Mittelholstein": {
@@ -3206,7 +3441,8 @@
 			"brand": "Sparkasse Mittelholstein",
 			"brand:wikidata": "Q2307564",
 			"brand:wikipedia": "de:Sparkasse Mittelholstein",
-			"name": "Sparkasse Mittelholstein"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mittelholstein"
 		}
 	},
 	"amenity/bank|Sparkasse Mittelmosel – Eifel Mosel Hunsrück": {
@@ -3219,7 +3455,8 @@
 			"brand": "Sparkasse Mittelmosel – Eifel Mosel Hunsrück",
 			"brand:wikidata": "Q1562562",
 			"brand:wikipedia": "de:Sparkasse Mittelmosel – Eifel Mosel Hunsrück",
-			"name": "Sparkasse Mittelmosel – Eifel Mosel Hunsrück"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mittelmosel – Eifel Mosel Hunsrück"
 		}
 	},
 	"amenity/bank|Sparkasse Mittelsachsen": {
@@ -3232,7 +3469,8 @@
 			"brand": "Sparkasse Mittelsachsen",
 			"brand:wikidata": "Q18334179",
 			"brand:wikipedia": "de:Sparkasse Mittelsachsen",
-			"name": "Sparkasse Mittelsachsen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mittelsachsen"
 		}
 	},
 	"amenity/bank|Sparkasse Mittelthüringen": {
@@ -3245,7 +3483,8 @@
 			"brand": "Sparkasse Mittelthüringen",
 			"brand:wikidata": "Q1645884",
 			"brand:wikipedia": "de:Sparkasse Mittelthüringen",
-			"name": "Sparkasse Mittelthüringen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mittelthüringen"
 		}
 	},
 	"amenity/bank|Sparkasse Muldental": {
@@ -3258,7 +3497,8 @@
 			"brand": "Sparkasse Muldental",
 			"brand:wikidata": "Q56070852",
 			"brand:wikipedia": "de:Sparkasse Muldental",
-			"name": "Sparkasse Muldental"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Muldental"
 		}
 	},
 	"amenity/bank|Sparkasse Märkisch-Oderland": {
@@ -3271,7 +3511,8 @@
 			"brand": "Sparkasse Märkisch-Oderland",
 			"brand:wikidata": "Q1645803",
 			"brand:wikipedia": "de:Sparkasse Märkisch-Oderland",
-			"name": "Sparkasse Märkisch-Oderland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Märkisch-Oderland"
 		}
 	},
 	"amenity/bank|Sparkasse Märkisches Sauerland Hemer–Menden": {
@@ -3284,7 +3525,8 @@
 			"brand": "Sparkasse Märkisches Sauerland Hemer–Menden",
 			"brand:wikidata": "Q2307570",
 			"brand:wikipedia": "de:Sparkasse Märkisches Sauerland Hemer–Menden",
-			"name": "Sparkasse Märkisches Sauerland Hemer–Menden"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Märkisches Sauerland Hemer–Menden"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Märkisches Sauerland",
@@ -3301,7 +3543,8 @@
 			"brand": "Sparkasse Mülheim an der Ruhr",
 			"brand:wikidata": "Q18630938",
 			"brand:wikipedia": "de:Sparkasse Mülheim an der Ruhr",
-			"name": "Sparkasse Mülheim an der Ruhr"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Mülheim an der Ruhr"
 		}
 	},
 	"amenity/bank|Sparkasse Münden": {
@@ -3314,7 +3557,8 @@
 			"brand": "Sparkasse Münden",
 			"brand:wikidata": "Q1446928",
 			"brand:wikipedia": "de:Sparkasse Münden",
-			"name": "Sparkasse Münden"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Münden"
 		}
 	},
 	"amenity/bank|Sparkasse Münsterland Ost": {
@@ -3327,7 +3571,8 @@
 			"brand": "Sparkasse Münsterland Ost",
 			"brand:wikidata": "Q2307576",
 			"brand:wikipedia": "de:Sparkasse Münsterland Ost",
-			"name": "Sparkasse Münsterland Ost"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Münsterland Ost"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Münsterland-Ost"
@@ -3343,7 +3588,8 @@
 			"brand": "Sparkasse Neckartal-Odenwald",
 			"brand:wikidata": "Q14912505",
 			"brand:wikipedia": "de:Sparkasse Neckartal-Odenwald",
-			"name": "Sparkasse Neckartal-Odenwald"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Neckartal-Odenwald"
 		}
 	},
 	"amenity/bank|Sparkasse Neu-Ulm - Illertissen": {
@@ -3356,7 +3602,8 @@
 			"brand": "Sparkasse Neu-Ulm - Illertissen",
 			"brand:wikidata": "Q1773361",
 			"brand:wikipedia": "de:Sparkasse Neu-Ulm - Illertissen",
-			"name": "Sparkasse Neu-Ulm - Illertissen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Neu-Ulm - Illertissen"
 		}
 	},
 	"amenity/bank|Sparkasse Neubrandenburg-Demmin": {
@@ -3369,7 +3616,8 @@
 			"brand": "Sparkasse Neubrandenburg-Demmin",
 			"brand:wikidata": "Q1715498",
 			"brand:wikipedia": "de:Sparkasse Neubrandenburg-Demmin",
-			"name": "Sparkasse Neubrandenburg-Demmin"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Neubrandenburg-Demmin"
 		}
 	},
 	"amenity/bank|Sparkasse Neuburg-Rain": {
@@ -3382,7 +3630,8 @@
 			"brand": "Sparkasse Neuburg-Rain",
 			"brand:wikidata": "Q1636321",
 			"brand:wikipedia": "de:Sparkasse Neuburg-Rain",
-			"name": "Sparkasse Neuburg-Rain"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Neuburg-Rain"
 		}
 	},
 	"amenity/bank|Sparkasse Neumarkt i.d.OPf.-Parsberg": {
@@ -3395,7 +3644,8 @@
 			"brand": "Sparkasse Neumarkt i.d.OPf.-Parsberg",
 			"brand:wikidata": "Q1437820",
 			"brand:wikipedia": "de:Sparkasse Neumarkt i.d.OPf.-Parsberg",
-			"name": "Sparkasse Neumarkt i.d.OPf.-Parsberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Neumarkt i.d.OPf.-Parsberg"
 		}
 	},
 	"amenity/bank|Sparkasse Neunkirchen (Saarland)": {
@@ -3408,7 +3658,8 @@
 			"brand": "Sparkasse Neunkirchen (Saarland)",
 			"brand:wikidata": "Q18630944",
 			"brand:wikipedia": "de:Sparkasse Neunkirchen (Saarland)",
-			"name": "Sparkasse Neunkirchen (Saarland)"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Neunkirchen (Saarland)"
 		}
 	},
 	"amenity/bank|Sparkasse Neuss": {
@@ -3421,7 +3672,8 @@
 			"brand": "Sparkasse Neuss",
 			"brand:wikidata": "Q2307580",
 			"brand:wikipedia": "de:Sparkasse Neuss",
-			"name": "Sparkasse Neuss"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Neuss"
 		}
 	},
 	"amenity/bank|Sparkasse Neuwied": {
@@ -3434,7 +3686,8 @@
 			"brand": "Sparkasse Neuwied",
 			"brand:wikidata": "Q15848096",
 			"brand:wikipedia": "de:Sparkasse Neuwied",
-			"name": "Sparkasse Neuwied"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Neuwied"
 		}
 	},
 	"amenity/bank|Sparkasse Niederbayern-Mitte": {
@@ -3447,7 +3700,8 @@
 			"brand": "Sparkasse Niederbayern-Mitte",
 			"brand:wikidata": "Q1491695",
 			"brand:wikipedia": "de:Sparkasse Niederbayern-Mitte",
-			"name": "Sparkasse Niederbayern-Mitte"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Niederbayern-Mitte"
 		}
 	},
 	"amenity/bank|Sparkasse Niederlausitz": {
@@ -3460,7 +3714,8 @@
 			"brand": "Sparkasse Niederlausitz",
 			"brand:wikidata": "Q1288753",
 			"brand:wikipedia": "de:Sparkasse Niederlausitz",
-			"name": "Sparkasse Niederlausitz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Niederlausitz"
 		}
 	},
 	"amenity/bank|Sparkasse Nienburg": {
@@ -3473,7 +3728,8 @@
 			"brand": "Sparkasse Nienburg",
 			"brand:wikidata": "Q1392587",
 			"brand:wikipedia": "de:Sparkasse Nienburg",
-			"name": "Sparkasse Nienburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Nienburg"
 		}
 	},
 	"amenity/bank|Sparkasse Nördlingen": {
@@ -3486,7 +3742,8 @@
 			"brand": "Sparkasse Nördlingen",
 			"brand:wikidata": "Q1556466",
 			"brand:wikipedia": "de:Sparkasse Nördlingen",
-			"name": "Sparkasse Nördlingen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Nördlingen"
 		}
 	},
 	"amenity/bank|Sparkasse Nürnberg": {
@@ -3499,7 +3756,8 @@
 			"brand": "Sparkasse Nürnberg",
 			"brand:wikidata": "Q2307586",
 			"brand:wikipedia": "de:Sparkasse Nürnberg",
-			"name": "Sparkasse Nürnberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Nürnberg"
 		}
 	},
 	"amenity/bank|Sparkasse Oberhessen": {
@@ -3512,7 +3770,8 @@
 			"brand": "Sparkasse Oberhessen",
 			"brand:wikidata": "Q1554198",
 			"brand:wikipedia": "de:Sparkasse Oberhessen",
-			"name": "Sparkasse Oberhessen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Oberhessen"
 		}
 	},
 	"amenity/bank|Sparkasse Oberland": {
@@ -3525,7 +3784,8 @@
 			"brand": "Sparkasse Oberland",
 			"brand:wikidata": "Q1365877",
 			"brand:wikipedia": "de:Sparkasse Oberland",
-			"name": "Sparkasse Oberland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Oberland"
 		}
 	},
 	"amenity/bank|Sparkasse Oberlausitz-Niederschlesien": {
@@ -3538,7 +3798,8 @@
 			"brand": "Sparkasse Oberlausitz-Niederschlesien",
 			"brand:wikidata": "Q1734365",
 			"brand:wikipedia": "de:Sparkasse Oberlausitz-Niederschlesien",
-			"name": "Sparkasse Oberlausitz-Niederschlesien"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Oberlausitz-Niederschlesien"
 		}
 	},
 	"amenity/bank|Sparkasse Oberpfalz Nord": {
@@ -3551,7 +3812,8 @@
 			"brand": "Sparkasse Oberpfalz Nord",
 			"brand:wikidata": "Q1757112",
 			"brand:wikipedia": "de:Sparkasse Oberpfalz Nord",
-			"name": "Sparkasse Oberpfalz Nord"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Oberpfalz Nord"
 		}
 	},
 	"amenity/bank|Sparkasse Odenwaldkreis": {
@@ -3564,7 +3826,8 @@
 			"brand": "Sparkasse Odenwaldkreis",
 			"brand:wikidata": "Q18334182",
 			"brand:wikipedia": "de:Sparkasse Odenwaldkreis",
-			"name": "Sparkasse Odenwaldkreis"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Odenwaldkreis"
 		}
 	},
 	"amenity/bank|Sparkasse Oder-Spree": {
@@ -3577,7 +3840,8 @@
 			"brand": "Sparkasse Oder-Spree",
 			"brand:wikidata": "Q2307594",
 			"brand:wikipedia": "de:Sparkasse Oder-Spree",
-			"name": "Sparkasse Oder-Spree"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Oder-Spree"
 		}
 	},
 	"amenity/bank|Sparkasse Offenburg/Ortenau": {
@@ -3590,7 +3854,8 @@
 			"brand": "Sparkasse Offenburg/Ortenau",
 			"brand:wikidata": "Q2307590",
 			"brand:wikipedia": "de:Sparkasse Offenburg/Ortenau",
-			"name": "Sparkasse Offenburg/Ortenau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Offenburg/Ortenau"
 		}
 	},
 	"amenity/bank|Sparkasse Olpe-Drolshagen-Wenden": {
@@ -3603,7 +3868,8 @@
 			"brand": "Sparkasse Olpe-Drolshagen-Wenden",
 			"brand:wikidata": "Q18630947",
 			"brand:wikipedia": "de:Sparkasse Olpe-Drolshagen-Wenden",
-			"name": "Sparkasse Olpe-Drolshagen-Wenden"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Olpe-Drolshagen-Wenden"
 		}
 	},
 	"amenity/bank|Sparkasse Osnabrück": {
@@ -3616,7 +3882,8 @@
 			"brand": "Sparkasse Osnabrück",
 			"brand:wikidata": "Q2307597",
 			"brand:wikipedia": "de:Sparkasse Osnabrück",
-			"name": "Sparkasse Osnabrück"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Osnabrück"
 		}
 	},
 	"amenity/bank|Sparkasse Osterode am Harz": {
@@ -3629,7 +3896,8 @@
 			"brand": "Sparkasse Osterode am Harz",
 			"brand:wikidata": "Q2307600",
 			"brand:wikipedia": "de:Sparkasse Osterode am Harz",
-			"name": "Sparkasse Osterode am Harz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Osterode am Harz"
 		}
 	},
 	"amenity/bank|Sparkasse Ostprignitz-Ruppin": {
@@ -3642,7 +3910,8 @@
 			"brand": "Sparkasse Ostprignitz-Ruppin",
 			"brand:wikidata": "Q56070775",
 			"brand:wikipedia": "de:Sparkasse Ostprignitz-Ruppin",
-			"name": "Sparkasse Ostprignitz-Ruppin"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Ostprignitz-Ruppin"
 		}
 	},
 	"amenity/bank|Sparkasse Paderborn-Detmold": {
@@ -3655,7 +3924,8 @@
 			"brand": "Sparkasse Paderborn-Detmold",
 			"brand:wikidata": "Q2307609",
 			"brand:wikipedia": "de:Sparkasse Paderborn-Detmold",
-			"name": "Sparkasse Paderborn-Detmold"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Paderborn-Detmold"
 		}
 	},
 	"amenity/bank|Sparkasse Parchim-Lübz": {
@@ -3668,7 +3938,8 @@
 			"brand": "Sparkasse Parchim-Lübz",
 			"brand:wikidata": "Q2307612",
 			"brand:wikipedia": "de:Sparkasse Parchim-Lübz",
-			"name": "Sparkasse Parchim-Lübz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Parchim-Lübz"
 		}
 	},
 	"amenity/bank|Sparkasse Passau": {
@@ -3681,7 +3952,8 @@
 			"brand": "Sparkasse Passau",
 			"brand:wikidata": "Q2307613",
 			"brand:wikipedia": "de:Sparkasse Passau",
-			"name": "Sparkasse Passau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Passau"
 		}
 	},
 	"amenity/bank|Sparkasse Pfaffenhofen": {
@@ -3694,7 +3966,8 @@
 			"brand": "Sparkasse Pfaffenhofen",
 			"brand:wikidata": "Q2307617",
 			"brand:wikipedia": "de:Sparkasse Pfaffenhofen",
-			"name": "Sparkasse Pfaffenhofen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Pfaffenhofen"
 		}
 	},
 	"amenity/bank|Sparkasse Pforzheim Calw": {
@@ -3707,7 +3980,8 @@
 			"brand": "Sparkasse Pforzheim Calw",
 			"brand:wikidata": "Q2307618",
 			"brand:wikipedia": "de:Sparkasse Pforzheim Calw",
-			"name": "Sparkasse Pforzheim Calw"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Pforzheim Calw"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Calw",
@@ -3725,7 +3999,8 @@
 			"brand": "Sparkasse Pfullendorf-Meßkirch",
 			"brand:wikidata": "Q2307621",
 			"brand:wikipedia": "de:Sparkasse Pfullendorf-Meßkirch",
-			"name": "Sparkasse Pfullendorf-Meßkirch"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Pfullendorf-Meßkirch"
 		}
 	},
 	"amenity/bank|Sparkasse Prignitz": {
@@ -3738,7 +4013,8 @@
 			"brand": "Sparkasse Prignitz",
 			"brand:wikidata": "Q56199282",
 			"brand:wikipedia": "de:Sparkasse Prignitz",
-			"name": "Sparkasse Prignitz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Prignitz"
 		}
 	},
 	"amenity/bank|Sparkasse Radevormwald-Hückeswagen": {
@@ -3751,7 +4027,8 @@
 			"brand": "Sparkasse Radevormwald-Hückeswagen",
 			"brand:wikidata": "Q2307633",
 			"brand:wikipedia": "de:Sparkasse Radevormwald-Hückeswagen",
-			"name": "Sparkasse Radevormwald-Hückeswagen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Radevormwald-Hückeswagen"
 		}
 	},
 	"amenity/bank|Sparkasse Rastatt-Gernsbach": {
@@ -3764,7 +4041,8 @@
 			"brand": "Sparkasse Rastatt-Gernsbach",
 			"brand:wikidata": "Q26794524",
 			"brand:wikipedia": "de:Sparkasse Rastatt-Gernsbach",
-			"name": "Sparkasse Rastatt-Gernsbach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Rastatt-Gernsbach"
 		}
 	},
 	"amenity/bank|Sparkasse Regen-Viechtach": {
@@ -3777,7 +4055,8 @@
 			"brand": "Sparkasse Regen-Viechtach",
 			"brand:wikidata": "Q1670662",
 			"brand:wikipedia": "de:Sparkasse Regen-Viechtach",
-			"name": "Sparkasse Regen-Viechtach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Regen-Viechtach"
 		}
 	},
 	"amenity/bank|Sparkasse Regensburg": {
@@ -3790,7 +4069,8 @@
 			"brand": "Sparkasse Regensburg",
 			"brand:wikidata": "Q1557248",
 			"brand:wikipedia": "de:Sparkasse Regensburg",
-			"name": "Sparkasse Regensburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Regensburg"
 		}
 	},
 	"amenity/bank|Sparkasse Rhein Neckar Nord": {
@@ -3803,7 +4083,8 @@
 			"brand": "Sparkasse Rhein Neckar Nord",
 			"brand:wikidata": "Q2307642",
 			"brand:wikipedia": "de:Sparkasse Rhein Neckar Nord",
-			"name": "Sparkasse Rhein Neckar Nord"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Rhein Neckar Nord"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Mannheim"
@@ -3819,7 +4100,8 @@
 			"brand": "Sparkasse Rhein-Haardt",
 			"brand:wikidata": "Q2307638",
 			"brand:wikipedia": "de:Sparkasse Rhein-Haardt",
-			"name": "Sparkasse Rhein-Haardt"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Rhein-Haardt"
 		}
 	},
 	"amenity/bank|Sparkasse Rhein-Maas": {
@@ -3832,7 +4114,8 @@
 			"brand": "Sparkasse Rhein-Maas",
 			"brand:wikidata": "Q2307502",
 			"brand:wikipedia": "de:Sparkasse Rhein-Maas",
-			"name": "Sparkasse Rhein-Maas"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Rhein-Maas"
 		}
 	},
 	"amenity/bank|Sparkasse Rhein-Nahe": {
@@ -3845,7 +4128,8 @@
 			"brand": "Sparkasse Rhein-Nahe",
 			"brand:wikidata": "Q1321477",
 			"brand:wikipedia": "de:Sparkasse Rhein-Nahe",
-			"name": "Sparkasse Rhein-Nahe"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Rhein-Nahe"
 		}
 	},
 	"amenity/bank|Sparkasse Rosenheim-Bad Aibling": {
@@ -3858,7 +4142,8 @@
 			"brand": "Sparkasse Rosenheim-Bad Aibling",
 			"brand:wikidata": "Q1292095",
 			"brand:wikipedia": "de:Sparkasse Rosenheim-Bad Aibling",
-			"name": "Sparkasse Rosenheim-Bad Aibling"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Rosenheim-Bad Aibling"
 		}
 	},
 	"amenity/bank|Sparkasse Rotenburg Osterholz": {
@@ -3871,7 +4156,8 @@
 			"brand": "Sparkasse Rotenburg Osterholz",
 			"brand:wikidata": "Q2307645",
 			"brand:wikipedia": "de:Sparkasse Rotenburg Osterholz",
-			"name": "Sparkasse Rotenburg Osterholz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Rotenburg Osterholz"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Rotenburg-Bremervörde"
@@ -3887,7 +4173,8 @@
 			"brand": "Sparkasse Rottal-Inn",
 			"brand:wikidata": "Q2307651",
 			"brand:wikipedia": "de:Sparkasse Rottal-Inn",
-			"name": "Sparkasse Rottal-Inn"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Rottal-Inn"
 		}
 	},
 	"amenity/bank|Sparkasse Saarbrücken": {
@@ -3900,7 +4187,8 @@
 			"brand": "Sparkasse Saarbrücken",
 			"brand:wikidata": "Q2307655",
 			"brand:wikipedia": "de:Sparkasse Saarbrücken",
-			"name": "Sparkasse Saarbrücken"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Saarbrücken"
 		},
 		"match": [
 			"amenity/bank|Kreissparkasse Saarbrücken",
@@ -3917,7 +4205,8 @@
 			"brand": "Sparkasse Salem-Heiligenberg",
 			"brand:wikidata": "Q2307658",
 			"brand:wikipedia": "de:Sparkasse Salem-Heiligenberg",
-			"name": "Sparkasse Salem-Heiligenberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Salem-Heiligenberg"
 		}
 	},
 	"amenity/bank|Sparkasse Schaumburg": {
@@ -3930,7 +4219,8 @@
 			"brand": "Sparkasse Schaumburg",
 			"brand:wikidata": "Q1537492",
 			"brand:wikipedia": "de:Sparkasse Schaumburg",
-			"name": "Sparkasse Schaumburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Schaumburg"
 		}
 	},
 	"amenity/bank|Sparkasse Scheeßel": {
@@ -3943,7 +4233,8 @@
 			"brand": "Sparkasse Scheeßel",
 			"brand:wikidata": "Q2307659",
 			"brand:wikipedia": "de:Sparkasse Scheeßel",
-			"name": "Sparkasse Scheeßel"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Scheeßel"
 		},
 		"match": [
 			"amenity/bank|Zweckverbandssparkasse Scheeßel"
@@ -3959,7 +4250,8 @@
 			"brand": "Sparkasse Schwarzwald-Baar",
 			"brand:wikidata": "Q33133663",
 			"brand:wikipedia": "de:Sparkasse Schwarzwald-Baar",
-			"name": "Sparkasse Schwarzwald-Baar"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Schwarzwald-Baar"
 		}
 	},
 	"amenity/bank|Sparkasse Schweinfurt-Haßberge": {
@@ -3972,7 +4264,8 @@
 			"brand": "Sparkasse Schweinfurt-Haßberge",
 			"brand:wikidata": "Q2307665",
 			"brand:wikipedia": "de:Sparkasse Schweinfurt-Haßberge",
-			"name": "Sparkasse Schweinfurt-Haßberge"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Schweinfurt-Haßberge"
 		},
 		"match": [
 			"amenity/bank|Kreissparkasse Schweinfurt",
@@ -3990,7 +4283,8 @@
 			"brand": "Sparkasse Schwerte",
 			"brand:wikidata": "Q18630952",
 			"brand:wikipedia": "de:Sparkasse Schwerte",
-			"name": "Sparkasse Schwerte"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Schwerte"
 		}
 	},
 	"amenity/bank|Sparkasse Schwäbisch Hall-Crailsheim": {
@@ -4003,7 +4297,8 @@
 			"brand": "Sparkasse Schwäbisch Hall-Crailsheim",
 			"brand:wikidata": "Q1723179",
 			"brand:wikipedia": "de:Sparkasse Schwäbisch Hall-Crailsheim",
-			"name": "Sparkasse Schwäbisch Hall-Crailsheim"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Schwäbisch Hall-Crailsheim"
 		}
 	},
 	"amenity/bank|Sparkasse Siegen": {
@@ -4016,7 +4311,8 @@
 			"brand": "Sparkasse Siegen",
 			"brand:wikidata": "Q2307671",
 			"brand:wikipedia": "de:Sparkasse Siegen",
-			"name": "Sparkasse Siegen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Siegen"
 		}
 	},
 	"amenity/bank|Sparkasse SoestWerl": {
@@ -4029,7 +4325,8 @@
 			"brand": "Sparkasse SoestWerl",
 			"brand:wikidata": "Q47015238",
 			"brand:wikipedia": "de:Sparkasse SoestWerl",
-			"name": "Sparkasse SoestWerl"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse SoestWerl"
 		}
 	},
 	"amenity/bank|Sparkasse Sonneberg": {
@@ -4042,7 +4339,8 @@
 			"brand": "Sparkasse Sonneberg",
 			"brand:wikidata": "Q18334184",
 			"brand:wikipedia": "de:Sparkasse Sonneberg",
-			"name": "Sparkasse Sonneberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Sonneberg"
 		}
 	},
 	"amenity/bank|Sparkasse Spree-Neiße": {
@@ -4055,7 +4353,8 @@
 			"brand": "Sparkasse Spree-Neiße",
 			"brand:wikidata": "Q2307681",
 			"brand:wikipedia": "de:Sparkasse Spree-Neiße",
-			"name": "Sparkasse Spree-Neiße"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Spree-Neiße"
 		}
 	},
 	"amenity/bank|Sparkasse St. Blasien": {
@@ -4068,7 +4367,8 @@
 			"brand": "Sparkasse St. Blasien",
 			"brand:wikidata": "Q15128968",
 			"brand:wikipedia": "de:Sparkasse St. Blasien",
-			"name": "Sparkasse St. Blasien"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse St. Blasien"
 		}
 	},
 	"amenity/bank|Sparkasse Stade-Altes Land": {
@@ -4081,7 +4381,8 @@
 			"brand": "Sparkasse Stade-Altes Land",
 			"brand:wikidata": "Q2307687",
 			"brand:wikipedia": "de:Sparkasse Stade-Altes Land",
-			"name": "Sparkasse Stade-Altes Land"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Stade-Altes Land"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Stade–Altes Land",
@@ -4098,7 +4399,8 @@
 			"brand": "Sparkasse Starkenburg",
 			"brand:wikidata": "Q2307691",
 			"brand:wikipedia": "de:Sparkasse Starkenburg",
-			"name": "Sparkasse Starkenburg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Starkenburg"
 		}
 	},
 	"amenity/bank|Sparkasse Staufen-Breisach": {
@@ -4111,7 +4413,8 @@
 			"brand": "Sparkasse Staufen-Breisach",
 			"brand:wikidata": "Q53968330",
 			"brand:wikipedia": "de:Sparkasse Staufen-Breisach",
-			"name": "Sparkasse Staufen-Breisach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Staufen-Breisach"
 		}
 	},
 	"amenity/bank|Sparkasse Südholstein": {
@@ -4124,7 +4427,8 @@
 			"brand": "Sparkasse Südholstein",
 			"brand:wikidata": "Q2307695",
 			"brand:wikipedia": "de:Sparkasse Südholstein",
-			"name": "Sparkasse Südholstein"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Südholstein"
 		}
 	},
 	"amenity/bank|Sparkasse Südliche Weinstraße": {
@@ -4137,7 +4441,8 @@
 			"brand": "Sparkasse Südliche Weinstraße",
 			"brand:wikidata": "Q1656510",
 			"brand:wikipedia": "de:Sparkasse Südliche Weinstraße",
-			"name": "Sparkasse Südliche Weinstraße"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Südliche Weinstraße"
 		}
 	},
 	"amenity/bank|Sparkasse Südwestpfalz": {
@@ -4150,7 +4455,8 @@
 			"brand": "Sparkasse Südwestpfalz",
 			"brand:wikidata": "Q15128972",
 			"brand:wikipedia": "de:Sparkasse Südwestpfalz",
-			"name": "Sparkasse Südwestpfalz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Südwestpfalz"
 		}
 	},
 	"amenity/bank|Sparkasse Tauberfranken": {
@@ -4163,7 +4469,8 @@
 			"brand": "Sparkasse Tauberfranken",
 			"brand:wikidata": "Q1566741",
 			"brand:wikipedia": "de:Sparkasse Tauberfranken",
-			"name": "Sparkasse Tauberfranken"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Tauberfranken"
 		}
 	},
 	"amenity/bank|Sparkasse Trier": {
@@ -4176,7 +4483,8 @@
 			"brand": "Sparkasse Trier",
 			"brand:wikidata": "Q2307697",
 			"brand:wikipedia": "de:Sparkasse Trier",
-			"name": "Sparkasse Trier"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Trier"
 		},
 		"match": [
 			"amenity/bank|Kreissparkasse Trier-Saarburg",
@@ -4193,7 +4501,8 @@
 			"brand": "Sparkasse Uckermark",
 			"brand:wikidata": "Q2307700",
 			"brand:wikipedia": "de:Sparkasse Uckermark",
-			"name": "Sparkasse Uckermark"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Uckermark"
 		}
 	},
 	"amenity/bank|Sparkasse Uecker-Randow": {
@@ -4206,7 +4515,8 @@
 			"brand": "Sparkasse Uecker-Randow",
 			"brand:wikidata": "Q1686884",
 			"brand:wikipedia": "de:Sparkasse Uecker-Randow",
-			"name": "Sparkasse Uecker-Randow"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Uecker-Randow"
 		}
 	},
 	"amenity/bank|Sparkasse Uelzen Lüchow-Dannenberg": {
@@ -4219,7 +4529,8 @@
 			"brand": "Sparkasse Uelzen Lüchow-Dannenberg",
 			"brand:wikidata": "Q2307701",
 			"brand:wikipedia": "de:Sparkasse Uelzen Lüchow-Dannenberg",
-			"name": "Sparkasse Uelzen Lüchow-Dannenberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Uelzen Lüchow-Dannenberg"
 		}
 	},
 	"amenity/bank|Sparkasse Ulm": {
@@ -4232,7 +4543,8 @@
 			"brand": "Sparkasse Ulm",
 			"brand:wikidata": "Q18630954",
 			"brand:wikipedia": "de:Sparkasse Ulm",
-			"name": "Sparkasse Ulm"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Ulm"
 		}
 	},
 	"amenity/bank|Sparkasse UnnaKamen": {
@@ -4245,7 +4557,8 @@
 			"brand": "Sparkasse UnnaKamen",
 			"brand:wikidata": "Q15848097",
 			"brand:wikipedia": "de:Sparkasse UnnaKamen",
-			"name": "Sparkasse UnnaKamen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse UnnaKamen"
 		}
 	},
 	"amenity/bank|Sparkasse Unstrut-Hainich": {
@@ -4258,7 +4571,8 @@
 			"brand": "Sparkasse Unstrut-Hainich",
 			"brand:wikidata": "Q18334187",
 			"brand:wikipedia": "de:Sparkasse Unstrut-Hainich",
-			"name": "Sparkasse Unstrut-Hainich"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Unstrut-Hainich"
 		}
 	},
 	"amenity/bank|Sparkasse Vest Recklinghausen": {
@@ -4271,7 +4585,8 @@
 			"brand": "Sparkasse Vest Recklinghausen",
 			"brand:wikidata": "Q18630956",
 			"brand:wikipedia": "de:Sparkasse Vest Recklinghausen",
-			"name": "Sparkasse Vest Recklinghausen"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Vest Recklinghausen"
 		}
 	},
 	"amenity/bank|Sparkasse Vogtland": {
@@ -4284,7 +4599,8 @@
 			"brand": "Sparkasse Vogtland",
 			"brand:wikidata": "Q1605249",
 			"brand:wikipedia": "de:Sparkasse Vogtland",
-			"name": "Sparkasse Vogtland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Vogtland"
 		}
 	},
 	"amenity/bank|Sparkasse Vorderpfalz": {
@@ -4297,7 +4613,8 @@
 			"brand": "Sparkasse Vorderpfalz",
 			"brand:wikidata": "Q15128975",
 			"brand:wikipedia": "de:Sparkasse Vorderpfalz",
-			"name": "Sparkasse Vorderpfalz"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Vorderpfalz"
 		}
 	},
 	"amenity/bank|Sparkasse Vorpommern": {
@@ -4310,7 +4627,8 @@
 			"brand": "Sparkasse Vorpommern",
 			"brand:wikidata": "Q2307709",
 			"brand:wikipedia": "de:Sparkasse Vorpommern",
-			"name": "Sparkasse Vorpommern"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Vorpommern"
 		}
 	},
 	"amenity/bank|Sparkasse Waldeck-Frankenberg": {
@@ -4323,7 +4641,8 @@
 			"brand": "Sparkasse Waldeck-Frankenberg",
 			"brand:wikidata": "Q15128978",
 			"brand:wikipedia": "de:Sparkasse Waldeck-Frankenberg",
-			"name": "Sparkasse Waldeck-Frankenberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Waldeck-Frankenberg"
 		}
 	},
 	"amenity/bank|Sparkasse Werra-Meißner": {
@@ -4336,7 +4655,8 @@
 			"brand": "Sparkasse Werra-Meißner",
 			"brand:wikidata": "Q1170839",
 			"brand:wikipedia": "de:Sparkasse Werra-Meißner",
-			"name": "Sparkasse Werra-Meißner"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Werra-Meißner"
 		}
 	},
 	"amenity/bank|Sparkasse Westerwald-Sieg": {
@@ -4349,7 +4669,8 @@
 			"brand": "Sparkasse Westerwald-Sieg",
 			"brand:wikidata": "Q18022453",
 			"brand:wikipedia": "de:Sparkasse Westerwald-Sieg",
-			"name": "Sparkasse Westerwald-Sieg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Westerwald-Sieg"
 		}
 	},
 	"amenity/bank|Sparkasse Westholstein": {
@@ -4362,7 +4683,8 @@
 			"brand": "Sparkasse Westholstein",
 			"brand:wikidata": "Q2307720",
 			"brand:wikipedia": "de:Sparkasse Westholstein",
-			"name": "Sparkasse Westholstein"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Westholstein"
 		}
 	},
 	"amenity/bank|Sparkasse Westmünsterland": {
@@ -4375,7 +4697,8 @@
 			"brand": "Sparkasse Westmünsterland",
 			"brand:wikidata": "Q1567929",
 			"brand:wikipedia": "de:Sparkasse Westmünsterland",
-			"name": "Sparkasse Westmünsterland"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Westmünsterland"
 		}
 	},
 	"amenity/bank|Sparkasse Wetzlar": {
@@ -4388,7 +4711,8 @@
 			"brand": "Sparkasse Wetzlar",
 			"brand:wikidata": "Q1748989",
 			"brand:wikipedia": "de:Sparkasse Wetzlar",
-			"name": "Sparkasse Wetzlar"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Wetzlar"
 		}
 	},
 	"amenity/bank|Sparkasse Wiesental": {
@@ -4401,7 +4725,8 @@
 			"brand": "Sparkasse Wiesental",
 			"brand:wikidata": "Q56070837",
 			"brand:wikipedia": "de:Sparkasse Wiesental",
-			"name": "Sparkasse Wiesental"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Wiesental"
 		}
 	},
 	"amenity/bank|Sparkasse Wilhelmshaven": {
@@ -4414,7 +4739,8 @@
 			"brand": "Sparkasse Wilhelmshaven",
 			"brand:wikidata": "Q1230591",
 			"brand:wikipedia": "de:Sparkasse Wilhelmshaven",
-			"name": "Sparkasse Wilhelmshaven"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Wilhelmshaven"
 		}
 	},
 	"amenity/bank|Sparkasse Witten": {
@@ -4427,7 +4753,8 @@
 			"brand": "Sparkasse Witten",
 			"brand:wikidata": "Q2307725",
 			"brand:wikipedia": "de:Sparkasse Witten",
-			"name": "Sparkasse Witten"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Witten"
 		},
 		"match": [
 			"amenity/bank|Stadtsparkasse Witten"
@@ -4443,7 +4770,8 @@
 			"brand": "Sparkasse Wittenberg",
 			"brand:wikidata": "Q54867473",
 			"brand:wikipedia": "de:Sparkasse Wittenberg",
-			"name": "Sparkasse Wittenberg"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Wittenberg"
 		}
 	},
 	"amenity/bank|Sparkasse Wittgenstein": {
@@ -4456,7 +4784,8 @@
 			"brand": "Sparkasse Wittgenstein",
 			"brand:wikidata": "Q2307728",
 			"brand:wikipedia": "de:Sparkasse Wittgenstein",
-			"name": "Sparkasse Wittgenstein"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Wittgenstein"
 		}
 	},
 	"amenity/bank|Sparkasse Wolfach": {
@@ -4469,7 +4798,8 @@
 			"brand": "Sparkasse Wolfach",
 			"brand:wikidata": "Q26794525",
 			"brand:wikipedia": "de:Sparkasse Wolfach",
-			"name": "Sparkasse Wolfach"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Wolfach"
 		}
 	},
 	"amenity/bank|Sparkasse Worms-Alzey-Ried": {
@@ -4482,7 +4812,8 @@
 			"brand": "Sparkasse Worms-Alzey-Ried",
 			"brand:wikidata": "Q1435829",
 			"brand:wikipedia": "de:Sparkasse Worms-Alzey-Ried",
-			"name": "Sparkasse Worms-Alzey-Ried"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Worms-Alzey-Ried"
 		}
 	},
 	"amenity/bank|Sparkasse Zollernalb": {
@@ -4495,7 +4826,8 @@
 			"brand": "Sparkasse Zollernalb",
 			"brand:wikidata": "Q2307734",
 			"brand:wikipedia": "de:Sparkasse Zollernalb",
-			"name": "Sparkasse Zollernalb"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Zollernalb"
 		}
 	},
 	"amenity/bank|Sparkasse Zwickau": {
@@ -4508,7 +4840,8 @@
 			"brand": "Sparkasse Zwickau",
 			"brand:wikidata": "Q2307735",
 			"brand:wikipedia": "de:Sparkasse Zwickau",
-			"name": "Sparkasse Zwickau"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse Zwickau"
 		}
 	},
 	"amenity/bank|Sparkasse am Niederrhein": {
@@ -4521,7 +4854,8 @@
 			"brand": "Sparkasse am Niederrhein",
 			"brand:wikidata": "Q1411585",
 			"brand:wikipedia": "de:Sparkasse am Niederrhein",
-			"name": "Sparkasse am Niederrhein"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse am Niederrhein"
 		}
 	},
 	"amenity/bank|Sparkasse an der Lippe": {
@@ -4534,7 +4868,8 @@
 			"brand": "Sparkasse an der Lippe",
 			"brand:wikidata": "Q18630930",
 			"brand:wikipedia": "de:Sparkasse an der Lippe",
-			"name": "Sparkasse an der Lippe"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse an der Lippe"
 		}
 	},
 	"amenity/bank|Sparkasse im Landkreis Cham": {
@@ -4547,7 +4882,8 @@
 			"brand": "Sparkasse im Landkreis Cham",
 			"brand:wikidata": "Q2307747",
 			"brand:wikipedia": "de:Sparkasse im Landkreis Cham",
-			"name": "Sparkasse im Landkreis Cham"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse im Landkreis Cham"
 		}
 	},
 	"amenity/bank|Sparkasse im Landkreis Neustadt a. d. Aisch - Bad Windsheim": {
@@ -4560,7 +4896,8 @@
 			"brand": "Sparkasse im Landkreis Neustadt a. d. Aisch - Bad Windsheim",
 			"brand:wikidata": "Q1401594",
 			"brand:wikipedia": "de:Sparkasse im Landkreis Neustadt a. d. Aisch - Bad Windsheim",
-			"name": "Sparkasse im Landkreis Neustadt a. d. Aisch - Bad Windsheim"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse im Landkreis Neustadt a. d. Aisch - Bad Windsheim"
 		}
 	},
 	"amenity/bank|Sparkasse im Landkreis Schwandorf": {
@@ -4573,7 +4910,8 @@
 			"brand": "Sparkasse im Landkreis Schwandorf",
 			"brand:wikidata": "Q2307750",
 			"brand:wikipedia": "de:Sparkasse im Landkreis Schwandorf",
-			"name": "Sparkasse im Landkreis Schwandorf"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse im Landkreis Schwandorf"
 		}
 	},
 	"amenity/bank|Sparkasse zu Lübeck": {
@@ -4586,7 +4924,8 @@
 			"brand": "Sparkasse zu Lübeck",
 			"brand:wikidata": "Q2307753",
 			"brand:wikipedia": "de:Sparkasse zu Lübeck",
-			"name": "Sparkasse zu Lübeck"
+			"name": "Sparkasse",
+			"official_name": "Sparkasse zu Lübeck"
 		},
 		"match": [
 			"amenity/bank|Sparkasse zu Lübeck AG"
@@ -4602,7 +4941,8 @@
 			"brand": "Stadt- und Kreissparkasse Moosburg a.d. Isar",
 			"brand:wikidata": "Q2326327",
 			"brand:wikipedia": "de:Stadt- und Kreissparkasse Moosburg a.d. Isar",
-			"name": "Stadt- und Kreissparkasse Moosburg a.d. Isar"
+			"name": "Sparkasse",
+			"official_name": "Stadt- und Kreissparkasse Moosburg a.d. Isar"
 		},
 		"match": [
 			"amenity/bank|Stadt- und Kreissparkasse Moosburg",
@@ -4621,7 +4961,8 @@
 			"brand": "Stadt-Sparkasse Haan",
 			"brand:wikidata": "Q18631055",
 			"brand:wikipedia": "de:Stadt-Sparkasse Haan",
-			"name": "Stadt-Sparkasse Haan"
+			"name": "Sparkasse",
+			"official_name": "Stadt-Sparkasse Haan"
 		}
 	},
 	"amenity/bank|Stadt-Sparkasse Langenfeld": {
@@ -4634,7 +4975,8 @@
 			"brand": "Stadt-Sparkasse Langenfeld",
 			"brand:wikidata": "Q18631056",
 			"brand:wikipedia": "de:Stadt-Sparkasse Langenfeld",
-			"name": "Stadt-Sparkasse Langenfeld"
+			"name": "Sparkasse",
+			"official_name": "Stadt-Sparkasse Langenfeld"
 		}
 	},
 	"amenity/bank|Stadt-Sparkasse Solingen": {
@@ -4647,7 +4989,8 @@
 			"brand": "Stadt-Sparkasse Solingen",
 			"brand:wikidata": "Q18631057",
 			"brand:wikipedia": "de:Stadt-Sparkasse Solingen",
-			"name": "Stadt-Sparkasse Solingen"
+			"name": "Sparkasse",
+			"official_name": "Stadt-Sparkasse Solingen"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Augsburg": {
@@ -4660,7 +5003,8 @@
 			"brand": "Stadtsparkasse Augsburg",
 			"brand:wikidata": "Q2328081",
 			"brand:wikipedia": "de:Stadtsparkasse Augsburg",
-			"name": "Stadtsparkasse Augsburg"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Augsburg"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Bad Honnef": {
@@ -4673,7 +5017,8 @@
 			"brand": "Stadtsparkasse Bad Honnef",
 			"brand:wikidata": "Q18631073",
 			"brand:wikipedia": "de:Stadtsparkasse Bad Honnef",
-			"name": "Stadtsparkasse Bad Honnef"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Bad Honnef"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Bad Pyrmont": {
@@ -4686,7 +5031,8 @@
 			"brand": "Stadtsparkasse Bad Pyrmont",
 			"brand:wikidata": "Q1586261",
 			"brand:wikipedia": "de:Stadtsparkasse Bad Pyrmont",
-			"name": "Stadtsparkasse Bad Pyrmont"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Bad Pyrmont"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Bad Sachsa": {
@@ -4699,7 +5045,8 @@
 			"brand": "Stadtsparkasse Bad Sachsa",
 			"brand:wikidata": "Q1310761",
 			"brand:wikipedia": "de:Stadtsparkasse Bad Sachsa",
-			"name": "Stadtsparkasse Bad Sachsa"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Bad Sachsa"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Barsinghausen": {
@@ -4712,7 +5059,8 @@
 			"brand": "Stadtsparkasse Barsinghausen",
 			"brand:wikidata": "Q2328088",
 			"brand:wikipedia": "de:Stadtsparkasse Barsinghausen",
-			"name": "Stadtsparkasse Barsinghausen"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Barsinghausen"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Blomberg/Lippe": {
@@ -4725,7 +5073,8 @@
 			"brand": "Stadtsparkasse Blomberg/Lippe",
 			"brand:wikidata": "Q1717096",
 			"brand:wikipedia": "de:Stadtsparkasse Blomberg/Lippe",
-			"name": "Stadtsparkasse Blomberg/Lippe"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Blomberg/Lippe"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Bocholt": {
@@ -4738,7 +5087,8 @@
 			"brand": "Stadtsparkasse Bocholt",
 			"brand:wikidata": "Q1310641",
 			"brand:wikipedia": "de:Stadtsparkasse Bocholt",
-			"name": "Stadtsparkasse Bocholt"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Bocholt"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Borken": {
@@ -4751,7 +5101,8 @@
 			"brand": "Stadtsparkasse Borken",
 			"brand:wikidata": "Q2328091",
 			"brand:wikipedia": "de:Stadtsparkasse Borken",
-			"name": "Stadtsparkasse Borken"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Borken"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Burgdorf": {
@@ -4764,7 +5115,8 @@
 			"brand": "Stadtsparkasse Burgdorf",
 			"brand:wikidata": "Q1752351",
 			"brand:wikipedia": "de:Stadtsparkasse Burgdorf",
-			"name": "Stadtsparkasse Burgdorf"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Burgdorf"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Cuxhaven": {
@@ -4777,7 +5129,8 @@
 			"brand": "Stadtsparkasse Cuxhaven",
 			"brand:wikidata": "Q1600996",
 			"brand:wikipedia": "de:Stadtsparkasse Cuxhaven",
-			"name": "Stadtsparkasse Cuxhaven"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Cuxhaven"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Delbrück": {
@@ -4790,7 +5143,8 @@
 			"brand": "Stadtsparkasse Delbrück",
 			"brand:wikidata": "Q18631074",
 			"brand:wikipedia": "de:Stadtsparkasse Delbrück",
-			"name": "Stadtsparkasse Delbrück"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Delbrück"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Dessau": {
@@ -4803,7 +5157,8 @@
 			"brand": "Stadtsparkasse Dessau",
 			"brand:wikidata": "Q56070848",
 			"brand:wikipedia": "de:Stadtsparkasse Dessau",
-			"name": "Stadtsparkasse Dessau"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Dessau"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Düsseldorf": {
@@ -4816,7 +5171,8 @@
 			"brand": "Stadtsparkasse Düsseldorf",
 			"brand:wikidata": "Q1423788",
 			"brand:wikipedia": "de:Stadtsparkasse Düsseldorf",
-			"name": "Stadtsparkasse Düsseldorf"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Düsseldorf"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Grebenstein": {
@@ -4829,7 +5185,8 @@
 			"brand": "Stadtsparkasse Grebenstein",
 			"brand:wikidata": "Q15130149",
 			"brand:wikipedia": "de:Stadtsparkasse Grebenstein",
-			"name": "Stadtsparkasse Grebenstein"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Grebenstein"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Haltern am See": {
@@ -4842,7 +5199,8 @@
 			"brand": "Stadtsparkasse Haltern am See",
 			"brand:wikidata": "Q18631076",
 			"brand:wikipedia": "de:Stadtsparkasse Haltern am See",
-			"name": "Stadtsparkasse Haltern am See"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Haltern am See"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Kaiserslautern": {
@@ -4855,7 +5213,8 @@
 			"brand": "Stadtsparkasse Kaiserslautern",
 			"brand:wikidata": "Q2328109",
 			"brand:wikipedia": "de:Stadtsparkasse Kaiserslautern",
-			"name": "Stadtsparkasse Kaiserslautern"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Kaiserslautern"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Lengerich": {
@@ -4868,7 +5227,8 @@
 			"brand": "Stadtsparkasse Lengerich",
 			"brand:wikidata": "Q18631079",
 			"brand:wikipedia": "de:Stadtsparkasse Lengerich",
-			"name": "Stadtsparkasse Lengerich"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Lengerich"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Magdeburg": {
@@ -4881,7 +5241,8 @@
 			"brand": "Stadtsparkasse Magdeburg",
 			"brand:wikidata": "Q56070793",
 			"brand:wikipedia": "de:Stadtsparkasse Magdeburg",
-			"name": "Stadtsparkasse Magdeburg"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Magdeburg"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Mönchengladbach": {
@@ -4894,7 +5255,8 @@
 			"brand": "Stadtsparkasse Mönchengladbach",
 			"brand:wikidata": "Q18413199",
 			"brand:wikipedia": "de:Stadtsparkasse Mönchengladbach",
-			"name": "Stadtsparkasse Mönchengladbach"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Mönchengladbach"
 		}
 	},
 	"amenity/bank|Stadtsparkasse München": {
@@ -4907,7 +5269,8 @@
 			"brand": "Stadtsparkasse München",
 			"brand:wikidata": "Q1438593",
 			"brand:wikipedia": "de:Stadtsparkasse München",
-			"name": "Stadtsparkasse München"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse München"
 		},
 		"match": [
 			"amenity/bank|Sparkasse München"
@@ -4923,7 +5286,8 @@
 			"brand": "Stadtsparkasse Oberhausen",
 			"brand:wikidata": "Q15130152",
 			"brand:wikipedia": "de:Stadtsparkasse Oberhausen",
-			"name": "Stadtsparkasse Oberhausen"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Oberhausen"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Rahden": {
@@ -4936,7 +5300,8 @@
 			"brand": "Stadtsparkasse Rahden",
 			"brand:wikidata": "Q18631083",
 			"brand:wikipedia": "de:Stadtsparkasse Rahden",
-			"name": "Stadtsparkasse Rahden"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Rahden"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Remscheid": {
@@ -4949,7 +5314,8 @@
 			"brand": "Stadtsparkasse Remscheid",
 			"brand:wikidata": "Q2328112",
 			"brand:wikipedia": "de:Stadtsparkasse Remscheid",
-			"name": "Stadtsparkasse Remscheid"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Remscheid"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Rheine": {
@@ -4962,7 +5328,8 @@
 			"brand": "Stadtsparkasse Rheine",
 			"brand:wikidata": "Q18631084",
 			"brand:wikipedia": "de:Stadtsparkasse Rheine",
-			"name": "Stadtsparkasse Rheine"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Rheine"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Schmallenberg": {
@@ -4975,7 +5342,8 @@
 			"brand": "Stadtsparkasse Schmallenberg",
 			"brand:wikidata": "Q15130153",
 			"brand:wikipedia": "de:Stadtsparkasse Schmallenberg",
-			"name": "Stadtsparkasse Schmallenberg"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Schmallenberg"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Schwalmstadt": {
@@ -4988,7 +5356,8 @@
 			"brand": "Stadtsparkasse Schwalmstadt",
 			"brand:wikidata": "Q15130155",
 			"brand:wikipedia": "de:Stadtsparkasse Schwalmstadt",
-			"name": "Stadtsparkasse Schwalmstadt"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Schwalmstadt"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Schwedt": {
@@ -5001,7 +5370,8 @@
 			"brand": "Stadtsparkasse Schwedt",
 			"brand:wikidata": "Q19964021",
 			"brand:wikipedia": "de:Stadtsparkasse Schwedt",
-			"name": "Stadtsparkasse Schwedt"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Schwedt"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Sprockhövel": {
@@ -5014,7 +5384,8 @@
 			"brand": "Stadtsparkasse Sprockhövel",
 			"brand:wikidata": "Q1752273",
 			"brand:wikipedia": "de:Stadtsparkasse Sprockhövel",
-			"name": "Stadtsparkasse Sprockhövel"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Sprockhövel"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Versmold": {
@@ -5027,7 +5398,8 @@
 			"brand": "Stadtsparkasse Versmold",
 			"brand:wikidata": "Q18631086",
 			"brand:wikipedia": "de:Stadtsparkasse Versmold",
-			"name": "Stadtsparkasse Versmold"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Versmold"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Wedel": {
@@ -5040,7 +5412,8 @@
 			"brand": "Stadtsparkasse Wedel",
 			"brand:wikidata": "Q2328122",
 			"brand:wikipedia": "de:Stadtsparkasse Wedel",
-			"name": "Stadtsparkasse Wedel"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Wedel"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Wermelskirchen": {
@@ -5053,7 +5426,8 @@
 			"brand": "Stadtsparkasse Wermelskirchen",
 			"brand:wikidata": "Q2328127",
 			"brand:wikipedia": "de:Stadtsparkasse Wermelskirchen",
-			"name": "Stadtsparkasse Wermelskirchen"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Wermelskirchen"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Wermelskirchen"
@@ -5069,7 +5443,8 @@
 			"brand": "Stadtsparkasse Wunstorf",
 			"brand:wikidata": "Q2328132",
 			"brand:wikipedia": "de:Stadtsparkasse Wunstorf",
-			"name": "Stadtsparkasse Wunstorf"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Wunstorf"
 		}
 	},
 	"amenity/bank|Stadtsparkasse Wuppertal": {
@@ -5082,7 +5457,8 @@
 			"brand": "Stadtsparkasse Wuppertal",
 			"brand:wikidata": "Q1639934",
 			"brand:wikipedia": "de:Stadtsparkasse Wuppertal",
-			"name": "Stadtsparkasse Wuppertal"
+			"name": "Sparkasse",
+			"official_name": "Stadtsparkasse Wuppertal"
 		}
 	},
 	"amenity/bank|Städtische Sparkasse Offenbach am Main": {
@@ -5095,7 +5471,8 @@
 			"brand": "Städtische Sparkasse Offenbach am Main",
 			"brand:wikidata": "Q18334351",
 			"brand:wikipedia": "de:Städtische Sparkasse Offenbach am Main",
-			"name": "Städtische Sparkasse Offenbach am Main"
+			"name": "Sparkasse",
+			"official_name": "Städtische Sparkasse Offenbach am Main"
 		}
 	},
 	"amenity/bank|Städtische Sparkasse zu Schwelm": {
@@ -5108,7 +5485,8 @@
 			"brand": "Städtische Sparkasse zu Schwelm",
 			"brand:wikidata": "Q18631341",
 			"brand:wikipedia": "de:Städtische Sparkasse zu Schwelm",
-			"name": "Städtische Sparkasse zu Schwelm"
+			"name": "Sparkasse",
+			"official_name": "Städtische Sparkasse zu Schwelm"
 		}
 	},
 	"amenity/bank|Taunus Sparkasse": {
@@ -5121,7 +5499,8 @@
 			"brand": "Taunus Sparkasse",
 			"brand:wikidata": "Q1737542",
 			"brand:wikipedia": "de:Taunus Sparkasse",
-			"name": "Taunus Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Taunus Sparkasse"
 		}
 	},
 	"amenity/bank|Verbandssparkasse Goch-Kevelaer-Weeze": {
@@ -5134,7 +5513,8 @@
 			"brand": "Verbandssparkasse Goch-Kevelaer-Weeze",
 			"brand:wikidata": "Q1803570",
 			"brand:wikipedia": "de:Verbandssparkasse Goch-Kevelaer-Weeze",
-			"name": "Verbandssparkasse Goch-Kevelaer-Weeze"
+			"name": "Sparkasse",
+			"official_name": "Verbandssparkasse Goch-Kevelaer-Weeze"
 		}
 	},
 	"amenity/bank|Verbundsparkasse Emsdetten-Ochtrup": {
@@ -5147,7 +5527,8 @@
 			"brand": "Verbundsparkasse Emsdetten-Ochtrup",
 			"brand:wikidata": "Q18632340",
 			"brand:wikipedia": "de:Verbundsparkasse Emsdetten-Ochtrup",
-			"name": "Verbundsparkasse Emsdetten-Ochtrup"
+			"name": "Sparkasse",
+			"official_name": "Verbundsparkasse Emsdetten-Ochtrup"
 		}
 	},
 	"amenity/bank|Vereinigte Sparkasse im Märkischen Kreis": {
@@ -5160,7 +5541,8 @@
 			"brand": "Vereinigte Sparkasse im Märkischen Kreis",
 			"brand:wikidata": "Q16321084",
 			"brand:wikipedia": "de:Vereinigte Sparkasse im Märkischen Kreis",
-			"name": "Vereinigte Sparkasse im Märkischen Kreis"
+			"name": "Sparkasse",
+			"official_name": "Vereinigte Sparkasse im Märkischen Kreis"
 		}
 	},
 	"amenity/bank|Vereinigte Sparkassen Eschenbach i.d.OPf. Neustadt a.d.Waldnaab Vohenstrauß": {
@@ -5173,7 +5555,8 @@
 			"brand": "Vereinigte Sparkassen Eschenbach i.d.OPf. Neustadt a.d.Waldnaab Vohenstrauß",
 			"brand:wikidata": "Q2514962",
 			"brand:wikipedia": "de:Vereinigte Sparkassen Eschenbach i.d.OPf. Neustadt a.d.Waldnaab Vohenstrauß",
-			"name": "Vereinigte Sparkassen Eschenbach i.d.OPf. Neustadt a.d.Waldnaab Vohenstrauß"
+			"name": "Sparkasse",
+			"official_name": "Vereinigte Sparkassen Eschenbach i.d.OPf. Neustadt a.d.Waldnaab Vohenstrauß"
 		}
 	},
 	"amenity/bank|Vereinigte Sparkassen Gunzenhausen": {
@@ -5186,7 +5569,8 @@
 			"brand": "Vereinigte Sparkassen Gunzenhausen",
 			"brand:wikidata": "Q2514964",
 			"brand:wikipedia": "de:Vereinigte Sparkassen Gunzenhausen",
-			"name": "Vereinigte Sparkassen Gunzenhausen"
+			"name": "Sparkasse",
+			"official_name": "Vereinigte Sparkassen Gunzenhausen"
 		},
 		"match": [
 			"amenity/bank|Sparkasse Gunzenhausen"
@@ -5202,7 +5586,8 @@
 			"brand": "Wartburg-Sparkasse",
 			"brand:wikidata": "Q2549915",
 			"brand:wikipedia": "de:Wartburg-Sparkasse",
-			"name": "Wartburg-Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Wartburg-Sparkasse"
 		}
 	},
 	"amenity/bank|Weser-Elbe-Sparkasse": {
@@ -5215,7 +5600,8 @@
 			"brand": "Weser-Elbe-Sparkasse",
 			"brand:wikidata": "Q1787820",
 			"brand:wikipedia": "de:Weser-Elbe-Sparkasse",
-			"name": "Weser-Elbe-Sparkasse"
+			"name": "Sparkasse",
+			"official_name": "Weser-Elbe-Sparkasse"
 		}
 	}
 }

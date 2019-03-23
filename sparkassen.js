@@ -94,7 +94,8 @@ function beautify(json) {
         brand: item.title,
         "brand:wikidata": item.id,
         "brand:wikipedia": item.wikipedia,
-        name: item.title
+        name: 'Sparkasse',
+        "official_name": item.title
       }
     };
     if (typeof item.aliases !== 'undefined') {
